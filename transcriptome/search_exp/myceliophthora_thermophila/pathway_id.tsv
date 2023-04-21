@@ -1,0 +1,128 @@
+mtm01100	Metabolic pathways
+mtm01110	Biosynthesis of secondary metabolites
+mtm01200	Carbon metabolism
+mtm01210	2-Oxocarboxylic acid metabolism
+mtm01212	Fatty acid metabolism
+mtm01230	Biosynthesis of amino acids
+mtm01232	Nucleotide metabolism
+mtm01250	Biosynthesis of nucleotide sugars
+mtm01240	Biosynthesis of cofactors
+mtm00010	Glycolysis / Gluconeogenesis
+mtm00020	Citrate cycle (TCA cycle)
+mtm00030	Pentose phosphate pathway
+mtm00040	Pentose and glucuronate interconversions
+mtm00051	Fructose and mannose metabolism
+mtm00052	Galactose metabolism
+mtm00053	Ascorbate and aldarate metabolism
+mtm00500	Starch and sucrose metabolism
+mtm00520	Amino sugar and nucleotide sugar metabolism
+mtm00620	Pyruvate metabolism
+mtm00630	Glyoxylate and dicarboxylate metabolism
+mtm00640	Propanoate metabolism
+mtm00650	Butanoate metabolism
+mtm00660	C5-Branched dibasic acid metabolism
+mtm00562	Inositol phosphate metabolism
+mtm00190	Oxidative phosphorylation
+mtm00680	Methane metabolism
+mtm00910	Nitrogen metabolism
+mtm00920	Sulfur metabolism
+mtm00061	Fatty acid biosynthesis
+mtm00062	Fatty acid elongation
+mtm00071	Fatty acid degradation
+mtm00073	Cutin, suberine and wax biosynthesis
+mtm00100	Steroid biosynthesis
+mtm00561	Glycerolipid metabolism
+mtm00564	Glycerophospholipid metabolism
+mtm00565	Ether lipid metabolism
+mtm00600	Sphingolipid metabolism
+mtm00590	Arachidonic acid metabolism
+mtm00591	Linoleic acid metabolism
+mtm00592	alpha-Linolenic acid metabolism
+mtm01040	Biosynthesis of unsaturated fatty acids
+mtm00230	Purine metabolism
+mtm00240	Pyrimidine metabolism
+mtm00250	Alanine, aspartate and glutamate metabolism
+mtm00260	Glycine, serine and threonine metabolism
+mtm00270	Cysteine and methionine metabolism
+mtm00280	Valine, leucine and isoleucine degradation
+mtm00290	Valine, leucine and isoleucine biosynthesis
+mtm00300	Lysine biosynthesis
+mtm00310	Lysine degradation
+mtm00220	Arginine biosynthesis
+mtm00330	Arginine and proline metabolism
+mtm00340	Histidine metabolism
+mtm00350	Tyrosine metabolism
+mtm00360	Phenylalanine metabolism
+mtm00380	Tryptophan metabolism
+mtm00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+mtm00410	beta-Alanine metabolism
+mtm00430	Taurine and hypotaurine metabolism
+mtm00440	Phosphonate and phosphinate metabolism
+mtm00450	Selenocompound metabolism
+mtm00460	Cyanoamino acid metabolism
+mtm00470	D-Amino acid metabolism
+mtm00480	Glutathione metabolism
+mtm00510	N-Glycan biosynthesis
+mtm00513	Various types of N-glycan biosynthesis
+mtm00515	Mannose type O-glycan biosynthesis
+mtm00514	Other types of O-glycan biosynthesis
+mtm00531	Glycosaminoglycan degradation
+mtm00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+mtm00603	Glycosphingolipid biosynthesis - globo and isoglobo series
+mtm00604	Glycosphingolipid biosynthesis - ganglio series
+mtm00511	Other glycan degradation
+mtm00730	Thiamine metabolism
+mtm00740	Riboflavin metabolism
+mtm00750	Vitamin B6 metabolism
+mtm00760	Nicotinate and nicotinamide metabolism
+mtm00770	Pantothenate and CoA biosynthesis
+mtm00780	Biotin metabolism
+mtm00785	Lipoic acid metabolism
+mtm00790	Folate biosynthesis
+mtm00670	One carbon pool by folate
+mtm00860	Porphyrin metabolism
+mtm00130	Ubiquinone and other terpenoid-quinone biosynthesis
+mtm00900	Terpenoid backbone biosynthesis
+mtm00909	Sesquiterpenoid and triterpenoid biosynthesis
+mtm00232	Caffeine metabolism
+mtm00311	Penicillin and cephalosporin biosynthesis
+mtm00332	Carbapenem biosynthesis
+mtm00261	Monobactam biosynthesis
+mtm00254	Aflatoxin biosynthesis
+mtm00999	Biosynthesis of various plant secondary metabolites
+mtm00791	Atrazine degradation
+mtm03020	RNA polymerase
+mtm03022	Basal transcription factors
+mtm03040	Spliceosome
+mtm03010	Ribosome
+mtm00970	Aminoacyl-tRNA biosynthesis
+mtm03013	Nucleocytoplasmic transport
+mtm03015	mRNA surveillance pathway
+mtm03008	Ribosome biogenesis in eukaryotes
+mtm03060	Protein export
+mtm04141	Protein processing in endoplasmic reticulum
+mtm04130	SNARE interactions in vesicular transport
+mtm04120	Ubiquitin mediated proteolysis
+mtm04122	Sulfur relay system
+mtm03050	Proteasome
+mtm03018	RNA degradation
+mtm03030	DNA replication
+mtm03410	Base excision repair
+mtm03420	Nucleotide excision repair
+mtm03430	Mismatch repair
+mtm03440	Homologous recombination
+mtm03450	Non-homologous end-joining
+mtm03250	Viral life cycle - HIV-1
+mtm02010	ABC transporters
+mtm04011	MAPK signaling pathway - yeast
+mtm04070	Phosphatidylinositol signaling system
+mtm04144	Endocytosis
+mtm04145	Phagosome
+mtm04146	Peroxisome
+mtm04138	Autophagy - yeast
+mtm04136	Autophagy - other
+mtm04139	Mitophagy - yeast
+mtm04111	Cell cycle - yeast
+mtm04113	Meiosis - yeast
+mtm04814	Motor proteins
+mtm01501	beta-Lactam resistance
