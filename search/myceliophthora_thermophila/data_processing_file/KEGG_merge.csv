@@ -1,0 +1,2097 @@
+Gene,KEGG_definition,KEGG
+MYCTH_100519,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system,mtm00562;mtm01100;mtm04070
+MYCTH_100654,Autophagy - yeast;Protein processing in endoplasmic reticulum,mtm04138;mtm04141
+MYCTH_101224,Fatty acid degradation;Tryptophan metabolism,mtm00071;mtm00380
+MYCTH_101411,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_101588,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system;Autophagy - yeast,mtm00562;mtm01100;mtm04070;mtm04138
+MYCTH_102290,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_102322,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_102522,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_103080,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_103330,Arginine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00220;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_103702,Glycolysis / Gluconeogenesis;Galactose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00010;mtm00052;mtm01100;mtm01110
+MYCTH_104059,Basal transcription factors;Nucleotide excision repair,mtm03022;mtm03420
+MYCTH_104076,Glycerophospholipid metabolism;Biosynthesis of secondary metabolites,mtm00564;mtm01110
+MYCTH_104628,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_104717,ABC transporters,mtm02010
+MYCTH_104936,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_105063,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_105405,Ribosome,mtm03010
+MYCTH_105650,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_105822,Spliceosome,mtm03040
+MYCTH_105847,"Fatty acid degradation;Valine, leucine and isoleucine degradation;Lysine degradation;Tryptophan metabolism;Pyruvate metabolism;Glyoxylate and dicarboxylate metabolism;Propanoate metabolism;Butanoate metabolism;Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Fatty acid metabolism",mtm00071;mtm00280;mtm00310;mtm00380;mtm00620;mtm00630;mtm00640;mtm00650;mtm00900;mtm01100;mtm01110;mtm01200;mtm01212
+MYCTH_106388,Nicotinate and nicotinamide metabolism;Metabolic pathways,mtm00760;mtm01100
+MYCTH_106950,Spliceosome,mtm03040
+MYCTH_107255,Nucleotide excision repair;Ubiquitin mediated proteolysis,mtm03420;mtm04120
+MYCTH_107891,Spliceosome;Ubiquitin mediated proteolysis,mtm03040;mtm04120
+MYCTH_107972,Spliceosome,mtm03040
+MYCTH_108115,"Fatty acid degradation;Valine, leucine and isoleucine degradation;alpha-Linolenic acid metabolism;Biosynthesis of unsaturated fatty acids;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism;Peroxisome",mtm00071;mtm00280;mtm00592;mtm01040;mtm01100;mtm01110;mtm01212;mtm04146
+MYCTH_108304,Proteasome,mtm03050
+MYCTH_108565,SNARE interactions in vesicular transport,mtm04130
+MYCTH_108924,Meiosis - yeast,mtm04113
+MYCTH_109373,Nucleotide excision repair,mtm03420
+MYCTH_109533,Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00630;mtm01100;mtm01110
+MYCTH_109566,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_109620,Biosynthesis of unsaturated fatty acids;Metabolic pathways;Fatty acid metabolism,mtm01040;mtm01100;mtm01212
+MYCTH_109638,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_109876,Proteasome;Homologous recombination,mtm03050;mtm03440
+MYCTH_10995,Nicotinate and nicotinamide metabolism;Metabolic pathways,mtm00760;mtm01100
+MYCTH_109978,"Valine, leucine and isoleucine biosynthesis;Pyruvate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00290;mtm00620;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_110187,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_110317,Glycolysis / Gluconeogenesis;Cysteine and methionine metabolism;Pyruvate metabolism;Propanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00010;mtm00270;mtm00620;mtm00640;mtm01100;mtm01110
+MYCTH_110536,RNA polymerase,mtm03020
+MYCTH_110670,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_110817,Ribosome,mtm03010
+MYCTH_110871,Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00630;mtm01100;mtm01110;mtm01200
+MYCTH_110931,Glyoxylate and dicarboxylate metabolism;Methane metabolism;Metabolic pathways;Carbon metabolism,mtm00630;mtm00680;mtm01100;mtm01200
+MYCTH_111030,Nitrogen metabolism;Metabolic pathways,mtm00910;mtm01100
+MYCTH_111214,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_111314,Ascorbate and aldarate metabolism;Inositol phosphate metabolism;Metabolic pathways,mtm00053;mtm00562;mtm01100
+MYCTH_111331,"Fatty acid degradation;Valine, leucine and isoleucine degradation;alpha-Linolenic acid metabolism;Biosynthesis of unsaturated fatty acids;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism;Peroxisome",mtm00071;mtm00280;mtm00592;mtm01040;mtm01100;mtm01110;mtm01212;mtm04146
+MYCTH_111372,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_111425,Ribosome,mtm03010
+MYCTH_111770,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_111814,Phosphonate and phosphinate metabolism;Glycerophospholipid metabolism;Metabolic pathways,mtm00440;mtm00564;mtm01100
+MYCTH_111934,"Valine, leucine and isoleucine degradation;Butanoate metabolism;Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00280;mtm00650;mtm00900;mtm01100;mtm01110
+MYCTH_112014,Glycolysis / Gluconeogenesis;Pentose and glucuronate interconversions;Ascorbate and aldarate metabolism;Glycerolipid metabolism;Pyruvate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00010;mtm00040;mtm00053;mtm00561;mtm00620;mtm01100;mtm01110;mtm01240
+MYCTH_112121,Glycolysis / Gluconeogenesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00010;mtm01100;mtm01110
+MYCTH_112159,Steroid biosynthesis;Sesquiterpenoid and triterpenoid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm00909;mtm01100;mtm01110
+MYCTH_112204,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_112227,Pentose phosphate pathway;Metabolic pathways,mtm00030;mtm01100
+MYCTH_112306,Cysteine and methionine metabolism;Selenocompound metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00270;mtm00450;mtm01100;mtm01110;mtm01230
+MYCTH_112329,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_112442,Proteasome,mtm03050
+MYCTH_112491,Meiosis - yeast,mtm04113
+MYCTH_112612,Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm01100;mtm01110;mtm01240
+MYCTH_112686,Spliceosome;Protein processing in endoplasmic reticulum;Endocytosis,mtm03040;mtm04141;mtm04144
+MYCTH_112916,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_112996,Tyrosine metabolism;Phenylalanine metabolism;Tryptophan metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm00360;mtm00380;mtm01100;mtm01110
+MYCTH_113236,Glycerolipid metabolism;Metabolic pathways,mtm00561;mtm01100
+MYCTH_113450,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_113886,Autophagy - yeast;Endocytosis,mtm04138;mtm04144
+MYCTH_114008,Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00900;mtm01100;mtm01110
+MYCTH_114166,Base excision repair,mtm03410
+MYCTH_115052,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_115096,Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00900;mtm01100;mtm01110
+MYCTH_115624,Homologous recombination,mtm03440
+MYCTH_115802,MAPK signaling pathway - yeast,mtm04011
+MYCTH_115968,Cyanoamino acid metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00460;mtm00500;mtm01100;mtm01110
+MYCTH_116006,mRNA surveillance pathway,mtm03015
+MYCTH_116020,Ribosome,mtm03010
+MYCTH_116157,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_116322,RNA degradation,mtm03018
+MYCTH_116363,Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00790;mtm01100;mtm01240
+MYCTH_117681,Ribosome,mtm03010
+MYCTH_122939,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_140260,Starch and sucrose metabolism;Metabolic pathways;MAPK signaling pathway - yeast,mtm00500;mtm01100;mtm04011
+MYCTH_16224,mRNA surveillance pathway,mtm03015
+MYCTH_2019108,Base excision repair,mtm03410
+MYCTH_2027194,Base excision repair,mtm03410
+MYCTH_2029356,Tyrosine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm01100;mtm01110
+MYCTH_2029952,Riboflavin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00740;mtm01100;mtm01110;mtm01240
+MYCTH_2032939,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2033977,Ribosome;Ubiquitin mediated proteolysis,mtm03010;mtm04120
+MYCTH_2035701,RNA polymerase,mtm03020
+MYCTH_2036258,RNA polymerase,mtm03020
+MYCTH_2039818,Ribosome,mtm03010
+MYCTH_2046198,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2046354,Metabolic pathways,mtm01100
+MYCTH_2048131,Cysteine and methionine metabolism;Metabolic pathways,mtm00270;mtm01100
+MYCTH_2049934,Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00790;mtm01100;mtm01240
+MYCTH_2050031,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2050348,Biosynthesis of secondary metabolites;RNA degradation;Spliceosome,mtm01110;mtm03018;mtm03040
+MYCTH_2050660,Proteasome,mtm03050
+MYCTH_2050929,Nicotinate and nicotinamide metabolism,mtm00760
+MYCTH_2050951,Sulfur metabolism;Metabolic pathways,mtm00920;mtm01100
+MYCTH_2051026,Spliceosome,mtm03040
+MYCTH_2051636,Arginine and proline metabolism;Metabolic pathways,mtm00330;mtm01100
+MYCTH_2051705,SNARE interactions in vesicular transport,mtm04130
+MYCTH_2053677,Peroxisome,mtm04146
+MYCTH_2054145,Cell cycle - yeast;Meiosis - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04113;mtm04120
+MYCTH_2054219,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2054249,Pentose phosphate pathway;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00030;mtm01100;mtm01110;mtm01200
+MYCTH_2054491,Endocytosis,mtm04144
+MYCTH_2054541,Spliceosome,mtm03040
+MYCTH_2054613,Pantothenate and CoA biosynthesis,mtm00770
+MYCTH_2055144,mRNA surveillance pathway;Spliceosome,mtm03015;mtm03040
+MYCTH_2055659,Proteasome,mtm03050
+MYCTH_2057284,Spliceosome,mtm03040
+MYCTH_2057433,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2057861,Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors;Ribosome biogenesis in eukaryotes,mtm00230;mtm01100;mtm01110;mtm01240;mtm03008
+MYCTH_2057906,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_2057978,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2058064,Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00130;mtm01100;mtm01110
+MYCTH_2058620,Ribosome,mtm03010
+MYCTH_2059227,Ribosome,mtm03010
+MYCTH_2059229,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2059579,Cyanoamino acid metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00460;mtm00500;mtm01100;mtm01110
+MYCTH_2059795,Spliceosome,mtm03040
+MYCTH_2060641,Arginine and proline metabolism;Metabolic pathways,mtm00330;mtm01100
+MYCTH_2060757,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2061764,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2061829,DNA replication,mtm03030
+MYCTH_2062719,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system,mtm00562;mtm01100;mtm04070
+MYCTH_2062826,mRNA surveillance pathway;Spliceosome,mtm03015;mtm03040
+MYCTH_2062887,Ribosome,mtm03010
+MYCTH_2063277,Endocytosis,mtm04144
+MYCTH_2063591,Tyrosine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm01100;mtm01110
+MYCTH_2063758,Endocytosis,mtm04144
+MYCTH_2064349,Ribosome,mtm03010
+MYCTH_2064932,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_2066239,Peroxisome,mtm04146
+MYCTH_2066622,Phagosome,mtm04145
+MYCTH_2066697,Glycolysis / Gluconeogenesis;Purine metabolism;Pyruvate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids;Biosynthesis of cofactors,mtm00010;mtm00230;mtm00620;mtm01100;mtm01110;mtm01200;mtm01230;mtm01240
+MYCTH_2066939,Tyrosine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm01100;mtm01110
+MYCTH_2067166,Cell cycle - yeast;Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04111;mtm04120;mtm04141
+MYCTH_2067418,Inositol phosphate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Phosphatidylinositol signaling system,mtm00562;mtm01100;mtm01110;mtm04070
+MYCTH_2067613,"Glycine, serine and threonine metabolism;Cyanoamino acid metabolism;Glyoxylate and dicarboxylate metabolism;One carbon pool by folate;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids;Biosynthesis of cofactors",mtm00260;mtm00460;mtm00630;mtm00670;mtm00680;mtm01100;mtm01110;mtm01200;mtm01230;mtm01240
+MYCTH_2067725,Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm01100;mtm01110;mtm01240
+MYCTH_2067869,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2068493,Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00790;mtm01100;mtm01240
+MYCTH_2069347,N-Glycan biosynthesis;Metabolic pathways,mtm00510;mtm01100
+MYCTH_2069574,Histidine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00340;mtm01100;mtm01110;mtm01230
+MYCTH_2069839,Atrazine degradation,mtm00791
+MYCTH_2071028,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2071301,MAPK signaling pathway - yeast;Cell cycle - yeast,mtm04011;mtm04111
+MYCTH_2071423,MAPK signaling pathway - yeast;Cell cycle - yeast,mtm04011;mtm04111
+MYCTH_2073127,Protein export;Protein processing in endoplasmic reticulum;Phagosome,mtm03060;mtm04141;mtm04145
+MYCTH_2073197,Phagosome,mtm04145
+MYCTH_2073265,Autophagy - yeast,mtm04138
+MYCTH_2073591,mRNA surveillance pathway;Cell cycle - yeast;Meiosis - yeast;Autophagy - other;Autophagy - yeast,mtm03015;mtm04111;mtm04113;mtm04136;mtm04138
+MYCTH_2073656,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2074210,Histidine metabolism;Metabolic pathways,mtm00340;mtm01100
+MYCTH_2074571,Phagosome,mtm04145
+MYCTH_2074876,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2074905,Pentose phosphate pathway;Glutathione metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00030;mtm00480;mtm01100;mtm01110;mtm01200
+MYCTH_2075489,Ribosome,mtm03010
+MYCTH_2075738,Folate biosynthesis,mtm00790
+MYCTH_2075799,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2075999,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2076088,Riboflavin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00740;mtm01100;mtm01110;mtm01240
+MYCTH_2076503,Proteasome,mtm03050
+MYCTH_2077959,Cell cycle - yeast,mtm04111
+MYCTH_2078031,Ribosome,mtm03010
+MYCTH_2078128,Purine metabolism;One carbon pool by folate;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00230;mtm00670;mtm01100;mtm01110
+MYCTH_2079764,N-Glycan biosynthesis,mtm00510
+MYCTH_2079768,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2079774,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2079848,mRNA surveillance pathway,mtm03015
+MYCTH_2080075,Sphingolipid metabolism;Metabolic pathways;Autophagy - yeast,mtm00600;mtm01100;mtm04138
+MYCTH_2080102,mRNA surveillance pathway;Cell cycle - yeast;Meiosis - yeast,mtm03015;mtm04111;mtm04113
+MYCTH_2080506,"Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00260;mtm00270;mtm01100;mtm01110;mtm01230
+MYCTH_2080603,Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00020;mtm00620;mtm01100;mtm01110;mtm01200
+MYCTH_2080800,Cell cycle - yeast;Meiosis - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04113;mtm04120
+MYCTH_2081074,RNA degradation,mtm03018
+MYCTH_2081891,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2082262,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_2082283,Glycolysis / Gluconeogenesis;Galactose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00010;mtm00052;mtm01100;mtm01110
+MYCTH_2082917,Citrate cycle (TCA cycle);Lysine degradation;Tryptophan metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm00310;mtm00380;mtm01100;mtm01110;mtm01200
+MYCTH_2084007,Endocytosis,mtm04144
+MYCTH_2084160,mRNA surveillance pathway,mtm03015
+MYCTH_2084256,Proteasome,mtm03050
+MYCTH_2084531,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2084627,Proteasome,mtm03050
+MYCTH_2085059,"Valine, leucine and isoleucine biosynthesis;Butanoate metabolism;C5-Branched dibasic acid metabolism;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00290;mtm00650;mtm00660;mtm00770;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2085895,Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00770;mtm01100;mtm01240
+MYCTH_2086155,Lysine degradation;Metabolic pathways,mtm00310;mtm01100
+MYCTH_2086212,Basal transcription factors,mtm03022
+MYCTH_2086391,RNA degradation,mtm03018
+MYCTH_2086451,Mismatch repair,mtm03430
+MYCTH_2086470,Ribosome,mtm03010
+MYCTH_2086777,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2087100,Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00230;mtm01100;mtm01110
+MYCTH_2087474,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2087807,Galactose metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00052;mtm00500;mtm01100;mtm01110
+MYCTH_2088086,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2088191,Endocytosis,mtm04144
+MYCTH_2088290,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2088454,Lysine biosynthesis;Lysine degradation;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00300;mtm00310;mtm01100;mtm01110;mtm01230
+MYCTH_2088473,Ribosome,mtm03010
+MYCTH_2088816,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2088876,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2088965,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2090056,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2090548,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2090554,"Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Nitrogen metabolism;Metabolic pathways",mtm00220;mtm00250;mtm00910;mtm01100
+MYCTH_2090577,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2090680,DNA replication,mtm03030
+MYCTH_2090897,Glycerolipid metabolism;Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00561;mtm00564;mtm01100;mtm01110
+MYCTH_2091001,Ribosome,mtm03010
+MYCTH_2091453,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2091473,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2091486,Glyoxylate and dicarboxylate metabolism;Metabolic pathways,mtm00630;mtm01100
+MYCTH_2091689,Ribosome,mtm03010
+MYCTH_2092086,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2092438,Spliceosome,mtm03040
+MYCTH_2092688,"Valine, leucine and isoleucine degradation;Butanoate metabolism;Metabolic pathways",mtm00280;mtm00650;mtm01100
+MYCTH_2093728,Endocytosis;Phagosome,mtm04144;mtm04145
+MYCTH_2093808,Peroxisome,mtm04146
+MYCTH_2094032,Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00564;mtm01100;mtm01110
+MYCTH_2094324,Other glycan degradation,mtm00511
+MYCTH_2094824,Linoleic acid metabolism,mtm00591
+MYCTH_2095122,Sphingolipid metabolism;Metabolic pathways;Autophagy - yeast,mtm00600;mtm01100;mtm04138
+MYCTH_2095260,Proteasome,mtm03050
+MYCTH_2095291,Cysteine and methionine metabolism;Metabolic pathways,mtm00270;mtm01100
+MYCTH_2095451,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2095610,MAPK signaling pathway - yeast;Cell cycle - yeast,mtm04011;mtm04111
+MYCTH_2095744,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2095925,Proteasome,mtm03050
+MYCTH_2096067,RNA degradation,mtm03018
+MYCTH_2096092,Glycerophospholipid metabolism;Ether lipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Endocytosis,mtm00564;mtm00565;mtm01100;mtm01110;mtm04144
+MYCTH_2096317,Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00130;mtm01100;mtm01110;mtm01240
+MYCTH_2096341,Ribosome,mtm03010
+MYCTH_2096434,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2096690,Peroxisome,mtm04146
+MYCTH_2097501,Glycolysis / Gluconeogenesis;Pyruvate metabolism;Glyoxylate and dicarboxylate metabolism;Propanoate metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00620;mtm00630;mtm00640;mtm00680;mtm01100;mtm01110;mtm01200
+MYCTH_2097570,RNA degradation,mtm03018
+MYCTH_2097810,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2106248,Various types of N-glycan biosynthesis;Metabolic pathways,mtm00513;mtm01100
+MYCTH_2106260,ABC transporters,mtm02010
+MYCTH_2106437,Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00230;mtm01100;mtm01110
+MYCTH_2106821,Basal transcription factors;Nucleotide excision repair,mtm03022;mtm03420
+MYCTH_2106971,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2107102,Ribosome,mtm03010
+MYCTH_2107938,Peroxisome,mtm04146
+MYCTH_2109793,Endocytosis,mtm04144
+MYCTH_2109970,Arginine and proline metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00330;mtm01100;mtm01110;mtm01230
+MYCTH_2110542,Pentose and glucuronate interconversions;Ascorbate and aldarate metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00040;mtm00053;mtm00520;mtm01100;mtm01240
+MYCTH_2110729,"Glycine, serine and threonine metabolism;Metabolic pathways",mtm00260;mtm01100
+MYCTH_2110837,Phosphatidylinositol signaling system,mtm04070
+MYCTH_2111167,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2112181,Pyrimidine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00240;mtm01100;mtm01240
+MYCTH_2113541,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2113569,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2114395,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2114926,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2115074,RNA degradation;Spliceosome,mtm03018;mtm03040
+MYCTH_2115123,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2115531,RNA degradation,mtm03018
+MYCTH_2115868,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2116523,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2116689,Basal transcription factors;Nucleotide excision repair,mtm03022;mtm03420
+MYCTH_2116851,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_2116929,Glycerophospholipid metabolism;Metabolic pathways,mtm00564;mtm01100
+MYCTH_2117192,Protein export,mtm03060
+MYCTH_2117807,Tyrosine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm01100;mtm01110
+MYCTH_2117839,mRNA surveillance pathway,mtm03015
+MYCTH_2117988,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2118116,Non-homologous end-joining,mtm03450
+MYCTH_2118284,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_2119125,Ribosome,mtm03010
+MYCTH_2119272,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2119294,DNA replication,mtm03030
+MYCTH_2119403,Biotin metabolism;Metabolic pathways,mtm00780;mtm01100
+MYCTH_2119446,Galactose metabolism;Glycerolipid metabolism;Sphingolipid metabolism;Glycosphingolipid biosynthesis - globo and isoglobo series;Metabolic pathways,mtm00052;mtm00561;mtm00600;mtm00603;mtm01100
+MYCTH_2119593,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2119714,Spliceosome,mtm03040
+MYCTH_2119779,Biotin metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00780;mtm01100;mtm01240
+MYCTH_2120482,Glyoxylate and dicarboxylate metabolism;Metabolic pathways,mtm00630;mtm01100
+MYCTH_2120498,Tyrosine metabolism;Metabolic pathways,mtm00350;mtm01100
+MYCTH_2120854,Galactose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00052;mtm00520;mtm01100
+MYCTH_2121095,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2121306,DNA replication;Base excision repair;Nucleotide excision repair;Mismatch repair;Homologous recombination,mtm03030;mtm03410;mtm03420;mtm03430;mtm03440
+MYCTH_2121561,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2122073,Ribosome,mtm03010
+MYCTH_2122496,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2122605,"Cysteine and methionine metabolism;Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids;Biosynthesis of cofactors",mtm00270;mtm00280;mtm00290;mtm00770;mtm01100;mtm01110;mtm01210;mtm01230;mtm01240
+MYCTH_2123079,Purine metabolism;Monobactam biosynthesis;Selenocompound metabolism;Sulfur metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00230;mtm00261;mtm00450;mtm00920;mtm01100;mtm01110
+MYCTH_2123230,RNA polymerase,mtm03020
+MYCTH_2124177,DNA replication;Nucleotide excision repair;Mismatch repair;Homologous recombination,mtm03030;mtm03420;mtm03430;mtm03440
+MYCTH_2124399,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_2124996,Cysteine and methionine metabolism;Glutathione metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00270;mtm00480;mtm01100;mtm01240
+MYCTH_2125469,Nicotinate and nicotinamide metabolism;Metabolic pathways,mtm00760;mtm01100
+MYCTH_2126152,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2126562,Ribosome,mtm03010
+MYCTH_2126754,Spliceosome,mtm03040
+MYCTH_2127482,Autophagy - yeast;Endocytosis,mtm04138;mtm04144
+MYCTH_2129465,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2132441,MAPK signaling pathway - yeast;Cell cycle - yeast,mtm04011;mtm04111
+MYCTH_2132560,Basal transcription factors,mtm03022
+MYCTH_2132657,Citrate cycle (TCA cycle);Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00020;mtm01100;mtm01110;mtm01200;mtm01210;mtm01230
+MYCTH_2132689,RNA degradation,mtm03018
+MYCTH_2132763,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2132970,Base excision repair,mtm03410
+MYCTH_2133010,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2133056,"Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00290;mtm00770;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2133483,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2133586,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2133968,Proteasome,mtm03050
+MYCTH_2134022,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2134157,Aminoacyl-tRNA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00970;mtm01100;mtm01110;mtm01240
+MYCTH_2134429,Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Phosphatidylinositol signaling system,mtm00564;mtm01100;mtm01110;mtm04070
+MYCTH_2135256,Cysteine and methionine metabolism;Metabolic pathways,mtm00270;mtm01100
+MYCTH_2135843,Metabolic pathways,mtm01100
+MYCTH_2136659,Proteasome,mtm03050
+MYCTH_2136940,Amino sugar and nucleotide sugar metabolism,mtm00520
+MYCTH_2137000,Pyruvate metabolism;Metabolic pathways,mtm00620;mtm01100
+MYCTH_2137175,RNA degradation;Spliceosome,mtm03018;mtm03040
+MYCTH_2137468,Purine metabolism;Nicotinate and nicotinamide metabolism;Metabolic pathways,mtm00230;mtm00760;mtm01100
+MYCTH_2137812,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2138498,Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00790;mtm01100;mtm01240
+MYCTH_2138853,Methane metabolism;Metabolic pathways;Carbon metabolism,mtm00680;mtm01100;mtm01200
+MYCTH_2138861,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2138933,RNA polymerase,mtm03020
+MYCTH_2139555,Base excision repair,mtm03410
+MYCTH_2139585,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2139989,DNA replication;Base excision repair;Nucleotide excision repair,mtm03030;mtm03410;mtm03420
+MYCTH_2140529,Peroxisome,mtm04146
+MYCTH_2140530,Pyrimidine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00240;mtm01100;mtm01240
+MYCTH_2140820,"Glycolysis / Gluconeogenesis;Ascorbate and aldarate metabolism;Fatty acid degradation;Valine, leucine and isoleucine degradation;Lysine degradation;Arginine and proline metabolism;Histidine metabolism;Tryptophan metabolism;beta-Alanine metabolism;Glycerolipid metabolism;Pyruvate metabolism;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors",mtm00010;mtm00053;mtm00071;mtm00280;mtm00310;mtm00330;mtm00340;mtm00380;mtm00410;mtm00561;mtm00620;mtm00770;mtm01100;mtm01110;mtm01240
+MYCTH_2140896,Endocytosis,mtm04144
+MYCTH_2141082,Fatty acid biosynthesis;Fatty acid degradation;Metabolic pathways;Fatty acid metabolism;Peroxisome,mtm00061;mtm00071;mtm01100;mtm01212;mtm04146
+MYCTH_2141262,Pyruvate metabolism;Metabolic pathways,mtm00620;mtm01100
+MYCTH_2141429,Purine metabolism;One carbon pool by folate;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00230;mtm00670;mtm01100;mtm01110
+MYCTH_2141486,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2141524,Endocytosis,mtm04144
+MYCTH_2141686,Cysteine and methionine metabolism;Selenocompound metabolism;Sulfur metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00270;mtm00450;mtm00920;mtm01100;mtm01110;mtm01230
+MYCTH_2142074,Spliceosome,mtm03040
+MYCTH_2142160,Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors;Sulfur relay system,mtm00790;mtm01100;mtm01240;mtm04122
+MYCTH_2142209,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2142826,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2142867,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2143314,Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00130;mtm01100;mtm01110;mtm01240
+MYCTH_2143695,Cysteine and methionine metabolism;Metabolic pathways,mtm00270;mtm01100
+MYCTH_2144606,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2144800,Proteasome,mtm03050
+MYCTH_2145046,Pyrimidine metabolism;Metabolic pathways,mtm00240;mtm01100
+MYCTH_2145069,Meiosis - yeast;Autophagy - yeast,mtm04113;mtm04138
+MYCTH_2145409,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2145474,Fatty acid elongation;Biosynthesis of unsaturated fatty acids;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism,mtm00062;mtm01040;mtm01100;mtm01110;mtm01212
+MYCTH_2145592,Ribosome,mtm03010
+MYCTH_2293953,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_2293954,Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00790;mtm01100;mtm01240
+MYCTH_2293959,Endocytosis;Phagosome,mtm04144;mtm04145
+MYCTH_2293961,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system,mtm00562;mtm01100;mtm04070
+MYCTH_2293970,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2293982,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2293999,Endocytosis,mtm04144
+MYCTH_2294001,Mitophagy - yeast,mtm04139
+MYCTH_2294003,Purine metabolism;Thiamine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00230;mtm00730;mtm01100;mtm01110;mtm01240
+MYCTH_2294008,mRNA surveillance pathway;Spliceosome,mtm03015;mtm03040
+MYCTH_2294037,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2294054,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2294077,"Alanine, aspartate and glutamate metabolism;Lysine degradation;Tyrosine metabolism;Butanoate metabolism;Nicotinate and nicotinamide metabolism;Metabolic pathways",mtm00250;mtm00310;mtm00350;mtm00650;mtm00760;mtm01100
+MYCTH_2294089,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2294099,"Glycine, serine and threonine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00260;mtm01100;mtm01110;mtm01230
+MYCTH_2294104,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2294110,Phosphonate and phosphinate metabolism;Glycerophospholipid metabolism;Ether lipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00440;mtm00564;mtm00565;mtm01100;mtm01110
+MYCTH_2294138,RNA degradation,mtm03018
+MYCTH_2294143,Nicotinate and nicotinamide metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00760;mtm01100;mtm01240
+MYCTH_2294189,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2294193,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2294200,Cell cycle - yeast,mtm04111
+MYCTH_2294215,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2294216,mRNA surveillance pathway,mtm03015
+MYCTH_2294218,Ribosome,mtm03010
+MYCTH_2294231,Peroxisome,mtm04146
+MYCTH_2294240,Tryptophan metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00380;mtm01100;mtm01240
+MYCTH_2294243,Tyrosine metabolism;Metabolic pathways,mtm00350;mtm01100
+MYCTH_2294247,mRNA surveillance pathway,mtm03015
+MYCTH_2294252,Cell cycle - yeast,mtm04111
+MYCTH_2294261,Sulfur relay system,mtm04122
+MYCTH_2294267,Purine metabolism;Metabolic pathways;Meiosis - yeast,mtm00230;mtm01100;mtm04113
+MYCTH_2294268,ABC transporters;Peroxisome,mtm02010;mtm04146
+MYCTH_2294314,Inositol phosphate metabolism;Metabolic pathways,mtm00562;mtm01100
+MYCTH_2294321,Phagosome,mtm04145
+MYCTH_2294333,mRNA surveillance pathway,mtm03015
+MYCTH_2294372,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2294375,Citrate cycle (TCA cycle);Oxidative phosphorylation;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm00190;mtm01100;mtm01110;mtm01200
+MYCTH_2294384,Glycerophospholipid metabolism,mtm00564
+MYCTH_2294394,Endocytosis,mtm04144
+MYCTH_2294398,Mitophagy - yeast,mtm04139
+MYCTH_2294405,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2294427,Glycolysis / Gluconeogenesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00010;mtm01100;mtm01110
+MYCTH_2294429,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2294445,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2294472,Peroxisome,mtm04146
+MYCTH_2294490,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2294493,Peroxisome,mtm04146
+MYCTH_2294496,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_2294503,mRNA surveillance pathway,mtm03015
+MYCTH_2294525,RNA polymerase,mtm03020
+MYCTH_2294540,"Fatty acid biosynthesis;Valine, leucine and isoleucine degradation;Metabolic pathways;Fatty acid metabolism",mtm00061;mtm00280;mtm01100;mtm01212
+MYCTH_2294543,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system;Phagosome,mtm00562;mtm01100;mtm04070;mtm04145
+MYCTH_2294554,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2294555,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2294558,Nicotinate and nicotinamide metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00760;mtm01100;mtm01240
+MYCTH_2294574,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2294587,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2294589,RNA polymerase,mtm03020
+MYCTH_2294621,Spliceosome,mtm03040
+MYCTH_2294640,Basal transcription factors,mtm03022
+MYCTH_2294643,Peroxisome,mtm04146
+MYCTH_2294679,Citrate cycle (TCA cycle);Oxidative phosphorylation;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm00190;mtm01100;mtm01110;mtm01200
+MYCTH_2294698,Proteasome,mtm03050
+MYCTH_2294706,Peroxisome,mtm04146
+MYCTH_2294730,Autophagy - yeast,mtm04138
+MYCTH_2294734,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2294749,"Ubiquinone and other terpenoid-quinone biosynthesis;Cysteine and methionine metabolism;Lysine biosynthesis;Tyrosine metabolism;Phenylalanine metabolism;Tryptophan metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00130;mtm00270;mtm00300;mtm00350;mtm00360;mtm00380;mtm00400;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2294755,Other glycan degradation;Various types of N-glycan biosynthesis;Amino sugar and nucleotide sugar metabolism;Glycosaminoglycan degradation;Glycosphingolipid biosynthesis - globo and isoglobo series;Glycosphingolipid biosynthesis - ganglio series;Metabolic pathways,mtm00511;mtm00513;mtm00520;mtm00531;mtm00603;mtm00604;mtm01100
+MYCTH_2294760,Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm01100;mtm01110;mtm01240
+MYCTH_2294774,Glycerolipid metabolism;Metabolic pathways,mtm00561;mtm01100
+MYCTH_2294795,N-Glycan biosynthesis;Metabolic pathways,mtm00510;mtm01100
+MYCTH_2294810,mRNA surveillance pathway,mtm03015
+MYCTH_2294821,Ribosome,mtm03010
+MYCTH_2294830,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system,mtm00562;mtm01100;mtm04070
+MYCTH_2294863,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2294864,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2294867,Spliceosome,mtm03040
+MYCTH_2294886,Proteasome,mtm03050
+MYCTH_2294943,Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00051;mtm00520;mtm01100;mtm01110;mtm01240
+MYCTH_2294959,Pentose and glucuronate interconversions;Galactose metabolism;Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00040;mtm00052;mtm00500;mtm00520;mtm01100;mtm01110;mtm01240
+MYCTH_2294991,Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm01100;mtm01110;mtm01240
+MYCTH_2294998,Folate biosynthesis,mtm00790
+MYCTH_2294999,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2295005,Protein processing in endoplasmic reticulum;Phagosome,mtm04141;mtm04145
+MYCTH_2295009,Cysteine and methionine metabolism;Metabolic pathways,mtm00270;mtm01100
+MYCTH_2295034,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2295038,SNARE interactions in vesicular transport,mtm04130
+MYCTH_2295040,Oxidative phosphorylation,mtm00190
+MYCTH_2295050,Cell cycle - yeast,mtm04111
+MYCTH_2295056,Pyrimidine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00240;mtm01100;mtm01240
+MYCTH_2295083,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2295090,Spliceosome,mtm03040
+MYCTH_2295098,Proteasome,mtm03050
+MYCTH_2295109,RNA polymerase,mtm03020
+MYCTH_2295112,Ribosome,mtm03010
+MYCTH_2295173,Autophagy - yeast,mtm04138
+MYCTH_2295174,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2295178,Spliceosome,mtm03040
+MYCTH_2295190,Citrate cycle (TCA cycle);Oxidative phosphorylation;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm00190;mtm01100;mtm01110;mtm01200
+MYCTH_2295196,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2295204,Spliceosome,mtm03040
+MYCTH_2295245,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2295248,Basal transcription factors,mtm03022
+MYCTH_2295250,"Glycine, serine and threonine metabolism;Metabolic pathways",mtm00260;mtm01100
+MYCTH_2295254,Autophagy - yeast,mtm04138
+MYCTH_2295275,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2295283,ABC transporters,mtm02010
+MYCTH_2295290,Lysine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00300;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2295307,Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00130;mtm01100;mtm01110;mtm01240
+MYCTH_2295366,RNA polymerase,mtm03020
+MYCTH_2295392,Lysine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00300;mtm01100;mtm01110;mtm01230
+MYCTH_2295409,Tryptophan metabolism;Metabolic pathways,mtm00380;mtm01100
+MYCTH_2295414,Tryptophan metabolism;Metabolic pathways,mtm00380;mtm01100
+MYCTH_2295432,Endocytosis,mtm04144
+MYCTH_2295433,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2295436,RNA degradation,mtm03018
+MYCTH_2295445,Galactose metabolism;Other glycan degradation;Sphingolipid metabolism;Metabolic pathways,mtm00052;mtm00511;mtm00600;mtm01100
+MYCTH_2295490,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_2295514,Citrate cycle (TCA cycle);Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00020;mtm01100;mtm01110;mtm01200;mtm01210;mtm01230
+MYCTH_2295591,DNA replication,mtm03030
+MYCTH_2295601,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_2295614,Sulfur relay system,mtm04122
+MYCTH_2295629,MAPK signaling pathway - yeast;Cell cycle - yeast,mtm04011;mtm04111
+MYCTH_2295637,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2295647,Endocytosis,mtm04144
+MYCTH_2295675,Spliceosome,mtm03040
+MYCTH_2295692,Citrate cycle (TCA cycle);Pyruvate metabolism;Metabolic pathways;Carbon metabolism;Biosynthesis of amino acids,mtm00020;mtm00620;mtm01100;mtm01200;mtm01230
+MYCTH_2295729,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2295737,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2295747,DNA replication;Cell cycle - yeast;Meiosis - yeast,mtm03030;mtm04111;mtm04113
+MYCTH_2295750,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2295756,Glycolysis / Gluconeogenesis;Fructose and mannose metabolism;Galactose metabolism;Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00051;mtm00052;mtm00500;mtm00520;mtm01100;mtm01110;mtm01200
+MYCTH_2295767,Peroxisome,mtm04146
+MYCTH_2295768,DNA replication;Cell cycle - yeast;Meiosis - yeast,mtm03030;mtm04111;mtm04113
+MYCTH_2295777,Mismatch repair,mtm03430
+MYCTH_2295800,Autophagy - yeast,mtm04138
+MYCTH_2295809,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2295812,Base excision repair,mtm03410
+MYCTH_2295836,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways,mtm00510;mtm00513;mtm01100
+MYCTH_2295838,mRNA surveillance pathway;Meiosis - yeast,mtm03015;mtm04113
+MYCTH_2295852,Nucleotide excision repair,mtm03420
+MYCTH_2295857,N-Glycan biosynthesis;Metabolic pathways,mtm00510;mtm01100
+MYCTH_2295859,Homologous recombination,mtm03440
+MYCTH_2295880,Basal transcription factors,mtm03022
+MYCTH_2295902,Vitamin B6 metabolism;Metabolic pathways,mtm00750;mtm01100
+MYCTH_2295915,Peroxisome,mtm04146
+MYCTH_2295930,Pyrimidine metabolism;Nicotinate and nicotinamide metabolism;Metabolic pathways,mtm00240;mtm00760;mtm01100
+MYCTH_2295939,Other glycan degradation,mtm00511
+MYCTH_2295945,Ribosome,mtm03010
+MYCTH_2295985,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2295989,Glycolysis / Gluconeogenesis;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids;RNA degradation,mtm00010;mtm00680;mtm01100;mtm01110;mtm01200;mtm01230;mtm03018
+MYCTH_2296005,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2296007,Autophagy - yeast,mtm04138
+MYCTH_2296056,"Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Selenocompound metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00260;mtm00270;mtm00450;mtm01100;mtm01110;mtm01230
+MYCTH_2296069,Pyrimidine metabolism;Metabolic pathways,mtm00240;mtm01100
+MYCTH_2296073,DNA replication;Base excision repair;Nucleotide excision repair;Mismatch repair,mtm03030;mtm03410;mtm03420;mtm03430
+MYCTH_2296109,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2296115,Cysteine and methionine metabolism;Sulfur metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00270;mtm00920;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2296151,Glycerophospholipid metabolism,mtm00564
+MYCTH_2296153,Histidine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00340;mtm01100;mtm01110;mtm01230
+MYCTH_2296155,Basal transcription factors,mtm03022
+MYCTH_2296156,Glycerolipid metabolism;Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00561;mtm00564;mtm01100;mtm01110
+MYCTH_2296164,"Glycine, serine and threonine metabolism;Penicillin and cephalosporin biosynthesis;Arginine and proline metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Peroxisome",mtm00260;mtm00311;mtm00330;mtm01100;mtm01110;mtm04146
+MYCTH_2296171,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2296179,Arginine biosynthesis;Purine metabolism;Atrazine degradation;Metabolic pathways,mtm00220;mtm00230;mtm00791;mtm01100
+MYCTH_2296191,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2296197,Ribosome biogenesis in eukaryotes;Mitophagy - yeast,mtm03008;mtm04139
+MYCTH_2296210,Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00230;mtm01100;mtm01110
+MYCTH_2296228,mRNA surveillance pathway,mtm03015
+MYCTH_2296247,Pentose phosphate pathway;Glutathione metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00030;mtm00480;mtm01100;mtm01110;mtm01200
+MYCTH_2296260,Basal transcription factors,mtm03022
+MYCTH_2296262,Basal transcription factors,mtm03022
+MYCTH_2296287,Tyrosine metabolism;Metabolic pathways,mtm00350;mtm01100
+MYCTH_2296291,RNA degradation;Spliceosome,mtm03018;mtm03040
+MYCTH_2296305,"Alanine, aspartate and glutamate metabolism;Arginine and proline metabolism;Metabolic pathways",mtm00250;mtm00330;mtm01100
+MYCTH_2296319,RNA degradation,mtm03018
+MYCTH_2296320,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2296323,Glycerolipid metabolism;Metabolic pathways,mtm00561;mtm01100
+MYCTH_2296333,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2296368,Various types of N-glycan biosynthesis;Metabolic pathways,mtm00513;mtm01100
+MYCTH_2296370,Proteasome,mtm03050
+MYCTH_2296378,Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites,mtm00900;mtm01110
+MYCTH_2296388,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_2296399,Histidine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00340;mtm01100;mtm01110;mtm01230
+MYCTH_2296410,Ribosome biogenesis in eukaryotes;mRNA surveillance pathway,mtm03008;mtm03015
+MYCTH_2296424,Other types of O-glycan biosynthesis;Mannose type O-glycan biosynthesis;Metabolic pathways,mtm00514;mtm00515;mtm01100
+MYCTH_2296450,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2296480,Mitophagy - yeast,mtm04139
+MYCTH_2296513,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2296525,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2296536,Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Galactose metabolism;Purine metabolism;Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00010;mtm00030;mtm00052;mtm00230;mtm00500;mtm00520;mtm01100;mtm01110
+MYCTH_2296558,Autophagy - other;Autophagy - yeast;Mitophagy - yeast,mtm04136;mtm04138;mtm04139
+MYCTH_2296573,Proteasome,mtm03050
+MYCTH_2296575,Inositol phosphate metabolism;Metabolic pathways;MAPK signaling pathway - yeast;Phosphatidylinositol signaling system,mtm00562;mtm01100;mtm04011;mtm04070
+MYCTH_2296595,mRNA surveillance pathway;Cell cycle - yeast,mtm03015;mtm04111
+MYCTH_2296618,MAPK signaling pathway - yeast;Cell cycle - yeast,mtm04011;mtm04111
+MYCTH_2296626,Ribosome biogenesis in eukaryotes;Mitophagy - yeast,mtm03008;mtm04139
+MYCTH_2296654,Spliceosome,mtm03040
+MYCTH_2296655,Spliceosome,mtm03040
+MYCTH_2296676,Glycerophospholipid metabolism;Metabolic pathways,mtm00564;mtm01100
+MYCTH_2296713,Endocytosis,mtm04144
+MYCTH_2296723,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2296724,Pyruvate metabolism;Metabolic pathways,mtm00620;mtm01100
+MYCTH_2296735,RNA degradation,mtm03018
+MYCTH_2296757,"Valine, leucine and isoleucine degradation;Propanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00280;mtm00640;mtm01100;mtm01110
+MYCTH_2296766,Spliceosome,mtm03040
+MYCTH_2296781,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2296782,DNA replication;Nucleotide excision repair;Mismatch repair,mtm03030;mtm03420;mtm03430
+MYCTH_2296784,Spliceosome,mtm03040
+MYCTH_2296792,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2296798,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2296800,"Pyrimidine metabolism;Alanine, aspartate and glutamate metabolism;Metabolic pathways;Biosynthesis of cofactors",mtm00240;mtm00250;mtm01100;mtm01240
+MYCTH_2296814,Glycerophospholipid metabolism,mtm00564
+MYCTH_2296847,One carbon pool by folate;Metabolic pathways,mtm00670;mtm01100
+MYCTH_2296854,Protein export,mtm03060
+MYCTH_2296861,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2296875,Ribosome,mtm03010
+MYCTH_2296876,Cell cycle - yeast,mtm04111
+MYCTH_2296889,Peroxisome,mtm04146
+MYCTH_2296914,Peroxisome,mtm04146
+MYCTH_2296915,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2296919,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2296944,Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00230;mtm01100;mtm01110
+MYCTH_2296974,Pentose phosphate pathway;Pentose and glucuronate interconversions;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00030;mtm00040;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2296986,Cell cycle - yeast;Meiosis - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04113;mtm04120
+MYCTH_2296998,Spliceosome,mtm03040
+MYCTH_2297004,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2297018,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2297020,Autophagy - yeast;Endocytosis,mtm04138;mtm04144
+MYCTH_2297030,Basal transcription factors,mtm03022
+MYCTH_2297042,Spliceosome,mtm03040
+MYCTH_2297044,Base excision repair,mtm03410
+MYCTH_2297048,Spliceosome,mtm03040
+MYCTH_2297052,Ribosome,mtm03010
+MYCTH_2297068,Meiosis - yeast;Autophagy - yeast,mtm04113;mtm04138
+MYCTH_2297133,"Alanine, aspartate and glutamate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00250;mtm01100;mtm01110;mtm01230
+MYCTH_2297201,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2297253,Tyrosine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm01100;mtm01110
+MYCTH_2297263,Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00020;mtm00620;mtm01100;mtm01110;mtm01200
+MYCTH_2297296,Fructose and mannose metabolism;Purine metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00051;mtm00230;mtm00500;mtm01100;mtm01110
+MYCTH_2297307,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2297319,Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm01100;mtm01110;mtm01240
+MYCTH_2297331,Lipoic acid metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00785;mtm01100;mtm01240
+MYCTH_2297338,"Valine, leucine and isoleucine degradation;Metabolic pathways",mtm00280;mtm01100
+MYCTH_2297347,MAPK signaling pathway - yeast;Mitophagy - yeast,mtm04011;mtm04139
+MYCTH_2297359,RNA polymerase,mtm03020
+MYCTH_2297364,Glycolysis / Gluconeogenesis;Fructose and mannose metabolism;Galactose metabolism;Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00051;mtm00052;mtm00500;mtm00520;mtm01100;mtm01110;mtm01200
+MYCTH_2297371,Spliceosome,mtm03040
+MYCTH_2297376,Metabolic pathways;Peroxisome,mtm01100;mtm04146
+MYCTH_2297411,Various types of N-glycan biosynthesis;Metabolic pathways,mtm00513;mtm01100
+MYCTH_2297423,Nicotinate and nicotinamide metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00760;mtm01100;mtm01240
+MYCTH_2297430,Arginine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00220;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2297436,Lipoic acid metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00785;mtm01100;mtm01240
+MYCTH_2297437,Ribosome,mtm03010
+MYCTH_2297460,"Glycine, serine and threonine metabolism;Monobactam biosynthesis;Cysteine and methionine metabolism;Lysine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00260;mtm00261;mtm00270;mtm00300;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2297473,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2297482,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2297489,Protein export,mtm03060
+MYCTH_2297503,Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Fructose and mannose metabolism;Galactose metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids;RNA degradation,mtm00010;mtm00030;mtm00051;mtm00052;mtm00680;mtm01100;mtm01110;mtm01200;mtm01230;mtm03018
+MYCTH_2297518,Ribosome,mtm03010
+MYCTH_2297526,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2297548,Ribosome,mtm03010
+MYCTH_2297550,Sulfur relay system,mtm04122
+MYCTH_2297559,Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00770;mtm01100;mtm01240
+MYCTH_2297565,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2297570,RNA degradation,mtm03018
+MYCTH_2297573,Ascorbate and aldarate metabolism,mtm00053
+MYCTH_2297591,Glycerophospholipid metabolism;Metabolic pathways,mtm00564;mtm01100
+MYCTH_2297709,Meiosis - yeast;Autophagy - yeast,mtm04113;mtm04138
+MYCTH_2297718,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2297740,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2297751,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2297754,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2297763,Spliceosome,mtm03040
+MYCTH_2297768,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2297779,Autophagy - yeast,mtm04138
+MYCTH_2297811,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2297816,Peroxisome,mtm04146
+MYCTH_2297820,Pentose phosphate pathway;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00030;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2297828,Steroid biosynthesis,mtm00100
+MYCTH_2297847,"Valine, leucine and isoleucine degradation;Metabolic pathways",mtm00280;mtm01100
+MYCTH_2297849,"Valine, leucine and isoleucine degradation;Metabolic pathways",mtm00280;mtm01100
+MYCTH_2297869,Aminoacyl-tRNA biosynthesis;Metabolic pathways,mtm00970;mtm01100
+MYCTH_2297870,Spliceosome,mtm03040
+MYCTH_2297873,Propanoate metabolism;Metabolic pathways,mtm00640;mtm01100
+MYCTH_2297887,RNA degradation,mtm03018
+MYCTH_2297943,Pyruvate metabolism;Metabolic pathways,mtm00620;mtm01100
+MYCTH_2297948,Ribosome,mtm03010
+MYCTH_2297977,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2298018,mRNA surveillance pathway;Spliceosome,mtm03015;mtm03040
+MYCTH_2298040,Glycosphingolipid biosynthesis - ganglio series;Metabolic pathways,mtm00604;mtm01100
+MYCTH_2298055,Endocytosis,mtm04144
+MYCTH_2298064,Citrate cycle (TCA cycle);Pyruvate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm00620;mtm01100;mtm01110;mtm01200
+MYCTH_2298071,Pyruvate metabolism;Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00620;mtm00630;mtm01100;mtm01110;mtm01200
+MYCTH_2298093,Glycerophospholipid metabolism,mtm00564
+MYCTH_2298133,Sulfur metabolism;Metabolic pathways,mtm00920;mtm01100
+MYCTH_2298134,"Glycine, serine and threonine metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids",mtm00260;mtm00680;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2298163,Phosphonate and phosphinate metabolism;Glycerophospholipid metabolism;Ether lipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00440;mtm00564;mtm00565;mtm01100;mtm01110
+MYCTH_2298190,Purine metabolism;Monobactam biosynthesis;Selenocompound metabolism;Sulfur metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00230;mtm00261;mtm00450;mtm00920;mtm01100;mtm01110
+MYCTH_2298226,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2298230,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2298234,Base excision repair,mtm03410
+MYCTH_2298243,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2298248,Spliceosome,mtm03040
+MYCTH_2298252,Ribosome,mtm03010
+MYCTH_2298281,Lysine degradation;Metabolic pathways,mtm00310;mtm01100
+MYCTH_2298287,RNA degradation,mtm03018
+MYCTH_2298309,Pentose phosphate pathway;Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00030;mtm00230;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2298342,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2298352,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways,mtm00510;mtm00513;mtm01100
+MYCTH_2298354,Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04120;mtm04141
+MYCTH_2298355,Spliceosome,mtm03040
+MYCTH_2298386,Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00030;mtm00500;mtm00520;mtm01100;mtm01110;mtm01200
+MYCTH_2298434,Spliceosome,mtm03040
+MYCTH_2298452,Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Fructose and mannose metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00010;mtm00030;mtm00051;mtm00680;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2298464,mRNA surveillance pathway;Spliceosome,mtm03015;mtm03040
+MYCTH_2298476,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2298482,Ribosome,mtm03010
+MYCTH_2298487,Proteasome,mtm03050
+MYCTH_2298517,Cysteine and methionine metabolism;Taurine and hypotaurine metabolism;Metabolic pathways,mtm00270;mtm00430;mtm01100
+MYCTH_2298524,DNA replication;Base excision repair;Nucleotide excision repair,mtm03030;mtm03410;mtm03420
+MYCTH_2298528,Spliceosome,mtm03040
+MYCTH_2298561,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2298562,Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00790;mtm01100;mtm01240
+MYCTH_2298566,Cell cycle - yeast,mtm04111
+MYCTH_2298614,"Fatty acid degradation;Valine, leucine and isoleucine degradation;Lysine degradation;Tryptophan metabolism;Pyruvate metabolism;Glyoxylate and dicarboxylate metabolism;Propanoate metabolism;Butanoate metabolism;Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Fatty acid metabolism",mtm00071;mtm00280;mtm00310;mtm00380;mtm00620;mtm00630;mtm00640;mtm00650;mtm00900;mtm01100;mtm01110;mtm01200;mtm01212
+MYCTH_2298622,Endocytosis,mtm04144
+MYCTH_2298637,Endocytosis,mtm04144
+MYCTH_2298656,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2298657,Mismatch repair,mtm03430
+MYCTH_2298672,DNA replication;Cell cycle - yeast;Meiosis - yeast,mtm03030;mtm04111;mtm04113
+MYCTH_2298702,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2298705,DNA replication;Base excision repair;Nucleotide excision repair;Mismatch repair;Homologous recombination,mtm03030;mtm03410;mtm03420;mtm03430;mtm03440
+MYCTH_2298711,Peroxisome,mtm04146
+MYCTH_2298714,Inositol phosphate metabolism;Metabolic pathways,mtm00562;mtm01100
+MYCTH_2298717,Endocytosis,mtm04144
+MYCTH_2298723,Various types of N-glycan biosynthesis;Metabolic pathways,mtm00513;mtm01100
+MYCTH_2298731,RNA polymerase,mtm03020
+MYCTH_2298741,Spliceosome,mtm03040
+MYCTH_2298745,"Pyrimidine metabolism;Glycine, serine and threonine metabolism;Metabolic pathways",mtm00240;mtm00260;mtm01100
+MYCTH_2298766,Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00564;mtm01100;mtm01110
+MYCTH_2298784,Butanoate metabolism;Metabolic pathways,mtm00650;mtm01100
+MYCTH_2298795,Protein export,mtm03060
+MYCTH_2298826,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2298881,Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00900;mtm01100;mtm01110
+MYCTH_2298906,Proteasome,mtm03050
+MYCTH_2298914,Metabolic pathways,mtm01100
+MYCTH_2298927,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2298929,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2298958,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2298982,Arginine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00220;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2298987,RNA degradation;Spliceosome,mtm03018;mtm03040
+MYCTH_2298996,Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm01100;mtm01110;mtm01240
+MYCTH_2298998,Non-homologous end-joining,mtm03450
+MYCTH_2299007,Glycerophospholipid metabolism;Ether lipid metabolism;Arachidonic acid metabolism;Linoleic acid metabolism;alpha-Linolenic acid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00564;mtm00565;mtm00590;mtm00591;mtm00592;mtm01100;mtm01110
+MYCTH_2299023,"Pyrimidine metabolism;Alanine, aspartate and glutamate metabolism;Metabolic pathways;Biosynthesis of cofactors",mtm00240;mtm00250;mtm01100;mtm01240
+MYCTH_2299032,Vitamin B6 metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00750;mtm01100;mtm01240
+MYCTH_2299040,SNARE interactions in vesicular transport,mtm04130
+MYCTH_2299056,Folate biosynthesis;Metabolic pathways,mtm00790;mtm01100
+MYCTH_2299077,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2299084,N-Glycan biosynthesis;Metabolic pathways,mtm00510;mtm01100
+MYCTH_2299088,Steroid biosynthesis;Sesquiterpenoid and triterpenoid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm00909;mtm01100;mtm01110
+MYCTH_2299092,Protein export,mtm03060
+MYCTH_2299099,Autophagy - yeast;Protein processing in endoplasmic reticulum,mtm04138;mtm04141
+MYCTH_2299100,Glycerophospholipid metabolism,mtm00564
+MYCTH_2299107,Pyruvate metabolism;Metabolic pathways,mtm00620;mtm01100
+MYCTH_2299129,Pentose phosphate pathway;Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00030;mtm00230;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2299133,Endocytosis,mtm04144
+MYCTH_2299136,Basal transcription factors,mtm03022
+MYCTH_2299155,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system,mtm00562;mtm01100;mtm04070
+MYCTH_2299181,Biotin metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00780;mtm01100;mtm01240
+MYCTH_2299183,Biotin metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00780;mtm01100;mtm01240
+MYCTH_2299195,Proteasome,mtm03050
+MYCTH_2299207,Pyrimidine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00240;mtm01100;mtm01240
+MYCTH_2299267,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_2299268,mRNA surveillance pathway,mtm03015
+MYCTH_2299273,Nitrogen metabolism;Metabolic pathways,mtm00910;mtm01100
+MYCTH_2299276,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2299299,Mitophagy - yeast,mtm04139
+MYCTH_2299321,Vitamin B6 metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00750;mtm01100;mtm01240
+MYCTH_2299349,"Valine, leucine and isoleucine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00290;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2299355,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2299360,Fatty acid biosynthesis;Fatty acid degradation;Metabolic pathways;Fatty acid metabolism;Peroxisome,mtm00061;mtm00071;mtm01100;mtm01212;mtm04146
+MYCTH_2299371,N-Glycan biosynthesis;Metabolic pathways,mtm00510;mtm01100
+MYCTH_2299388,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2299402,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_2299407,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2299427,Pentose phosphate pathway;Metabolic pathways,mtm00030;mtm01100
+MYCTH_2299438,Peroxisome,mtm04146
+MYCTH_2299448,Fatty acid biosynthesis;Biotin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism;Biosynthesis of cofactors,mtm00061;mtm00780;mtm01100;mtm01110;mtm01212;mtm01240
+MYCTH_2299450,N-Glycan biosynthesis;Metabolic pathways,mtm00510;mtm01100
+MYCTH_2299495,Amino sugar and nucleotide sugar metabolism,mtm00520
+MYCTH_2299507,Glycerophospholipid metabolism;Ether lipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Endocytosis,mtm00564;mtm00565;mtm01100;mtm01110;mtm04144
+MYCTH_2299521,Aminoacyl-tRNA biosynthesis;Metabolic pathways,mtm00970;mtm01100
+MYCTH_2299553,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2299569,beta-Alanine metabolism;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00410;mtm00770;mtm01100;mtm01110;mtm01240
+MYCTH_2299571,Mitophagy - yeast,mtm04139
+MYCTH_2299583,Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00230;mtm01100;mtm01110
+MYCTH_2299590,Galactose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00052;mtm00520;mtm01100
+MYCTH_2299597,"Valine, leucine and isoleucine biosynthesis;Butanoate metabolism;C5-Branched dibasic acid metabolism;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00290;mtm00650;mtm00660;mtm00770;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2299621,Ribosome,mtm03010
+MYCTH_2299645,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2299664,Cysteine and methionine metabolism;Metabolic pathways,mtm00270;mtm01100
+MYCTH_2299676,Pentose phosphate pathway;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00030;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2299715,Fatty acid biosynthesis;Aflatoxin biosynthesis;Pyruvate metabolism;Propanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism,mtm00061;mtm00254;mtm00620;mtm00640;mtm01100;mtm01110;mtm01212
+MYCTH_2299719,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2299739,Tryptophan metabolism;Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;MAPK signaling pathway - yeast;Peroxisome,mtm00380;mtm00630;mtm01100;mtm01110;mtm01200;mtm04011;mtm04146
+MYCTH_2299742,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2299749,"Glycine, serine and threonine metabolism;Metabolic pathways",mtm00260;mtm01100
+MYCTH_2299780,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_2299913,"Glycolysis / Gluconeogenesis;Ascorbate and aldarate metabolism;Fatty acid degradation;Valine, leucine and isoleucine degradation;Lysine degradation;Arginine and proline metabolism;Histidine metabolism;Tryptophan metabolism;beta-Alanine metabolism;Glycerolipid metabolism;Pyruvate metabolism;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors",mtm00010;mtm00053;mtm00071;mtm00280;mtm00310;mtm00330;mtm00340;mtm00380;mtm00410;mtm00561;mtm00620;mtm00770;mtm01100;mtm01110;mtm01240
+MYCTH_2299988,Protein export,mtm03060
+MYCTH_2300003,Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00790;mtm01100;mtm01240
+MYCTH_2300006,Basal transcription factors,mtm03022
+MYCTH_2300033,Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Fructose and mannose metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00010;mtm00030;mtm00051;mtm00680;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2300064,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2300079,Galactose metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00052;mtm00500;mtm01100;mtm01110
+MYCTH_2300115,RNA degradation,mtm03018
+MYCTH_2300117,MAPK signaling pathway - yeast;Mitophagy - yeast,mtm04011;mtm04139
+MYCTH_2300124,Cysteine and methionine metabolism;Glutathione metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00270;mtm00480;mtm01100;mtm01240
+MYCTH_2300157,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2300159,Meiosis - yeast;Autophagy - yeast,mtm04113;mtm04138
+MYCTH_2300172,DNA replication;Base excision repair;Nucleotide excision repair,mtm03030;mtm03410;mtm03420
+MYCTH_2300182,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2300185,Endocytosis,mtm04144
+MYCTH_2300189,Thiamine metabolism;Metabolic pathways;Biosynthesis of cofactors;Sulfur relay system,mtm00730;mtm01100;mtm01240;mtm04122
+MYCTH_2300221,Cell cycle - yeast,mtm04111
+MYCTH_2300227,Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00900;mtm01100;mtm01110
+MYCTH_2300236,Arginine and proline metabolism;Carbapenem biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00330;mtm00332;mtm01100;mtm01110;mtm01230
+MYCTH_2300248,Propanoate metabolism;Metabolic pathways,mtm00640;mtm01100
+MYCTH_2300282,Meiosis - yeast;Autophagy - yeast,mtm04113;mtm04138
+MYCTH_2300289,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2300294,Tryptophan metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00380;mtm01100;mtm01240
+MYCTH_2300304,DNA replication;Nucleotide excision repair;Mismatch repair;Homologous recombination,mtm03030;mtm03420;mtm03430;mtm03440
+MYCTH_2300308,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_2300330,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2300385,Spliceosome,mtm03040
+MYCTH_2300396,Ribosome,mtm03010
+MYCTH_2300401,Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm01100;mtm01110;mtm01240
+MYCTH_2300408,Ribosome,mtm03010
+MYCTH_2300427,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2300428,Pyrimidine metabolism;Metabolic pathways,mtm00240;mtm01100
+MYCTH_2300433,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2300436,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2300457,mRNA surveillance pathway,mtm03015
+MYCTH_2300475,Cysteine and methionine metabolism,mtm00270
+MYCTH_2300482,Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00564;mtm01100;mtm01110
+MYCTH_2300510,Peroxisome,mtm04146
+MYCTH_2300520,Glycolysis / Gluconeogenesis;Fatty acid degradation;Tyrosine metabolism;Pyruvate metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00071;mtm00350;mtm00620;mtm00680;mtm01100;mtm01110;mtm01200
+MYCTH_2300528,Base excision repair,mtm03410
+MYCTH_2300547,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2300549,Ribosome,mtm03010
+MYCTH_2300555,Arginine and proline metabolism;Glutathione metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00330;mtm00480;mtm01100;mtm01110
+MYCTH_2300583,RNA polymerase,mtm03020
+MYCTH_2300584,Metabolic pathways,mtm01100
+MYCTH_2300590,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2300602,Cysteine and methionine metabolism;Metabolic pathways,mtm00270;mtm01100
+MYCTH_2300611,Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00790;mtm01100;mtm01240
+MYCTH_2300637,Ribosome biogenesis in eukaryotes;Spliceosome,mtm03008;mtm03040
+MYCTH_2300643,Pentose phosphate pathway;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00030;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2300690,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2300695,Arginine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00220;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2300696,DNA replication;Nucleotide excision repair;Mismatch repair,mtm03030;mtm03420;mtm03430
+MYCTH_2300697,Histidine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00340;mtm01100;mtm01110;mtm01230
+MYCTH_2300729,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2300737,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2300738,Non-homologous end-joining,mtm03450
+MYCTH_2300740,Basal transcription factors,mtm03022
+MYCTH_2300741,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2300744,Cell cycle - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04120
+MYCTH_2300745,Pentose phosphate pathway;Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00030;mtm00230;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2300746,Arginine and proline metabolism;Glutathione metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00330;mtm00480;mtm01100;mtm01110
+MYCTH_2300779,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system,mtm00562;mtm01100;mtm04070
+MYCTH_2300782,Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04120;mtm04141
+MYCTH_2300787,Nitrogen metabolism;Metabolic pathways,mtm00910;mtm01100
+MYCTH_2300817,Pyruvate metabolism;Metabolic pathways,mtm00620;mtm01100
+MYCTH_2300844,Autophagy - yeast;Endocytosis;Phagosome,mtm04138;mtm04144;mtm04145
+MYCTH_2300877,Lysine biosynthesis;Lysine degradation;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00300;mtm00310;mtm01100;mtm01110;mtm01230
+MYCTH_2300889,Nicotinate and nicotinamide metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00760;mtm01100;mtm01240
+MYCTH_2300901,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2300923,N-Glycan biosynthesis,mtm00510
+MYCTH_2300945,Ribosome,mtm03010
+MYCTH_2300946,Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites,mtm00900;mtm01110
+MYCTH_2300958,Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites,mtm00900;mtm01110
+MYCTH_2300961,Ribosome biogenesis in eukaryotes;mRNA surveillance pathway,mtm03008;mtm03015
+MYCTH_2300969,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2300970,Spliceosome,mtm03040
+MYCTH_2300974,One carbon pool by folate;Metabolic pathways;Carbon metabolism,mtm00670;mtm01100;mtm01200
+MYCTH_2301005,Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04120;mtm04141
+MYCTH_2301009,Spliceosome;Mitophagy - yeast,mtm03040;mtm04139
+MYCTH_2301027,Non-homologous end-joining,mtm03450
+MYCTH_2301051,Purine metabolism;Pyrimidine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00230;mtm00240;mtm01100;mtm01110;mtm01240
+MYCTH_2301053,N-Glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm01100;mtm04141
+MYCTH_2301055,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2301064,Proteasome,mtm03050
+MYCTH_2301067,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2301076,Cell cycle - yeast;Meiosis - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04113;mtm04120
+MYCTH_2301077,"Valine, leucine and isoleucine degradation;Butanoate metabolism;Metabolic pathways",mtm00280;mtm00650;mtm01100
+MYCTH_2301113,Phenylalanine metabolism;Butanoate metabolism;Metabolic pathways;Carbon metabolism,mtm00360;mtm00650;mtm01100;mtm01200
+MYCTH_2301160,Protein export,mtm03060
+MYCTH_2301172,DNA replication;Nucleotide excision repair;Mismatch repair;Homologous recombination,mtm03030;mtm03420;mtm03430;mtm03440
+MYCTH_2301184,Protein export,mtm03060
+MYCTH_2301203,Pyrimidine metabolism;Metabolic pathways,mtm00240;mtm01100
+MYCTH_2301210,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2301250,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2301261,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2301266,"Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Methane metabolism;Vitamin B6 metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids;Biosynthesis of cofactors",mtm00260;mtm00270;mtm00680;mtm00750;mtm01100;mtm01110;mtm01200;mtm01230;mtm01240
+MYCTH_2301272,Folate biosynthesis;Biosynthesis of cofactors,mtm00790;mtm01240
+MYCTH_2301275,Proteasome,mtm03050
+MYCTH_2301302,Cell cycle - yeast,mtm04111
+MYCTH_2301304,Glycerolipid metabolism;Metabolic pathways,mtm00561;mtm01100
+MYCTH_2301308,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_2301316,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2301334,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_2301391,Protein export,mtm03060
+MYCTH_2301403,DNA replication;Cell cycle - yeast;Meiosis - yeast,mtm03030;mtm04111;mtm04113
+MYCTH_2301410,Cell cycle - yeast;Meiosis - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04113;mtm04120
+MYCTH_2301421,Fructose and mannose metabolism,mtm00051
+MYCTH_2301430,"Fatty acid degradation;Valine, leucine and isoleucine degradation;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism",mtm00071;mtm00280;mtm01100;mtm01110;mtm01212
+MYCTH_2301456,DNA replication;Base excision repair;Nucleotide excision repair;Mismatch repair;Homologous recombination,mtm03030;mtm03410;mtm03420;mtm03430;mtm03440
+MYCTH_2301474,mRNA surveillance pathway,mtm03015
+MYCTH_2301499,"Glycine, serine and threonine metabolism;Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism",mtm00260;mtm00630;mtm01100;mtm01110;mtm01200
+MYCTH_2301500,Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm01100;mtm01110;mtm01240
+MYCTH_2301508,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_2301522,Glycerophospholipid metabolism;Metabolic pathways,mtm00564;mtm01100
+MYCTH_2301537,Basal transcription factors,mtm03022
+MYCTH_2301550,Spliceosome,mtm03040
+MYCTH_2301572,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2301585,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2301594,Aminoacyl-tRNA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00970;mtm01100;mtm01110;mtm01240
+MYCTH_2301648,Lysine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00300;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2301650,Metabolic pathways;Biosynthesis of secondary metabolites,mtm01100;mtm01110
+MYCTH_2301669,ABC transporters,mtm02010
+MYCTH_2301702,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2301712,Cysteine and methionine metabolism;Arginine and proline metabolism;Metabolic pathways,mtm00270;mtm00330;mtm01100
+MYCTH_2301715,Metabolic pathways,mtm01100
+MYCTH_2301751,Basal transcription factors;Nucleotide excision repair,mtm03022;mtm03420
+MYCTH_2301771,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2301810,Citrate cycle (TCA cycle);Propanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm00640;mtm01100;mtm01110;mtm01200
+MYCTH_2301813,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2301817,Proteasome,mtm03050
+MYCTH_2301830,Peroxisome,mtm04146
+MYCTH_2301916,RNA degradation,mtm03018
+MYCTH_2301934,"Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00290;mtm00770;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2301942,DNA replication,mtm03030
+MYCTH_2301957,Steroid biosynthesis,mtm00100
+MYCTH_2301968,Endocytosis,mtm04144
+MYCTH_2301970,Basal transcription factors,mtm03022
+MYCTH_2301985,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2302026,Histidine metabolism;Metabolic pathways,mtm00340;mtm01100
+MYCTH_2302034,Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00564;mtm01100;mtm01110
+MYCTH_2302045,Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04120;mtm04141
+MYCTH_2302064,Ribosome,mtm03010
+MYCTH_2302071,Autophagy - yeast,mtm04138
+MYCTH_2302102,"Glycine, serine and threonine metabolism;Monobactam biosynthesis;Cysteine and methionine metabolism;Lysine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00260;mtm00261;mtm00270;mtm00300;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2302111,SNARE interactions in vesicular transport,mtm04130
+MYCTH_2302133,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2302143,Ribosome,mtm03010
+MYCTH_2302150,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_2302188,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2302206,mRNA surveillance pathway;Meiosis - yeast,mtm03015;mtm04113
+MYCTH_2302225,Fructose and mannose metabolism;Glycerolipid metabolism;Methane metabolism;Metabolic pathways;Carbon metabolism,mtm00051;mtm00561;mtm00680;mtm01100;mtm01200
+MYCTH_2302228,"Valine, leucine and isoleucine degradation;beta-Alanine metabolism;Propanoate metabolism;Metabolic pathways;Carbon metabolism",mtm00280;mtm00410;mtm00640;mtm01100;mtm01200
+MYCTH_2302243,Autophagy - yeast,mtm04138
+MYCTH_2302244,RNA polymerase,mtm03020
+MYCTH_2302246,RNA degradation;Spliceosome,mtm03018;mtm03040
+MYCTH_2302249,DNA replication;Base excision repair;Nucleotide excision repair;Mismatch repair;Homologous recombination,mtm03030;mtm03410;mtm03420;mtm03430;mtm03440
+MYCTH_2302253,"Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Valine, leucine and isoleucine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids",mtm00260;mtm00270;mtm00290;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2302257,Selenocompound metabolism;Aminoacyl-tRNA biosynthesis;Metabolic pathways,mtm00450;mtm00970;mtm01100
+MYCTH_2302271,Ribosome,mtm03010
+MYCTH_2302277,Basal transcription factors;Nucleotide excision repair,mtm03022;mtm03420
+MYCTH_2302289,N-Glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm01100;mtm04141
+MYCTH_2302318,mRNA surveillance pathway,mtm03015
+MYCTH_2302336,Taurine and hypotaurine metabolism;Cyanoamino acid metabolism;Glutathione metabolism;Metabolic pathways,mtm00430;mtm00460;mtm00480;mtm01100
+MYCTH_2302339,Metabolic pathways;Peroxisome,mtm01100;mtm04146
+MYCTH_2302387,mRNA surveillance pathway;Spliceosome,mtm03015;mtm03040
+MYCTH_2302391,Spliceosome,mtm03040
+MYCTH_2302405,Sulfur relay system,mtm04122
+MYCTH_2302420,Ribosome,mtm03010
+MYCTH_2302422,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2302433,Pyruvate metabolism;Metabolic pathways;Carbon metabolism,mtm00620;mtm01100;mtm01200
+MYCTH_2302465,RNA degradation,mtm03018
+MYCTH_2302478,Arachidonic acid metabolism;Metabolic pathways,mtm00590;mtm01100
+MYCTH_2302496,"Alanine, aspartate and glutamate metabolism;Metabolic pathways",mtm00250;mtm01100
+MYCTH_2302498,Cysteine and methionine metabolism;Arginine and proline metabolism;Glutathione metabolism;Metabolic pathways,mtm00270;mtm00330;mtm00480;mtm01100
+MYCTH_2302509,Cyanoamino acid metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00460;mtm00500;mtm01100;mtm01110
+MYCTH_2302511,"Purine metabolism;Alanine, aspartate and glutamate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00230;mtm00250;mtm01100;mtm01110
+MYCTH_2302517,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_2302558,mRNA surveillance pathway,mtm03015
+MYCTH_2302569,Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00770;mtm01100;mtm01240
+MYCTH_2302583,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_2302623,Lysine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00300;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2302625,Homologous recombination,mtm03440
+MYCTH_2302644,Folate biosynthesis;Biosynthesis of cofactors,mtm00790;mtm01240
+MYCTH_2302649,SNARE interactions in vesicular transport,mtm04130
+MYCTH_2302653,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2302660,"Cysteine and methionine metabolism;Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids;Biosynthesis of cofactors",mtm00270;mtm00280;mtm00290;mtm00770;mtm01100;mtm01110;mtm01210;mtm01230;mtm01240
+MYCTH_2302666,Phosphonate and phosphinate metabolism;Glycerophospholipid metabolism;Metabolic pathways,mtm00440;mtm00564;mtm01100
+MYCTH_2302672,Penicillin and cephalosporin biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00311;mtm01100;mtm01110
+MYCTH_2302711,"Alanine, aspartate and glutamate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00250;mtm01100;mtm01110;mtm01230
+MYCTH_2302719,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2302721,Peroxisome,mtm04146
+MYCTH_2302726,One carbon pool by folate;Aminoacyl-tRNA biosynthesis,mtm00670;mtm00970
+MYCTH_2302739,Pyrimidine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00240;mtm01100;mtm01240
+MYCTH_2302752,Pyrimidine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00240;mtm01100;mtm01240
+MYCTH_2302763,MAPK signaling pathway - yeast;Cell cycle - yeast;Meiosis - yeast,mtm04011;mtm04111;mtm04113
+MYCTH_2302775,DNA replication;Cell cycle - yeast;Meiosis - yeast,mtm03030;mtm04111;mtm04113
+MYCTH_2302779,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2302790,Mitophagy - yeast,mtm04139
+MYCTH_2302797,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2302825,Base excision repair,mtm03410
+MYCTH_2302831,Spliceosome,mtm03040
+MYCTH_2302839,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2302852,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2302897,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2302901,Thiamine metabolism;Riboflavin metabolism;Metabolic pathways,mtm00730;mtm00740;mtm01100
+MYCTH_2302907,Proteasome,mtm03050
+MYCTH_2302964,Cell cycle - yeast,mtm04111
+MYCTH_2302986,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2303002,Histidine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00340;mtm01100;mtm01110;mtm01230
+MYCTH_2303016,Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00051;mtm00520;mtm01100;mtm01110;mtm01240
+MYCTH_2303019,Endocytosis,mtm04144
+MYCTH_2303024,Autophagy - yeast;Endocytosis,mtm04138;mtm04144
+MYCTH_2303031,RNA polymerase,mtm03020
+MYCTH_2303040,Ribosome,mtm03010
+MYCTH_2303043,Riboflavin metabolism;Folate biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00740;mtm00790;mtm01100;mtm01110;mtm01240
+MYCTH_2303045,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_2303065,Galactose metabolism;Starch and sucrose metabolism;Metabolic pathways,mtm00052;mtm00500;mtm01100
+MYCTH_2303088,Phenylalanine metabolism;Tryptophan metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00360;mtm00380;mtm01100;mtm01110
+MYCTH_2303089,Galactose metabolism;Starch and sucrose metabolism;Metabolic pathways,mtm00052;mtm00500;mtm01100
+MYCTH_2303153,Ribosome,mtm03010
+MYCTH_2303157,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2303166,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_2303180,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2303249,Tryptophan metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00380;mtm01100;mtm01240
+MYCTH_2303251,Tryptophan metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00380;mtm01100;mtm01240
+MYCTH_2303304,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2303349,Mitophagy - yeast,mtm04139
+MYCTH_2303360,Riboflavin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00740;mtm01100;mtm01110;mtm01240
+MYCTH_2303370,RNA degradation;Spliceosome,mtm03018;mtm03040
+MYCTH_2303413,Ribosome,mtm03010
+MYCTH_2303426,Ribosome,mtm03010
+MYCTH_2303431,Spliceosome,mtm03040
+MYCTH_2303435,Nucleotide excision repair,mtm03420
+MYCTH_2303449,Spliceosome,mtm03040
+MYCTH_2303459,Thiamine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00730;mtm01100;mtm01240
+MYCTH_2303495,Spliceosome,mtm03040
+MYCTH_2303498,Spliceosome,mtm03040
+MYCTH_2303532,Sulfur relay system,mtm04122
+MYCTH_2303547,RNA degradation,mtm03018
+MYCTH_2303565,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2303566,Arginine and proline metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00330;mtm01100;mtm01110
+MYCTH_2303567,Autophagy - other;Autophagy - yeast;Mitophagy - yeast,mtm04136;mtm04138;mtm04139
+MYCTH_2303573,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2303583,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2303595,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2303597,Protein export;Protein processing in endoplasmic reticulum,mtm03060;mtm04141
+MYCTH_2303613,Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00230;mtm01100;mtm01110
+MYCTH_2303614,Glycerolipid metabolism;Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00561;mtm00564;mtm01100;mtm01110
+MYCTH_2303620,MAPK signaling pathway - yeast;Cell cycle - yeast,mtm04011;mtm04111
+MYCTH_2303639,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2303648,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2303701,Arginine and proline metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00330;mtm01100;mtm01110;mtm01230
+MYCTH_2303725,Endocytosis;Phagosome,mtm04144;mtm04145
+MYCTH_2303752,Glycerolipid metabolism;Metabolic pathways;Autophagy - yeast,mtm00561;mtm01100;mtm04138
+MYCTH_2303755,"Fatty acid elongation;Fatty acid degradation;Valine, leucine and isoleucine degradation;Lysine degradation;Tryptophan metabolism;beta-Alanine metabolism;Propanoate metabolism;Butanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Fatty acid metabolism",mtm00062;mtm00071;mtm00280;mtm00310;mtm00380;mtm00410;mtm00640;mtm00650;mtm01100;mtm01110;mtm01200;mtm01212
+MYCTH_2303763,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2303766,Ribosome,mtm03010
+MYCTH_2303799,Thiamine metabolism;Riboflavin metabolism;Metabolic pathways,mtm00730;mtm00740;mtm01100
+MYCTH_2303801,MAPK signaling pathway - yeast;Endocytosis,mtm04011;mtm04144
+MYCTH_2303804,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2303813,Cysteine and methionine metabolism;Sulfur metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00270;mtm00920;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2303821,Basal transcription factors;Nucleotide excision repair,mtm03022;mtm03420
+MYCTH_2303826,Pyruvate metabolism;Metabolic pathways,mtm00620;mtm01100
+MYCTH_2303831,DNA replication;Base excision repair;Nucleotide excision repair;Mismatch repair,mtm03030;mtm03410;mtm03420;mtm03430
+MYCTH_2303832,Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00020;mtm00620;mtm01100;mtm01110;mtm01200
+MYCTH_2303838,Cell cycle - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04120
+MYCTH_2303853,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2303859,RNA polymerase,mtm03020
+MYCTH_2303878,Glycerolipid metabolism;Metabolic pathways,mtm00561;mtm01100
+MYCTH_2303882,Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites,mtm00900;mtm01110
+MYCTH_2303921,Metabolic pathways,mtm01100
+MYCTH_2303929,Fatty acid biosynthesis;Biotin metabolism;Metabolic pathways;Fatty acid metabolism;Biosynthesis of cofactors,mtm00061;mtm00780;mtm01100;mtm01212;mtm01240
+MYCTH_2303933,One carbon pool by folate;Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00670;mtm00790;mtm01100;mtm01240
+MYCTH_2303986,Homologous recombination,mtm03440
+MYCTH_2304014,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2304036,Glycerophospholipid metabolism;Metabolic pathways,mtm00564;mtm01100
+MYCTH_2304045,Nucleotide excision repair;Cell cycle - yeast;Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm03420;mtm04111;mtm04120;mtm04141
+MYCTH_2304055,Ribosome,mtm03010
+MYCTH_2304075,Meiosis - yeast;Autophagy - yeast,mtm04113;mtm04138
+MYCTH_2304079,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2304102,"Valine, leucine and isoleucine biosynthesis;C5-Branched dibasic acid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00290;mtm00660;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2304118,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2304122,Cysteine and methionine metabolism;Metabolic pathways,mtm00270;mtm01100
+MYCTH_2304133,Glycerolipid metabolism;Glycerophospholipid metabolism;Ether lipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00561;mtm00564;mtm00565;mtm01100;mtm01110
+MYCTH_2304137,Mitophagy - yeast,mtm04139
+MYCTH_2304140,Autophagy - yeast;Endocytosis,mtm04138;mtm04144
+MYCTH_2304142,Cysteine and methionine metabolism;Glutathione metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00270;mtm00480;mtm01100;mtm01240
+MYCTH_2304147,"Glycine, serine and threonine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors",mtm00260;mtm01100;mtm01110;mtm01240
+MYCTH_2304164,"Purine metabolism;Alanine, aspartate and glutamate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors",mtm00230;mtm00250;mtm01100;mtm01110;mtm01240
+MYCTH_2304176,Thiamine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00730;mtm01100;mtm01240
+MYCTH_2304190,Spliceosome,mtm03040
+MYCTH_2304244,"Glycolysis / Gluconeogenesis;Ascorbate and aldarate metabolism;Fatty acid degradation;Valine, leucine and isoleucine degradation;Lysine degradation;Arginine and proline metabolism;Histidine metabolism;Tryptophan metabolism;beta-Alanine metabolism;Glycerolipid metabolism;Pyruvate metabolism;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors",mtm00010;mtm00053;mtm00071;mtm00280;mtm00310;mtm00330;mtm00340;mtm00380;mtm00410;mtm00561;mtm00620;mtm00770;mtm01100;mtm01110;mtm01240
+MYCTH_2304273,Histidine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00340;mtm01100;mtm01110;mtm01230
+MYCTH_2304281,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2304288,Arachidonic acid metabolism;Metabolic pathways;Peroxisome,mtm00590;mtm01100;mtm04146
+MYCTH_2304301,N-Glycan biosynthesis;Metabolic pathways,mtm00510;mtm01100
+MYCTH_2304302,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2304323,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2304387,Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00770;mtm01100;mtm01240
+MYCTH_2304403,Mitophagy - yeast,mtm04139
+MYCTH_2304429,RNA degradation,mtm03018
+MYCTH_2304441,Ribosome,mtm03010
+MYCTH_2304458,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2304464,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2304495,Spliceosome,mtm03040
+MYCTH_2304517,mRNA surveillance pathway,mtm03015
+MYCTH_2304523,Fatty acid elongation;Biosynthesis of unsaturated fatty acids;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism,mtm00062;mtm01040;mtm01100;mtm01110;mtm01212
+MYCTH_2304529,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2304539,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,mtm00563
+MYCTH_2304549,Thiamine metabolism;Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors,mtm00730;mtm00790;mtm01100;mtm01240
+MYCTH_2304552,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2304561,Tryptophan metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00380;mtm01100;mtm01240
+MYCTH_2304566,"Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Taurine and hypotaurine metabolism;Nitrogen metabolism;Metabolic pathways",mtm00220;mtm00250;mtm00430;mtm00910;mtm01100
+MYCTH_2304568,Ribosome,mtm03010
+MYCTH_2304570,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2304585,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2304592,RNA degradation,mtm03018
+MYCTH_2304594,Selenocompound metabolism;Aminoacyl-tRNA biosynthesis;Metabolic pathways,mtm00450;mtm00970;mtm01100
+MYCTH_2304598,Pyrimidine metabolism;Metabolic pathways,mtm00240;mtm01100
+MYCTH_2304601,Non-homologous end-joining,mtm03450
+MYCTH_2304605,Lysine degradation;Metabolic pathways,mtm00310;mtm01100
+MYCTH_2304613,Autophagy - yeast,mtm04138
+MYCTH_2304655,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2304659,Endocytosis,mtm04144
+MYCTH_2304670,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2304681,Basal transcription factors,mtm03022
+MYCTH_2304698,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2304703,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2304728,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2304760,Cell cycle - yeast;Meiosis - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04113;mtm04120
+MYCTH_2304768,"Purine metabolism;Alanine, aspartate and glutamate metabolism;Metabolic pathways;Biosynthesis of cofactors",mtm00230;mtm00250;mtm01100;mtm01240
+MYCTH_2304786,Folate biosynthesis;Metabolic pathways;Biosynthesis of cofactors;Sulfur relay system,mtm00790;mtm01100;mtm01240;mtm04122
+MYCTH_2304799,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2304829,Ribosome,mtm03010
+MYCTH_2304851,Glycerophospholipid metabolism,mtm00564
+MYCTH_2304857,Cell cycle - yeast;Autophagy - yeast,mtm04111;mtm04138
+MYCTH_2304865,mRNA surveillance pathway,mtm03015
+MYCTH_2304880,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2304883,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2304886,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2304889,RNA degradation,mtm03018
+MYCTH_2304900,"Alanine, aspartate and glutamate metabolism;Valine, leucine and isoleucine degradation;beta-Alanine metabolism;Propanoate metabolism;Butanoate metabolism;Metabolic pathways",mtm00250;mtm00280;mtm00410;mtm00640;mtm00650;mtm01100
+MYCTH_2304904,Lysine degradation;Metabolic pathways,mtm00310;mtm01100
+MYCTH_2304921,ABC transporters,mtm02010
+MYCTH_2304928,Spliceosome,mtm03040
+MYCTH_2304931,Glycolysis / Gluconeogenesis;Fructose and mannose metabolism;Inositol phosphate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00010;mtm00051;mtm00562;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2304940,Nucleotide excision repair;Ubiquitin mediated proteolysis,mtm03420;mtm04120
+MYCTH_2304944,Fatty acid degradation;Peroxisome,mtm00071;mtm04146
+MYCTH_2304947,Nicotinate and nicotinamide metabolism;Metabolic pathways;Peroxisome,mtm00760;mtm01100;mtm04146
+MYCTH_2304990,Mitophagy - yeast,mtm04139
+MYCTH_2305012,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2305025,Autophagy - yeast,mtm04138
+MYCTH_2305041,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2305043,Cysteine and methionine metabolism;Selenocompound metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00270;mtm00450;mtm01100;mtm01110;mtm01230
+MYCTH_2305051,Autophagy - other,mtm04136
+MYCTH_2305054,Peroxisome,mtm04146
+MYCTH_2305076,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2305078,Spliceosome,mtm03040
+MYCTH_2305086,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2305104,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2305107,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2305118,Meiosis - yeast,mtm04113
+MYCTH_2305189,Amino sugar and nucleotide sugar metabolism,mtm00520
+MYCTH_2305193,Cell cycle - yeast;Meiosis - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04113;mtm04120
+MYCTH_2305205,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system,mtm00562;mtm01100;mtm04070
+MYCTH_2305262,Autophagy - yeast,mtm04138
+MYCTH_2305269,Arginine and proline metabolism;Carbapenem biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00330;mtm00332;mtm01100;mtm01110;mtm01230
+MYCTH_2305337,SNARE interactions in vesicular transport;Autophagy - yeast,mtm04130;mtm04138
+MYCTH_2305350,Phagosome,mtm04145
+MYCTH_2305356,Spliceosome,mtm03040
+MYCTH_2305406,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2305407,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_2305429,Cell cycle - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04120
+MYCTH_2305507,mRNA surveillance pathway,mtm03015
+MYCTH_2305512,RNA polymerase,mtm03020
+MYCTH_2305515,Endocytosis,mtm04144
+MYCTH_2305575,Citrate cycle (TCA cycle);Cysteine and methionine metabolism;Pyruvate metabolism;Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm00270;mtm00620;mtm00630;mtm01100;mtm01110;mtm01200
+MYCTH_2305586,Metabolic pathways;Biosynthesis of cofactors,mtm01100;mtm01240
+MYCTH_2305591,SNARE interactions in vesicular transport,mtm04130
+MYCTH_2305592,Thiamine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00730;mtm01100;mtm01240
+MYCTH_2305611,Histidine metabolism;Metabolic pathways,mtm00340;mtm01100
+MYCTH_2305613,Pentose phosphate pathway;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00030;mtm01100;mtm01110;mtm01200
+MYCTH_2305614,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2305618,Metabolic pathways,mtm01100
+MYCTH_2305669,Metabolic pathways,mtm01100
+MYCTH_2305680,MAPK signaling pathway - yeast;Cell cycle - yeast;Meiosis - yeast,mtm04011;mtm04111;mtm04113
+MYCTH_2305681,Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm01100;mtm01110;mtm01240
+MYCTH_2305684,Endocytosis,mtm04144
+MYCTH_2305709,"Glycine, serine and threonine metabolism;Metabolic pathways",mtm00260;mtm01100
+MYCTH_2305742,"Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00290;mtm00770;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2305783,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_2305846,Ether lipid metabolism;Metabolic pathways,mtm00565;mtm01100
+MYCTH_2305865,Endocytosis,mtm04144
+MYCTH_2305924,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2305937,Autophagy - yeast,mtm04138
+MYCTH_2305985,Biosynthesis of cofactors,mtm01240
+MYCTH_2306029,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2306035,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2306081,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2306082,Autophagy - yeast,mtm04138
+MYCTH_2306123,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2306137,Cell cycle - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04120
+MYCTH_2306141,Proteasome,mtm03050
+MYCTH_2306158,Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00051;mtm00520;mtm01100;mtm01110;mtm01240
+MYCTH_2306173,"Alanine, aspartate and glutamate metabolism;Cyanoamino acid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00250;mtm00460;mtm01100;mtm01110
+MYCTH_2306242,Cell cycle - yeast,mtm04111
+MYCTH_2306244,MAPK signaling pathway - yeast;Cell cycle - yeast;Meiosis - yeast,mtm04011;mtm04111;mtm04113
+MYCTH_2306255,Mitophagy - yeast,mtm04139
+MYCTH_2306283,Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00130;mtm01100;mtm01110;mtm01240
+MYCTH_2306290,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2306300,Sulfur metabolism;Metabolic pathways,mtm00920;mtm01100
+MYCTH_2306309,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2306314,Sulfur metabolism;Metabolic pathways,mtm00920;mtm01100
+MYCTH_2306316,Ribosome,mtm03010
+MYCTH_2306323,Nicotinate and nicotinamide metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00760;mtm01100;mtm01240
+MYCTH_2306339,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2306344,ABC transporters,mtm02010
+MYCTH_2306357,Fatty acid biosynthesis;Fatty acid degradation;Metabolic pathways;Fatty acid metabolism;Peroxisome,mtm00061;mtm00071;mtm01100;mtm01212;mtm04146
+MYCTH_2306388,mRNA surveillance pathway,mtm03015
+MYCTH_2306407,Endocytosis,mtm04144
+MYCTH_2306416,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2306426,Cysteine and methionine metabolism;Metabolic pathways,mtm00270;mtm01100
+MYCTH_2306437,"Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Metabolic pathways;Carbon metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00220;mtm00250;mtm01100;mtm01200;mtm01210;mtm01230
+MYCTH_2306439,Proteasome,mtm03050
+MYCTH_2306440,mRNA surveillance pathway,mtm03015
+MYCTH_2306475,"Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Lysine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00260;mtm00270;mtm00300;mtm01100;mtm01110;mtm01230
+MYCTH_2306485,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_2306496,Basal transcription factors,mtm03022
+MYCTH_2306503,"Valine, leucine and isoleucine degradation;Propanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00280;mtm00640;mtm01100;mtm01110
+MYCTH_2306539,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2306540,Riboflavin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00740;mtm01100;mtm01110;mtm01240
+MYCTH_2306542,Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00130;mtm01100;mtm01110;mtm01240
+MYCTH_2306581,Nucleotide excision repair,mtm03420
+MYCTH_2306594,Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00051;mtm00520;mtm01100;mtm01110;mtm01240
+MYCTH_2306596,Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites,mtm00900;mtm01110
+MYCTH_2306608,Glycerolipid metabolism;Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00561;mtm00564;mtm01100;mtm01110
+MYCTH_2306639,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2306649,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2306650,Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00770;mtm01100;mtm01110;mtm01240
+MYCTH_2306681,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2306712,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2306716,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2306723,Phagosome,mtm04145
+MYCTH_2306744,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2306764,Other glycan degradation;Sphingolipid metabolism;Metabolic pathways,mtm00511;mtm00600;mtm01100
+MYCTH_2306772,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_2306777,Glycolysis / Gluconeogenesis;Fructose and mannose metabolism;Galactose metabolism;Starch and sucrose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00051;mtm00052;mtm00500;mtm00520;mtm01100;mtm01110;mtm01200
+MYCTH_2306784,Amino sugar and nucleotide sugar metabolism;Glycosaminoglycan degradation;Metabolic pathways;beta-Lactam resistance,mtm00520;mtm00531;mtm01100;mtm01501
+MYCTH_2306786,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_2306791,RNA degradation,mtm03018
+MYCTH_2306799,Nitrogen metabolism;Metabolic pathways,mtm00910;mtm01100
+MYCTH_2306813,"Cysteine and methionine metabolism;Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids;Biosynthesis of cofactors",mtm00270;mtm00280;mtm00290;mtm00770;mtm01100;mtm01110;mtm01210;mtm01230;mtm01240
+MYCTH_2306855,RNA degradation,mtm03018
+MYCTH_2306864,Basal transcription factors,mtm03022
+MYCTH_2306866,"Glycine, serine and threonine metabolism;Lysine degradation;Metabolic pathways;Peroxisome",mtm00260;mtm00310;mtm01100;mtm04146
+MYCTH_2306868,Spliceosome,mtm03040
+MYCTH_2306895,mRNA surveillance pathway,mtm03015
+MYCTH_2306915,Endocytosis,mtm04144
+MYCTH_2306919,Sulfur relay system,mtm04122
+MYCTH_2306934,Spliceosome,mtm03040
+MYCTH_2306943,Glycolysis / Gluconeogenesis;Pentose phosphate pathway;Fructose and mannose metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00030;mtm00051;mtm00680;mtm01100;mtm01110;mtm01200
+MYCTH_2306949,Peroxisome,mtm04146
+MYCTH_2306960,Ribosome,mtm03010
+MYCTH_2306966,mRNA surveillance pathway;RNA degradation,mtm03015;mtm03018
+MYCTH_2306980,Nucleotide excision repair,mtm03420
+MYCTH_2306984,Oxidative phosphorylation;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00190;mtm01100;mtm01110;mtm01240
+MYCTH_2306993,"Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids",mtm00260;mtm00270;mtm00680;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2306994,Pyruvate metabolism;Metabolic pathways,mtm00620;mtm01100
+MYCTH_2307037,Endocytosis,mtm04144
+MYCTH_2307068,Ribosome biogenesis in eukaryotes;Mitophagy - yeast,mtm03008;mtm04139
+MYCTH_2307086,Tyrosine metabolism;Metabolic pathways,mtm00350;mtm01100
+MYCTH_2307126,Basal transcription factors;Nucleotide excision repair,mtm03022;mtm03420
+MYCTH_2307131,Lysine biosynthesis;Pyruvate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00300;mtm00620;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2307146,Tyrosine metabolism;Metabolic pathways,mtm00350;mtm01100
+MYCTH_2307165,N-Glycan biosynthesis;Metabolic pathways,mtm00510;mtm01100
+MYCTH_2307175,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2307188,"Fatty acid degradation;Valine, leucine and isoleucine degradation;alpha-Linolenic acid metabolism;Biosynthesis of unsaturated fatty acids;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism;Peroxisome",mtm00071;mtm00280;mtm00592;mtm01040;mtm01100;mtm01110;mtm01212;mtm04146
+MYCTH_2307240,RNA degradation,mtm03018
+MYCTH_2307257,ABC transporters,mtm02010
+MYCTH_2307289,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2307294,Meiosis - yeast;Autophagy - other;Autophagy - yeast;Mitophagy - yeast,mtm04113;mtm04136;mtm04138;mtm04139
+MYCTH_2307312,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2307323,RNA degradation,mtm03018
+MYCTH_2307328,Citrate cycle (TCA cycle);Glutathione metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids;Peroxisome,mtm00020;mtm00480;mtm01100;mtm01110;mtm01200;mtm01210;mtm01230;mtm04146
+MYCTH_2307345,Glycerolipid metabolism;Metabolic pathways,mtm00561;mtm01100
+MYCTH_2307368,One carbon pool by folate;Metabolic pathways;Biosynthesis of cofactors,mtm00670;mtm01100;mtm01240
+MYCTH_2307394,Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00130;mtm01100;mtm01110;mtm01240
+MYCTH_2307396,Glycerophospholipid metabolism;Ether lipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Endocytosis,mtm00564;mtm00565;mtm01100;mtm01110;mtm04144
+MYCTH_2307400,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2307401,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2307409,MAPK signaling pathway - yeast;Ubiquitin mediated proteolysis;Endocytosis,mtm04011;mtm04120;mtm04144
+MYCTH_2307416,mRNA surveillance pathway,mtm03015
+MYCTH_2307423,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways,mtm00510;mtm00513;mtm01100
+MYCTH_2307429,Metabolic pathways,mtm01100
+MYCTH_2307431,RNA degradation,mtm03018
+MYCTH_2307432,Fatty acid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism,mtm00061;mtm01100;mtm01110;mtm01212
+MYCTH_2307444,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2307463,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2307471,Steroid biosynthesis,mtm00100
+MYCTH_2307473,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2307483,RNA polymerase,mtm03020
+MYCTH_2307549,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2307570,RNA polymerase,mtm03020
+MYCTH_2307600,Tryptophan metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00380;mtm01100;mtm01240
+MYCTH_2307601,Endocytosis,mtm04144
+MYCTH_2307630,Arginine and proline metabolism,mtm00330
+MYCTH_2307642,"Glycine, serine and threonine metabolism;Cyanoamino acid metabolism;Glyoxylate and dicarboxylate metabolism;One carbon pool by folate;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids;Biosynthesis of cofactors",mtm00260;mtm00460;mtm00630;mtm00670;mtm00680;mtm01100;mtm01110;mtm01200;mtm01230;mtm01240
+MYCTH_2307676,Spliceosome,mtm03040
+MYCTH_2307767,Galactose metabolism;Other glycan degradation;Sphingolipid metabolism;Metabolic pathways,mtm00052;mtm00511;mtm00600;mtm01100
+MYCTH_2307769,Autophagy - yeast,mtm04138
+MYCTH_2307770,"Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00220;mtm00250;mtm01100;mtm01110;mtm01230
+MYCTH_2307782,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2307792,DNA replication,mtm03030
+MYCTH_2307842,Nitrogen metabolism;Metabolic pathways,mtm00910;mtm01100
+MYCTH_2307908,Pyruvate metabolism;Carbon metabolism,mtm00620;mtm01200
+MYCTH_2308004,Endocytosis,mtm04144
+MYCTH_2308005,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2308056,Peroxisome,mtm04146
+MYCTH_2308073,Pyrimidine metabolism;One carbon pool by folate;Metabolic pathways,mtm00240;mtm00670;mtm01100
+MYCTH_2308099,Arachidonic acid metabolism;Folate biosynthesis;Metabolic pathways,mtm00590;mtm00790;mtm01100
+MYCTH_2308111,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2308120,Fructose and mannose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00051;mtm00520;mtm01100;mtm01110;mtm01240
+MYCTH_2308129,Sulfur metabolism;Metabolic pathways,mtm00920;mtm01100
+MYCTH_2308168,Other glycan degradation,mtm00511
+MYCTH_2308190,Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites,mtm00900;mtm01110
+MYCTH_2308202,DNA replication;Base excision repair;Nucleotide excision repair;Mismatch repair,mtm03030;mtm03410;mtm03420;mtm03430
+MYCTH_2308236,Ribosome;Ubiquitin mediated proteolysis,mtm03010;mtm04120
+MYCTH_2308241,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_2308261,Fatty acid biosynthesis;Biotin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism;Biosynthesis of cofactors,mtm00061;mtm00780;mtm01100;mtm01110;mtm01212;mtm01240
+MYCTH_2308296,Endocytosis,mtm04144
+MYCTH_2308304,Endocytosis,mtm04144
+MYCTH_2308306,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2308335,RNA degradation,mtm03018
+MYCTH_2308345,Sulfur metabolism;Metabolic pathways,mtm00920;mtm01100
+MYCTH_2308352,Oxidative phosphorylation;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00190;mtm01100;mtm01110;mtm01240
+MYCTH_2308377,Proteasome,mtm03050
+MYCTH_2308439,Spliceosome,mtm03040
+MYCTH_2308449,Tryptophan metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00380;mtm01100;mtm01240
+MYCTH_2308456,Thiamine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00730;mtm01100;mtm01240
+MYCTH_2308457,Nitrogen metabolism;Metabolic pathways,mtm00910;mtm01100
+MYCTH_2308482,Mismatch repair,mtm03430
+MYCTH_2308492,"Valine, leucine and isoleucine degradation;Butanoate metabolism;Metabolic pathways",mtm00280;mtm00650;mtm01100
+MYCTH_2308513,Cell cycle - yeast,mtm04111
+MYCTH_2308533,"Valine, leucine and isoleucine degradation;Butanoate metabolism;Metabolic pathways",mtm00280;mtm00650;mtm01100
+MYCTH_2308577,Mismatch repair,mtm03430
+MYCTH_2308594,"Alanine, aspartate and glutamate metabolism;beta-Alanine metabolism;Taurine and hypotaurine metabolism;Butanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00250;mtm00410;mtm00430;mtm00650;mtm01100;mtm01110
+MYCTH_2308647,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2308649,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2308652,mRNA surveillance pathway,mtm03015
+MYCTH_2308658,RNA degradation,mtm03018
+MYCTH_2308660,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2308663,mRNA surveillance pathway,mtm03015
+MYCTH_2308682,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2308692,Various types of N-glycan biosynthesis;Metabolic pathways,mtm00513;mtm01100
+MYCTH_2308737,Autophagy - yeast,mtm04138
+MYCTH_2308740,RNA degradation,mtm03018
+MYCTH_2308744,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2308761,Basal transcription factors,mtm03022
+MYCTH_2308771,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2308779,Mismatch repair,mtm03430
+MYCTH_2308790,DNA replication;Base excision repair;Non-homologous end-joining,mtm03030;mtm03410;mtm03450
+MYCTH_2308798,Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04120;mtm04141
+MYCTH_2308801,Fatty acid degradation;Lysine degradation;Tryptophan metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00071;mtm00310;mtm00380;mtm01100;mtm01110
+MYCTH_2308809,Inositol phosphate metabolism;Metabolic pathways;MAPK signaling pathway - yeast;Phosphatidylinositol signaling system;Mitophagy - yeast;Endocytosis,mtm00562;mtm01100;mtm04011;mtm04070;mtm04139;mtm04144
+MYCTH_2308812,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2308814,Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites,mtm00900;mtm01110
+MYCTH_2308819,Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00564;mtm01100;mtm01110
+MYCTH_2308831,"Glycine, serine and threonine metabolism;Tyrosine metabolism;Phenylalanine metabolism;beta-Alanine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00260;mtm00350;mtm00360;mtm00410;mtm01100;mtm01110
+MYCTH_2308837,Aminoacyl-tRNA biosynthesis;Metabolic pathways,mtm00970;mtm01100
+MYCTH_2308921,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2308969,Proteasome,mtm03050
+MYCTH_2308988,Steroid biosynthesis;Glycerolipid metabolism;Glycerophospholipid metabolism;Ether lipid metabolism;Arachidonic acid metabolism;Linoleic acid metabolism;alpha-Linolenic acid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm00561;mtm00564;mtm00565;mtm00590;mtm00591;mtm00592;mtm01100;mtm01110
+MYCTH_2309006,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2309008,Ribosome,mtm03010
+MYCTH_2309021,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2309046,Ribosome,mtm03010
+MYCTH_2309055,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways",mtm00400;mtm01100
+MYCTH_2309056,Ubiquinone and other terpenoid-quinone biosynthesis;Tyrosine metabolism;Phenylalanine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00130;mtm00350;mtm00360;mtm01100;mtm01240
+MYCTH_2309057,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2309061,Cysteine and methionine metabolism;Sulfur metabolism;Metabolic pathways;Sulfur relay system,mtm00270;mtm00920;mtm01100;mtm04122
+MYCTH_2309065,Cell cycle - yeast;Meiosis - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04113;mtm04120
+MYCTH_2309088,"Glycine, serine and threonine metabolism;Valine, leucine and isoleucine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids",mtm00260;mtm00290;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2309110,Cysteine and methionine metabolism;Selenocompound metabolism;Sulfur metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00270;mtm00450;mtm00920;mtm01100;mtm01110;mtm01230
+MYCTH_2309125,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2309135,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2309142,Ribosome,mtm03010
+MYCTH_2309146,Glycerolipid metabolism;Metabolic pathways,mtm00561;mtm01100
+MYCTH_2309166,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2309205,Protein export,mtm03060
+MYCTH_2309210,"Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Glycine, serine and threonine metabolism;Valine, leucine and isoleucine degradation;Lysine degradation;Tryptophan metabolism;Pyruvate metabolism;Glyoxylate and dicarboxylate metabolism;Propanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of cofactors",mtm00010;mtm00020;mtm00260;mtm00280;mtm00310;mtm00380;mtm00620;mtm00630;mtm00640;mtm01100;mtm01110;mtm01200;mtm01240
+MYCTH_2309261,Citrate cycle (TCA cycle);Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00020;mtm00630;mtm01100;mtm01110;mtm01200;mtm01210;mtm01230
+MYCTH_2309271,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2309273,Proteasome,mtm03050
+MYCTH_2309275,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2309291,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2309299,"Glycine, serine and threonine metabolism;Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00260;mtm00564;mtm01100;mtm01110
+MYCTH_2309342,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2309353,Homologous recombination,mtm03440
+MYCTH_2309354,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2309375,Arginine biosynthesis;Arginine and proline metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00220;mtm00330;mtm01100;mtm01110;mtm01230
+MYCTH_2309406,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2309422,Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm01100;mtm01110;mtm01240
+MYCTH_2309471,Sulfur metabolism;Metabolic pathways,mtm00920;mtm01100
+MYCTH_2309547,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_2309618,ABC transporters,mtm02010
+MYCTH_2309644,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2309686,Pentose phosphate pathway;Metabolic pathways,mtm00030;mtm01100
+MYCTH_2309720,Glycerophospholipid metabolism,mtm00564
+MYCTH_2309751,Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00770;mtm01100;mtm01110;mtm01240
+MYCTH_2309758,Endocytosis,mtm04144
+MYCTH_2309764,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_2309766,Sulfur metabolism;Metabolic pathways,mtm00920;mtm01100
+MYCTH_2309784,Oxidative phosphorylation,mtm00190
+MYCTH_2309800,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2309812,DNA replication;Cell cycle - yeast;Meiosis - yeast,mtm03030;mtm04111;mtm04113
+MYCTH_2309816,Endocytosis,mtm04144
+MYCTH_2309838,MAPK signaling pathway - yeast;Mitophagy - yeast,mtm04011;mtm04139
+MYCTH_2309843,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_2309848,Meiosis - yeast,mtm04113
+MYCTH_2309854,Cell cycle - yeast;Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04111;mtm04120;mtm04141
+MYCTH_2309890,beta-Alanine metabolism;Propanoate metabolism;Metabolic pathways;Carbon metabolism,mtm00410;mtm00640;mtm01100;mtm01200
+MYCTH_2309919,Pentose and glucuronate interconversions;Fructose and mannose metabolism;Metabolic pathways,mtm00040;mtm00051;mtm01100
+MYCTH_2309927,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2309929,Phosphatidylinositol signaling system,mtm04070
+MYCTH_2309965,Spliceosome,mtm03040
+MYCTH_2309971,Inositol phosphate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Phosphatidylinositol signaling system,mtm00562;mtm01100;mtm01110;mtm04070
+MYCTH_2310016,Protein export;Protein processing in endoplasmic reticulum,mtm03060;mtm04141
+MYCTH_2310028,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2310064,One carbon pool by folate;Metabolic pathways,mtm00670;mtm01100
+MYCTH_2310069,Spliceosome,mtm03040
+MYCTH_2310099,Endocytosis,mtm04144
+MYCTH_2310121,"Histidine metabolism;Tyrosine metabolism;Phenylalanine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00340;mtm00350;mtm00360;mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2310148,Pantothenate and CoA biosynthesis,mtm00770
+MYCTH_2310149,Pantothenate and CoA biosynthesis,mtm00770
+MYCTH_2310162,Phagosome,mtm04145
+MYCTH_2310189,Spliceosome,mtm03040
+MYCTH_2310192,Cysteine and methionine metabolism;Sulfur metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00270;mtm00920;mtm01100;mtm01110;mtm01230
+MYCTH_2310203,Glycerophospholipid metabolism,mtm00564
+MYCTH_2310228,Fatty acid biosynthesis;Metabolic pathways;Fatty acid metabolism,mtm00061;mtm01100;mtm01212
+MYCTH_2310232,Fatty acid biosynthesis;Metabolic pathways;Fatty acid metabolism,mtm00061;mtm01100;mtm01212
+MYCTH_2310234,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2310252,Galactose metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00052;mtm00520;mtm01100
+MYCTH_2310269,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2310298,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_2310394,Fatty acid elongation;Metabolic pathways;Fatty acid metabolism,mtm00062;mtm01100;mtm01212
+MYCTH_2310396,Glycerophospholipid metabolism;Ether lipid metabolism;Metabolic pathways,mtm00564;mtm00565;mtm01100
+MYCTH_2310419,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways,mtm00510;mtm00513;mtm01100
+MYCTH_2310435,"Fatty acid degradation;Valine, leucine and isoleucine degradation;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism",mtm00071;mtm00280;mtm01100;mtm01110;mtm01212
+MYCTH_2310437,Other types of O-glycan biosynthesis,mtm00514
+MYCTH_2310439,RNA degradation,mtm03018
+MYCTH_2310453,Vitamin B6 metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00750;mtm01100;mtm01240
+MYCTH_2310492,"Valine, leucine and isoleucine degradation;beta-Alanine metabolism;Propanoate metabolism;Metabolic pathways;Carbon metabolism",mtm00280;mtm00410;mtm00640;mtm01100;mtm01200
+MYCTH_2310516,Nucleotide excision repair,mtm03420
+MYCTH_2310521,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2310541,Endocytosis,mtm04144
+MYCTH_2310546,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2310567,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2310607,Nucleotide excision repair;Ubiquitin mediated proteolysis,mtm03420;mtm04120
+MYCTH_2310645,Fatty acid elongation;Biosynthesis of unsaturated fatty acids;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism,mtm00062;mtm01040;mtm01100;mtm01110;mtm01212
+MYCTH_2310653,Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04120;mtm04141
+MYCTH_2310660,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways,mtm00510;mtm00513;mtm01100
+MYCTH_2310667,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2310737,Protein export,mtm03060
+MYCTH_2310754,Endocytosis,mtm04144
+MYCTH_2310786,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2310794,Basal transcription factors,mtm03022
+MYCTH_2310803,Spliceosome,mtm03040
+MYCTH_2310810,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system;Autophagy - yeast,mtm00562;mtm01100;mtm04070;mtm04138
+MYCTH_2310812,mRNA surveillance pathway,mtm03015
+MYCTH_2310821,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2310830,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2310869,Autophagy - yeast;Endocytosis,mtm04138;mtm04144
+MYCTH_2310878,Spliceosome,mtm03040
+MYCTH_2310881,Other types of O-glycan biosynthesis;Mannose type O-glycan biosynthesis;Metabolic pathways,mtm00514;mtm00515;mtm01100
+MYCTH_2310893,SNARE interactions in vesicular transport,mtm04130
+MYCTH_2310900,Pentose and glucuronate interconversions;Fructose and mannose metabolism;Metabolic pathways,mtm00040;mtm00051;mtm01100
+MYCTH_2310901,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_2310909,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_2310921,MAPK signaling pathway - yeast;Mitophagy - yeast,mtm04011;mtm04139
+MYCTH_2310941,Endocytosis,mtm04144
+MYCTH_2310989,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2310998,Endocytosis,mtm04144
+MYCTH_2310999,RNA degradation,mtm03018
+MYCTH_2311001,Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00630;mtm01100;mtm01110;mtm01200
+MYCTH_2311035,"Glycine, serine and threonine metabolism;Tyrosine metabolism;Phenylalanine metabolism;beta-Alanine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00260;mtm00350;mtm00360;mtm00410;mtm01100;mtm01110
+MYCTH_2311044,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2311053,Phagosome,mtm04145
+MYCTH_2311062,Citrate cycle (TCA cycle);Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00020;mtm00630;mtm01100;mtm01110;mtm01200;mtm01210;mtm01230
+MYCTH_2311065,"Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Glyoxylate and dicarboxylate metabolism;Nitrogen metabolism;Metabolic pathways;Biosynthesis of amino acids",mtm00220;mtm00250;mtm00630;mtm00910;mtm01100;mtm01230
+MYCTH_2311072,Glycolysis / Gluconeogenesis;Pyruvate metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00620;mtm00680;mtm01100;mtm01110;mtm01200
+MYCTH_2311083,"Glycine, serine and threonine metabolism;Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism",mtm00260;mtm00630;mtm01100;mtm01110;mtm01200
+MYCTH_2311092,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2311157,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2311189,Ribosome,mtm03010
+MYCTH_2311235,Metabolic pathways,mtm01100
+MYCTH_2311243,Glyoxylate and dicarboxylate metabolism;One carbon pool by folate,mtm00630;mtm00670
+MYCTH_2311258,"Glycine, serine and threonine metabolism;Metabolic pathways",mtm00260;mtm01100
+MYCTH_2311282,Sulfur metabolism;Metabolic pathways,mtm00920;mtm01100
+MYCTH_2311288,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2311297,Basal transcription factors,mtm03022
+MYCTH_2311298,Homologous recombination;Non-homologous end-joining,mtm03440;mtm03450
+MYCTH_2311299,Cell cycle - yeast;Meiosis - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04113;mtm04120
+MYCTH_2311300,Nicotinate and nicotinamide metabolism;Metabolic pathways,mtm00760;mtm01100
+MYCTH_2311330,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2311349,DNA replication,mtm03030
+MYCTH_2311368,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2311378,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2311384,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2311408,RNA polymerase,mtm03020
+MYCTH_2311423,Autophagy - yeast,mtm04138
+MYCTH_2311425,Phosphatidylinositol signaling system;Autophagy - yeast,mtm04070;mtm04138
+MYCTH_2311451,Purine metabolism;Pyrimidine metabolism;Glutathione metabolism;Metabolic pathways,mtm00230;mtm00240;mtm00480;mtm01100
+MYCTH_2311467,Autophagy - yeast,mtm04138
+MYCTH_2311469,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways,mtm00510;mtm00513;mtm01100
+MYCTH_2311481,Mitophagy - yeast,mtm04139
+MYCTH_2311494,Pyrimidine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00240;mtm01100;mtm01240
+MYCTH_2311495,Inositol phosphate metabolism;Glycerophospholipid metabolism;Metabolic pathways;Phosphatidylinositol signaling system,mtm00562;mtm00564;mtm01100;mtm04070
+MYCTH_2311498,Protein export,mtm03060
+MYCTH_2311509,Basal transcription factors,mtm03022
+MYCTH_2311518,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2311525,Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites,mtm00900;mtm01110
+MYCTH_2311535,mRNA surveillance pathway,mtm03015
+MYCTH_2311543,Autophagy - yeast;Endocytosis,mtm04138;mtm04144
+MYCTH_2311548,Endocytosis,mtm04144
+MYCTH_2311550,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_2311557,"Glycine, serine and threonine metabolism;Vitamin B6 metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00260;mtm00750;mtm01100;mtm01110;mtm01230
+MYCTH_2311559,mRNA surveillance pathway,mtm03015
+MYCTH_2311577,Glycerophospholipid metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00564;mtm01100;mtm01110
+MYCTH_2311587,Autophagy - yeast,mtm04138
+MYCTH_2311591,Ribosome,mtm03010
+MYCTH_2311601,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2311651,Tryptophan metabolism;Metabolic pathways,mtm00380;mtm01100
+MYCTH_2311660,RNA degradation,mtm03018
+MYCTH_2311677,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways,mtm00510;mtm00513;mtm01100
+MYCTH_2311684,Biosynthesis of unsaturated fatty acids;Metabolic pathways;Fatty acid metabolism;Peroxisome,mtm01040;mtm01100;mtm01212;mtm04146
+MYCTH_2311689,Purine metabolism;Caffeine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Peroxisome,mtm00230;mtm00232;mtm01100;mtm01110;mtm04146
+MYCTH_2311698,Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04120;mtm04141
+MYCTH_2311706,Mitophagy - yeast,mtm04139
+MYCTH_2311711,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2311726,Ribosome,mtm03010
+MYCTH_2311727,RNA degradation,mtm03018
+MYCTH_2311735,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2311737,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2311785,Meiosis - yeast,mtm04113
+MYCTH_2311811,Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00130;mtm01100;mtm01110;mtm01240
+MYCTH_2311835,Autophagy - other;Autophagy - yeast;Mitophagy - yeast,mtm04136;mtm04138;mtm04139
+MYCTH_2311843,Autophagy - yeast,mtm04138
+MYCTH_2311855,Glycolysis / Gluconeogenesis;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00010;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2311886,Spliceosome,mtm03040
+MYCTH_2311889,Nicotinate and nicotinamide metabolism;Metabolic pathways,mtm00760;mtm01100
+MYCTH_2311907,Endocytosis,mtm04144
+MYCTH_2311910,"Alanine, aspartate and glutamate metabolism;Glycine, serine and threonine metabolism;Glyoxylate and dicarboxylate metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Peroxisome",mtm00250;mtm00260;mtm00630;mtm00680;mtm01100;mtm01110;mtm01200;mtm04146
+MYCTH_2311912,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2311944,Ribosome,mtm03010
+MYCTH_2311956,Endocytosis,mtm04144
+MYCTH_2311966,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2311970,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2311995,Basal transcription factors;Nucleotide excision repair,mtm03022;mtm03420
+MYCTH_2312029,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2312035,RNA degradation,mtm03018
+MYCTH_2312036,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2312046,Ribosome,mtm03010
+MYCTH_2312083,Pentose phosphate pathway;Purine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00030;mtm00230;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2312102,Ribosome,mtm03010
+MYCTH_2312111,RNA polymerase,mtm03020
+MYCTH_2312115,Peroxisome,mtm04146
+MYCTH_2312147,Citrate cycle (TCA cycle);Propanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm00640;mtm01100;mtm01110;mtm01200
+MYCTH_2312159,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2312170,Ribosome,mtm03010
+MYCTH_2312181,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2312214,ABC transporters;Peroxisome,mtm02010;mtm04146
+MYCTH_2312237,Basal transcription factors;Nucleotide excision repair,mtm03022;mtm03420
+MYCTH_2312253,Ribosome,mtm03010
+MYCTH_2312284,Proteasome,mtm03050
+MYCTH_2312297,Cell cycle - yeast,mtm04111
+MYCTH_2312316,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2312322,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2312360,Spliceosome,mtm03040
+MYCTH_2312362,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_2312374,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_2312383,Citrate cycle (TCA cycle);Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm01100;mtm01110;mtm01200
+MYCTH_2312385,Basal transcription factors;Nucleotide excision repair,mtm03022;mtm03420
+MYCTH_2312390,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2312423,Spliceosome,mtm03040
+MYCTH_2312445,Spliceosome,mtm03040
+MYCTH_2312474,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2312501,Arginine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00220;mtm01100;mtm01110;mtm01230
+MYCTH_2312523,Autophagy - yeast,mtm04138
+MYCTH_2312538,Other types of O-glycan biosynthesis;Mannose type O-glycan biosynthesis;Metabolic pathways,mtm00514;mtm00515;mtm01100
+MYCTH_2312551,Cysteine and methionine metabolism;Sulfur metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00270;mtm00920;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2312570,Citrate cycle (TCA cycle);Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00020;mtm00630;mtm01100;mtm01110;mtm01200;mtm01210;mtm01230
+MYCTH_2312579,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2312608,mRNA surveillance pathway,mtm03015
+MYCTH_2312639,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_2312662,"Alanine, aspartate and glutamate metabolism;Nitrogen metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00250;mtm00910;mtm01100;mtm01110;mtm01230
+MYCTH_2312668,SNARE interactions in vesicular transport,mtm04130
+MYCTH_2312705,Ribosome,mtm03010
+MYCTH_2312753,Various types of N-glycan biosynthesis;Metabolic pathways,mtm00513;mtm01100
+MYCTH_2312755,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2312770,DNA replication;Nucleotide excision repair;Mismatch repair,mtm03030;mtm03420;mtm03430
+MYCTH_2312776,DNA replication;Nucleotide excision repair;Mismatch repair,mtm03030;mtm03420;mtm03430
+MYCTH_2312782,RNA polymerase,mtm03020
+MYCTH_2312789,"Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00220;mtm00250;mtm01100;mtm01110;mtm01230
+MYCTH_2312792,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2312808,Citrate cycle (TCA cycle);Metabolic pathways;Biosynthesis of secondary metabolites,mtm00020;mtm01100;mtm01110
+MYCTH_2312809,Ribosome,mtm03010
+MYCTH_2312819,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways,mtm00510;mtm00513;mtm01100
+MYCTH_2312849,Arginine biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids,mtm00220;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_2312869,"Valine, leucine and isoleucine degradation;Butanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Peroxisome",mtm00280;mtm00650;mtm01100;mtm01110;mtm04146
+MYCTH_2312902,Tryptophan metabolism;Cyanoamino acid metabolism;Nitrogen metabolism;Metabolic pathways,mtm00380;mtm00460;mtm00910;mtm01100
+MYCTH_2312905,Mismatch repair,mtm03430
+MYCTH_2312908,Autophagy - yeast,mtm04138
+MYCTH_2312913,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2312940,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_2312943,Endocytosis,mtm04144
+MYCTH_2312947,Phagosome,mtm04145
+MYCTH_2312962,Ribosome,mtm03010
+MYCTH_2312966,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2312968,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2312981,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2313014,Pyruvate metabolism;Metabolic pathways,mtm00620;mtm01100
+MYCTH_2313117,Oxidative phosphorylation,mtm00190
+MYCTH_2313124,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2313137,Galactose metabolism;Glycerolipid metabolism;Sphingolipid metabolism;Glycosphingolipid biosynthesis - globo and isoglobo series;Metabolic pathways,mtm00052;mtm00561;mtm00600;mtm00603;mtm01100
+MYCTH_2313145,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2313159,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2313161,DNA replication;Nucleotide excision repair;Mismatch repair,mtm03030;mtm03420;mtm03430
+MYCTH_2313212,"Glycine, serine and threonine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00260;mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_2313215,Ribosome,mtm03010
+MYCTH_2313219,"Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Cysteine and methionine metabolism;Arginine and proline metabolism;Tyrosine metabolism;Phenylalanine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00220;mtm00250;mtm00270;mtm00330;mtm00350;mtm00360;mtm00400;mtm01100;mtm01110;mtm01200;mtm01210;mtm01230
+MYCTH_2313301,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2313331,Protein processing in endoplasmic reticulum,mtm04141
+MYCTH_2313342,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2313356,Cell cycle - yeast;Meiosis - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04113;mtm04120
+MYCTH_2313362,Endocytosis,mtm04144
+MYCTH_2313379,Ribosome,mtm03010
+MYCTH_2313529,Glycerophospholipid metabolism;Biosynthesis of secondary metabolites;MAPK signaling pathway - yeast,mtm00564;mtm01110;mtm04011
+MYCTH_2313535,Proteasome,mtm03050
+MYCTH_2313559,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2313562,Ubiquinone and other terpenoid-quinone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00130;mtm01100;mtm01110;mtm01240
+MYCTH_2313627,Vitamin B6 metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00750;mtm01100;mtm01240
+MYCTH_2313641,Glutathione metabolism;Metabolic pathways,mtm00480;mtm01100
+MYCTH_2313651,SNARE interactions in vesicular transport;Autophagy - yeast,mtm04130;mtm04138
+MYCTH_2313750,"Glycine, serine and threonine metabolism;Glyoxylate and dicarboxylate metabolism;One carbon pool by folate;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism",mtm00260;mtm00630;mtm00670;mtm01100;mtm01110;mtm01200
+MYCTH_2313759,Ribosome,mtm03010
+MYCTH_2313766,Ribosome,mtm03010
+MYCTH_2313783,Cysteine and methionine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids;Biosynthesis of cofactors,mtm00270;mtm01100;mtm01110;mtm01230;mtm01240
+MYCTH_2313790,Ribosome,mtm03010
+MYCTH_2313806,Proteasome,mtm03050
+MYCTH_2313833,"Alanine, aspartate and glutamate metabolism;Amino sugar and nucleotide sugar metabolism;Metabolic pathways",mtm00250;mtm00520;mtm01100
+MYCTH_2313891,Ribosome,mtm03010
+MYCTH_2313931,Proteasome,mtm03050
+MYCTH_2314011,Ribosome,mtm03010
+MYCTH_2314123,"Pyrimidine metabolism;Alanine, aspartate and glutamate metabolism;Metabolic pathways;Biosynthesis of cofactors",mtm00240;mtm00250;mtm01100;mtm01240
+MYCTH_2314125,Endocytosis,mtm04144
+MYCTH_2314136,Cysteine and methionine metabolism;Selenocompound metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00270;mtm00450;mtm01100;mtm01110;mtm01230
+MYCTH_2314148,Purine metabolism;Pyrimidine metabolism;Metabolic pathways,mtm00230;mtm00240;mtm01100
+MYCTH_2314160,One carbon pool by folate;Metabolic pathways;Carbon metabolism,mtm00670;mtm01100;mtm01200
+MYCTH_2314205,Endocytosis,mtm04144
+MYCTH_2314258,RNA polymerase,mtm03020
+MYCTH_2314321,"Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Cysteine and methionine metabolism;Arginine and proline metabolism;Tyrosine metabolism;Phenylalanine metabolism;Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00220;mtm00250;mtm00270;mtm00330;mtm00350;mtm00360;mtm00400;mtm01100;mtm01110;mtm01200;mtm01210;mtm01230
+MYCTH_2314502,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2314521,Ribosome,mtm03010
+MYCTH_2314529,Ribosome,mtm03010
+MYCTH_2314544,Pyruvate metabolism;Metabolic pathways,mtm00620;mtm01100
+MYCTH_2314609,Ribosome,mtm03010
+MYCTH_2314616,"Glycine, serine and threonine metabolism;Cysteine and methionine metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids",mtm00260;mtm00270;mtm00680;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2314627,SNARE interactions in vesicular transport;Phagosome,mtm04130;mtm04145
+MYCTH_2314668,mRNA surveillance pathway;Spliceosome,mtm03015;mtm03040
+MYCTH_2314691,Protein export;Protein processing in endoplasmic reticulum;Phagosome,mtm03060;mtm04141;mtm04145
+MYCTH_2314726,Cell cycle - yeast;Ubiquitin mediated proteolysis,mtm04111;mtm04120
+MYCTH_2314728,Ribosome,mtm03010
+MYCTH_2314785,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2314839,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_2314842,Folate biosynthesis;Biosynthesis of cofactors,mtm00790;mtm01240
+MYCTH_2314846,RNA degradation,mtm03018
+MYCTH_2314882,"Glycine, serine and threonine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00260;mtm01100;mtm01110;mtm01230
+MYCTH_2314931,Sphingolipid metabolism;Metabolic pathways,mtm00600;mtm01100
+MYCTH_2314933,Ribosome,mtm03010
+MYCTH_2314934,Ribosome,mtm03010
+MYCTH_2315007,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_2315009,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00563;mtm01100
+MYCTH_2315024,Purine metabolism;Caffeine metabolism;Metabolic pathways,mtm00230;mtm00232;mtm01100
+MYCTH_2315051,Ribosome,mtm03010
+MYCTH_2315052,Citrate cycle (TCA cycle);Cysteine and methionine metabolism;Pyruvate metabolism;Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm00270;mtm00620;mtm00630;mtm01100;mtm01110;mtm01200
+MYCTH_2315077,Ribosome,mtm03010
+MYCTH_2315098,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2315100,mRNA surveillance pathway;Meiosis - yeast,mtm03015;mtm04113
+MYCTH_2315106,N-Glycan biosynthesis;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis;Metabolic pathways,mtm00510;mtm00563;mtm01100
+MYCTH_2315114,Pentose phosphate pathway;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00030;mtm01100;mtm01110;mtm01200
+MYCTH_2315209,Ribosome,mtm03010
+MYCTH_2315211,Cell cycle - yeast;Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04111;mtm04120;mtm04141
+MYCTH_2315249,Ribosome,mtm03010
+MYCTH_2315255,SNARE interactions in vesicular transport;Autophagy - yeast,mtm04130;mtm04138
+MYCTH_2315290,Ribosome,mtm03010
+MYCTH_2315322,mRNA surveillance pathway,mtm03015
+MYCTH_2315436,Lysine degradation;Metabolic pathways,mtm00310;mtm01100
+MYCTH_2315513,Protein export;Protein processing in endoplasmic reticulum,mtm03060;mtm04141
+MYCTH_2315516,SNARE interactions in vesicular transport,mtm04130
+MYCTH_2315552,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2315566,Autophagy - yeast,mtm04138
+MYCTH_2315602,Ribosome,mtm03010
+MYCTH_2315623,Glycolysis / Gluconeogenesis;Citrate cycle (TCA cycle);Pyruvate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00010;mtm00020;mtm00620;mtm01100;mtm01110;mtm01200
+MYCTH_2315649,Ribosome,mtm03010
+MYCTH_2315657,Ubiquitin mediated proteolysis;Protein processing in endoplasmic reticulum,mtm04120;mtm04141
+MYCTH_2315711,Ribosome,mtm03010
+MYCTH_2315754,Arginine and proline metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00330;mtm01100;mtm01110
+MYCTH_2315781,Ribosome,mtm03010
+MYCTH_2315847,"Valine, leucine and isoleucine degradation;Metabolic pathways",mtm00280;mtm01100
+MYCTH_2315848,MAPK signaling pathway - yeast;Mitophagy - yeast,mtm04011;mtm04139
+MYCTH_2315910,Thiamine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00730;mtm01100;mtm01240
+MYCTH_2315941,"Glycolysis / Gluconeogenesis;Glycine, serine and threonine metabolism;Methane metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids",mtm00010;mtm00260;mtm00680;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2315948,DNA replication,mtm03030
+MYCTH_2316017,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2316023,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2316024,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_2316112,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2316205,Endocytosis,mtm04144
+MYCTH_2316209,MAPK signaling pathway - yeast;Mitophagy - yeast,mtm04011;mtm04139
+MYCTH_2316240,Glycolysis / Gluconeogenesis;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00010;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_2316262,Vitamin B6 metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00750;mtm01100;mtm01240
+MYCTH_2316294,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2316346,"Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Glyoxylate and dicarboxylate metabolism;Nitrogen metabolism;Metabolic pathways;Biosynthesis of amino acids",mtm00220;mtm00250;mtm00630;mtm00910;mtm01100;mtm01230
+MYCTH_2316407,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2316413,MAPK signaling pathway - yeast,mtm04011
+MYCTH_2316445,Ribosome,mtm03010
+MYCTH_2316483,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_2316489,Ubiquitin mediated proteolysis,mtm04120
+MYCTH_2316497,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2316519,SNARE interactions in vesicular transport,mtm04130
+MYCTH_2316525,Purine metabolism;Thiamine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00230;mtm00730;mtm01100;mtm01110;mtm01240
+MYCTH_2316558,Ribosome,mtm03010
+MYCTH_2316572,N-Glycan biosynthesis;Various types of N-glycan biosynthesis;Metabolic pathways;Protein processing in endoplasmic reticulum,mtm00510;mtm00513;mtm01100;mtm04141
+MYCTH_2316574,mRNA surveillance pathway;Spliceosome,mtm03015;mtm03040
+MYCTH_2316579,Endocytosis,mtm04144
+MYCTH_2316610,Autophagy - yeast;Endocytosis,mtm04138;mtm04144
+MYCTH_2316642,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_2316657,Spliceosome,mtm03040
+MYCTH_2316706,MAPK signaling pathway - yeast;Endocytosis,mtm04011;mtm04144
+MYCTH_2316731,Citrate cycle (TCA cycle);Metabolic pathways;Biosynthesis of secondary metabolites,mtm00020;mtm01100;mtm01110
+MYCTH_35909,Pyrimidine metabolism;Metabolic pathways,mtm00240;mtm01100
+MYCTH_36979,Ribosome,mtm03010
+MYCTH_37094,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_37566,Meiosis - yeast,mtm04113
+MYCTH_38200,Cyanoamino acid metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00460;mtm00500;mtm01100;mtm01110
+MYCTH_38472,Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00900;mtm01100;mtm01110
+MYCTH_38939,Glycolysis / Gluconeogenesis;Cysteine and methionine metabolism;Pyruvate metabolism;Propanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00010;mtm00270;mtm00620;mtm00640;mtm01100;mtm01110
+MYCTH_39035,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_39133,"Glycine, serine and threonine metabolism;Penicillin and cephalosporin biosynthesis;Arginine and proline metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Peroxisome",mtm00260;mtm00311;mtm00330;mtm01100;mtm01110;mtm04146
+MYCTH_39983,Fatty acid biosynthesis;Fatty acid elongation;Metabolic pathways;Fatty acid metabolism,mtm00061;mtm00062;mtm01100;mtm01212
+MYCTH_40109,Inositol phosphate metabolism;Metabolic pathways;Phosphatidylinositol signaling system;Autophagy - other;Autophagy - yeast;Phagosome,mtm00562;mtm01100;mtm04070;mtm04136;mtm04138;mtm04145
+MYCTH_40111,Galactose metabolism;Other glycan degradation;Sphingolipid metabolism;Metabolic pathways,mtm00052;mtm00511;mtm00600;mtm01100
+MYCTH_40367,Riboflavin metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00740;mtm01100;mtm01240
+MYCTH_40719,Fructose and mannose metabolism;Glycerolipid metabolism;Methane metabolism;Metabolic pathways;Carbon metabolism,mtm00051;mtm00561;mtm00680;mtm01100;mtm01200
+MYCTH_40891,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_40930,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_40990,Lysine degradation;Metabolic pathways,mtm00310;mtm01100
+MYCTH_41043,Nitrogen metabolism,mtm00910
+MYCTH_41800,Tryptophan metabolism;Metabolic pathways,mtm00380;mtm01100
+MYCTH_42071,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_42269,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_42937,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_43356,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_43573,Pyrimidine metabolism;Metabolic pathways,mtm00240;mtm01100
+MYCTH_43648,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_43671,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_44230,Tyrosine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm01100;mtm01110
+MYCTH_44554,Cell cycle - yeast,mtm04111
+MYCTH_44863,Ascorbate and aldarate metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00053;mtm01100;mtm01240
+MYCTH_45107,Meiosis - yeast,mtm04113
+MYCTH_46579,Cell cycle - yeast,mtm04111
+MYCTH_46981,"Phenylalanine, tyrosine and tryptophan biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids",mtm00400;mtm01100;mtm01110;mtm01230
+MYCTH_47778,Nitrogen metabolism,mtm00910
+MYCTH_49355,Purine metabolism;Sulfur metabolism;Metabolic pathways,mtm00230;mtm00920;mtm01100
+MYCTH_49425,Terpenoid backbone biosynthesis;Biosynthesis of secondary metabolites,mtm00900;mtm01110
+MYCTH_49818,mRNA surveillance pathway,mtm03015
+MYCTH_50083,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_50142,Cell cycle - yeast,mtm04111
+MYCTH_50281,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_50335,ABC transporters,mtm02010
+MYCTH_50532,Protein export,mtm03060
+MYCTH_50608,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_50705,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_50837,Biosynthesis of unsaturated fatty acids;Metabolic pathways;Fatty acid metabolism,mtm01040;mtm01100;mtm01212
+MYCTH_51545,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_51856,Glycerophospholipid metabolism,mtm00564
+MYCTH_52068,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_52082,Metabolic pathways,mtm01100
+MYCTH_52463,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_52645,Glycerolipid metabolism;Glycerophospholipid metabolism;Biosynthesis of secondary metabolites,mtm00561;mtm00564;mtm01110
+MYCTH_53055,Riboflavin metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00740;mtm01100;mtm01110;mtm01240
+MYCTH_53288,Tyrosine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm01100;mtm01110
+MYCTH_53508,Glycerolipid metabolism;Metabolic pathways,mtm00561;mtm01100
+MYCTH_54167,ABC transporters,mtm02010
+MYCTH_54601,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_54712,Aflatoxin biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00254;mtm01100;mtm01110
+MYCTH_55717,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_56173,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_56445,Homologous recombination,mtm03440
+MYCTH_56516,MAPK signaling pathway - yeast;Endocytosis,mtm04011;mtm04144
+MYCTH_57224,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_57338,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_57502,Glycolysis / Gluconeogenesis;Galactose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00010;mtm00052;mtm01100;mtm01110
+MYCTH_57572,Taurine and hypotaurine metabolism;Cyanoamino acid metabolism;Glutathione metabolism;Metabolic pathways,mtm00430;mtm00460;mtm00480;mtm01100
+MYCTH_57908,RNA degradation,mtm03018
+MYCTH_58873,"Glycine, serine and threonine metabolism;Glycerolipid metabolism;Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism",mtm00260;mtm00561;mtm00630;mtm01100;mtm01110;mtm01200
+MYCTH_58882,Cyanoamino acid metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00460;mtm00500;mtm01100;mtm01110
+MYCTH_59106,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_59853,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_60177,Various types of N-glycan biosynthesis;Metabolic pathways,mtm00513;mtm01100
+MYCTH_60632,"Glycine, serine and threonine metabolism;Penicillin and cephalosporin biosynthesis;Arginine and proline metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Peroxisome",mtm00260;mtm00311;mtm00330;mtm01100;mtm01110;mtm04146
+MYCTH_60685,Tyrosine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm01100;mtm01110
+MYCTH_61858,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_62052,Pentose and glucuronate interconversions;Fructose and mannose metabolism;Metabolic pathways,mtm00040;mtm00051;mtm01100
+MYCTH_62593,Ribosome,mtm03010
+MYCTH_62866,RNA polymerase,mtm03020
+MYCTH_62925,Cyanoamino acid metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00460;mtm00500;mtm01100;mtm01110
+MYCTH_63866,Cell cycle - yeast;Meiosis - yeast,mtm04111;mtm04113
+MYCTH_63965,"Arginine biosynthesis;Alanine, aspartate and glutamate metabolism;Glyoxylate and dicarboxylate metabolism;Nitrogen metabolism;Metabolic pathways;Biosynthesis of amino acids",mtm00220;mtm00250;mtm00630;mtm00910;mtm01100;mtm01230
+MYCTH_64173,SNARE interactions in vesicular transport,mtm04130
+MYCTH_64893,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_65137,Phosphatidylinositol signaling system,mtm04070
+MYCTH_66022,Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Peroxisome,mtm00900;mtm01100;mtm01110;mtm04146
+MYCTH_66289,Endocytosis,mtm04144
+MYCTH_66338,Inositol phosphate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00562;mtm01100;mtm01110
+MYCTH_66729,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_66804,Cyanoamino acid metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00460;mtm00500;mtm01100;mtm01110
+MYCTH_67060,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_67326,ABC transporters,mtm02010
+MYCTH_68292,Purine metabolism;Pyrimidine metabolism;Glutathione metabolism;Metabolic pathways,mtm00230;mtm00240;mtm00480;mtm01100
+MYCTH_68509,"Valine, leucine and isoleucine biosynthesis;Pantothenate and CoA biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;2-Oxocarboxylic acid metabolism;Biosynthesis of amino acids",mtm00290;mtm00770;mtm01100;mtm01110;mtm01210;mtm01230
+MYCTH_69410,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_69975,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_70246,Cell cycle - yeast,mtm04111
+MYCTH_70861,Metabolic pathways,mtm01100
+MYCTH_71063,Tyrosine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm01100;mtm01110
+MYCTH_71204,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_71219,Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites;Peroxisome,mtm00900;mtm01100;mtm01110;mtm04146
+MYCTH_71369,Ribosome,mtm03010
+MYCTH_71484,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_71631,Ribosome,mtm03010
+MYCTH_72333,Ribosome,mtm03010
+MYCTH_72393,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_72932,Thiamine metabolism;Riboflavin metabolism;Metabolic pathways,mtm00730;mtm00740;mtm01100
+MYCTH_73070,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_73315,Lysine degradation;Metabolic pathways,mtm00310;mtm01100
+MYCTH_73679,Steroid biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00100;mtm01100;mtm01110
+MYCTH_73867,Cell cycle - yeast,mtm04111
+MYCTH_74015,RNA degradation,mtm03018
+MYCTH_74462,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_74927,Cell cycle - yeast,mtm04111
+MYCTH_74974,Nucleotide excision repair,mtm03420
+MYCTH_75107,Ribosome,mtm03010
+MYCTH_75490,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_75824,Spliceosome;Protein processing in endoplasmic reticulum;Endocytosis,mtm03040;mtm04141;mtm04144
+MYCTH_76096,Cell cycle - yeast,mtm04111
+MYCTH_76126,"Valine, leucine and isoleucine degradation;beta-Alanine metabolism;Inositol phosphate metabolism;Propanoate metabolism;Metabolic pathways;Carbon metabolism",mtm00280;mtm00410;mtm00562;mtm00640;mtm01100;mtm01200
+MYCTH_76199,Tyrosine metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00350;mtm01100;mtm01110
+MYCTH_76367,Endocytosis,mtm04144
+MYCTH_76680,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_76690,Non-homologous end-joining,mtm03450
+MYCTH_77082,Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00500;mtm01100;mtm01110
+MYCTH_77195,Spliceosome,mtm03040
+MYCTH_77206,Taurine and hypotaurine metabolism;Pyruvate metabolism;Propanoate metabolism;Methane metabolism;Metabolic pathways;Carbon metabolism,mtm00430;mtm00620;mtm00640;mtm00680;mtm01100;mtm01200
+MYCTH_77277,Ribosome,mtm03010
+MYCTH_77970,"Alanine, aspartate and glutamate metabolism;beta-Alanine metabolism;Taurine and hypotaurine metabolism;Butanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00250;mtm00410;mtm00430;mtm00650;mtm01100;mtm01110
+MYCTH_78218,Ribosome,mtm03010
+MYCTH_78321,Autophagy - other;Autophagy - yeast,mtm04136;mtm04138
+MYCTH_78571,Spliceosome,mtm03040
+MYCTH_79031,Citrate cycle (TCA cycle);Oxidative phosphorylation;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism,mtm00020;mtm00190;mtm01100;mtm01110;mtm01200
+MYCTH_79077,Lysine degradation;Metabolic pathways,mtm00310;mtm01100
+MYCTH_79157,Fatty acid elongation;Biosynthesis of unsaturated fatty acids;Metabolic pathways;Biosynthesis of secondary metabolites;Fatty acid metabolism,mtm00062;mtm01040;mtm01100;mtm01110;mtm01212
+MYCTH_79295,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_79440,Ribosome,mtm03010
+MYCTH_79619,Nicotinate and nicotinamide metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00760;mtm01100;mtm01240
+MYCTH_79885,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_80081,Endocytosis,mtm04144
+MYCTH_80104,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_80304,Cyanoamino acid metabolism;Starch and sucrose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00460;mtm00500;mtm01100;mtm01110
+MYCTH_80528,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_80581,Nucleotide excision repair;Protein processing in endoplasmic reticulum,mtm03420;mtm04141
+MYCTH_80916,Tryptophan metabolism;Glyoxylate and dicarboxylate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;MAPK signaling pathway - yeast;Peroxisome,mtm00380;mtm00630;mtm01100;mtm01110;mtm01200;mtm04011;mtm04146
+MYCTH_81343,MAPK signaling pathway - yeast;Mitophagy - yeast,mtm04011;mtm04139
+MYCTH_81379,Nicotinate and nicotinamide metabolism;Metabolic pathways,mtm00760;mtm01100
+MYCTH_81753,ABC transporters,mtm02010
+MYCTH_81869,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_82268,Nitrogen metabolism;Metabolic pathways,mtm00910;mtm01100
+MYCTH_82456,Arginine and proline metabolism;Glyoxylate and dicarboxylate metabolism;Metabolic pathways,mtm00330;mtm00630;mtm01100
+MYCTH_82505,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_82558,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_82981,Oxidative phosphorylation;Metabolic pathways,mtm00190;mtm01100
+MYCTH_83019,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_83048,Terpenoid backbone biosynthesis;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00900;mtm01100;mtm01110
+MYCTH_83193,"Cutin, suberine and wax biosynthesis",mtm00073
+MYCTH_83475,Amino sugar and nucleotide sugar metabolism;Metabolic pathways;Biosynthesis of secondary metabolites,mtm00520;mtm01100;mtm01110
+MYCTH_83980,Ribosome,mtm03010
+MYCTH_84297,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_84302,Glycolysis / Gluconeogenesis;Pentose and glucuronate interconversions;Ascorbate and aldarate metabolism;Glycerolipid metabolism;Pyruvate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of cofactors,mtm00010;mtm00040;mtm00053;mtm00561;mtm00620;mtm01100;mtm01110;mtm01240
+MYCTH_85068,Ubiquinone and other terpenoid-quinone biosynthesis;Tyrosine metabolism;Phenylalanine metabolism;Metabolic pathways;Biosynthesis of cofactors,mtm00130;mtm00350;mtm00360;mtm01100;mtm01240
+MYCTH_85489,Peroxisome,mtm04146
+MYCTH_86049,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_86753,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_87328,Protein export;Protein processing in endoplasmic reticulum;Phagosome,mtm03060;mtm04141;mtm04145
+MYCTH_87557,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_87600,Ribosome,mtm03010
+MYCTH_87877,Oxidative phosphorylation;Metabolic pathways;Phagosome,mtm00190;mtm01100;mtm04145
+MYCTH_88639,Biosynthesis of unsaturated fatty acids;Metabolic pathways;Fatty acid metabolism,mtm01040;mtm01100;mtm01212
+MYCTH_8962,MAPK signaling pathway - yeast,mtm04011
+MYCTH_89872,Pentose phosphate pathway;Fructose and mannose metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Carbon metabolism;Biosynthesis of amino acids,mtm00030;mtm00051;mtm01100;mtm01110;mtm01200;mtm01230
+MYCTH_90594,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_90655,Other glycan degradation,mtm00511
+MYCTH_93313,Meiosis - yeast,mtm04113
+MYCTH_93330,Purine metabolism;Metabolic pathways,mtm00230;mtm01100
+MYCTH_94336,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_95158,"Valine, leucine and isoleucine degradation;Propanoate metabolism;Metabolic pathways;Biosynthesis of secondary metabolites",mtm00280;mtm00640;mtm01100;mtm01110
+MYCTH_95226,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_95293,"Glycine, serine and threonine metabolism;Metabolic pathways",mtm00260;mtm01100
+MYCTH_95546,Cysteine and methionine metabolism;Selenocompound metabolism;Sulfur metabolism;Metabolic pathways;Biosynthesis of secondary metabolites;Biosynthesis of amino acids,mtm00270;mtm00450;mtm00920;mtm01100;mtm01110;mtm01230
+MYCTH_97137,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_97617,Cell cycle - yeast,mtm04111
+MYCTH_97899,Various types of N-glycan biosynthesis;Metabolic pathways,mtm00513;mtm01100
+MYCTH_97932,Pentose and glucuronate interconversions;Metabolic pathways,mtm00040;mtm01100
+MYCTH_97961,Ribosome biogenesis in eukaryotes,mtm03008
+MYCTH_97963,MAPK signaling pathway - yeast,mtm04011
+MYCTH_98318,MAPK signaling pathway - yeast;Cell cycle - yeast,mtm04011;mtm04111
+MYCTH_98369,mRNA surveillance pathway;RNA degradation,mtm03015;mtm03018
+MYCTH_98458,Methane metabolism;Metabolic pathways;Carbon metabolism,mtm00680;mtm01100;mtm01200
+MYCTH_98521,Starch and sucrose metabolism;Metabolic pathways,mtm00500;mtm01100
+MYCTH_98773,Amino sugar and nucleotide sugar metabolism;Metabolic pathways,mtm00520;mtm01100
+MYCTH_99040,Mitophagy - yeast,mtm04139
+MYCTH_99077,Fructose and mannose metabolism;Metabolic pathways,mtm00051;mtm01100
+MYCTH_99461,Nicotinate and nicotinamide metabolism;Metabolic pathways,mtm00760;mtm01100
+MYCTH_t1,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t10,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t100,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t101,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t102,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t103,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t104,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t105,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t106,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t107,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t108,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t109,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t11,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t110,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t112,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t113,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t114,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t115,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t116,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t117,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t118,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t119,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t12,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t120,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t121,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t122,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t123,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t124,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t125,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t126,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t127,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t128,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t129,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t13,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t130,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t131,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t132,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t133,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t134,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t135,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t136,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t137,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t138,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t139,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t14,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t140,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t141,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t142,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t143,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t144,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t145,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t146,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t147,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t148,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t149,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t15,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t150,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t151,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t152,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t153,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t154,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t155,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t156,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t157,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t158,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t159,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t16,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t160,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t161,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t162,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t163,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t164,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t165,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t166,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t167,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t168,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t169,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t17,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t170,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t171,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t172,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t173,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t174,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t175,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t176,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t177,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t178,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t179,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t18,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t180,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t181,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t182,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t183,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t184,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t185,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t186,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t187,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t188,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t189,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t19,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t190,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t191,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t192,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t193,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t194,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t2,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t20,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t21,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t22,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t23,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t24,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t25,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t26,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t27,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t28,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t29,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t3,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t30,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t31,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t32,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t33,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t34,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t35,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t36,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t37,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t38,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t39,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t4,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t40,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t41,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t42,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t43,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t44,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t45,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t46,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t47,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t48,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t49,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t5,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t50,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t51,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t52,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t53,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t54,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t55,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t56,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t57,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t58,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t59,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t6,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t60,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t61,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t62,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t63,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t64,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t65,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t66,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t67,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t68,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t69,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t7,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t70,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t71,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t72,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t73,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t74,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t75,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t76,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t77,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t78,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t79,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t8,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t80,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t81,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t82,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t83,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t84,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t85,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t86,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t87,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t88,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t89,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t9,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t90,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t91,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t92,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t93,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t94,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t95,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t96,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t97,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t98,Aminoacyl-tRNA biosynthesis,mtm00970
+MYCTH_t99,Aminoacyl-tRNA biosynthesis,mtm00970
