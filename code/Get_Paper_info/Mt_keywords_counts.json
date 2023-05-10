@@ -1,0 +1,2386 @@
+[
+    {
+        "value": 48,
+        "name": "Myceliophthora thermophila"
+    },
+    {
+        "value": 22,
+        "name": "Laccase"
+    },
+    {
+        "value": 9,
+        "name": "Cellulase"
+    },
+    {
+        "value": 7,
+        "name": "Pichia pastoris"
+    },
+    {
+        "value": 7,
+        "name": "Lytic polysaccharide monooxygenase"
+    },
+    {
+        "value": 7,
+        "name": "Metabolic engineering"
+    },
+    {
+        "value": 7,
+        "name": "Filamentous fungi"
+    },
+    {
+        "value": 6,
+        "name": "Thermophilic fungi"
+    },
+    {
+        "value": 6,
+        "name": "Thermostability"
+    },
+    {
+        "value": 5,
+        "name": "Myceliophthora"
+    },
+    {
+        "value": 5,
+        "name": "Cellulose"
+    },
+    {
+        "value": 5,
+        "name": "Cellulases"
+    },
+    {
+        "value": 5,
+        "name": "Lignocellulose"
+    },
+    {
+        "value": 4,
+        "name": "Thermothelomyces thermophila"
+    },
+    {
+        "value": 4,
+        "name": "Processivity"
+    },
+    {
+        "value": 4,
+        "name": "Lignin"
+    },
+    {
+        "value": 4,
+        "name": "Crispr-cas9"
+    },
+    {
+        "value": 4,
+        "name": "Decolorization"
+    },
+    {
+        "value": 4,
+        "name": "Myceliophthora thermophila c1"
+    },
+    {
+        "value": 4,
+        "name": "Crispr/cas9"
+    },
+    {
+        "value": 4,
+        "name": "Thermothelomyces thermophilus"
+    },
+    {
+        "value": 4,
+        "name": "Lignocellulosic biomass"
+    },
+    {
+        "value": 4,
+        "name": "Enzymatic hydrolysis"
+    },
+    {
+        "value": 4,
+        "name": "Ferulic acid"
+    },
+    {
+        "value": 4,
+        "name": "Xyloglucanase"
+    },
+    {
+        "value": 4,
+        "name": "Sugarcane bagasse"
+    },
+    {
+        "value": 4,
+        "name": "Xylanase"
+    },
+    {
+        "value": 4,
+        "name": "Biorefinery"
+    },
+    {
+        "value": 4,
+        "name": "Lpmo"
+    },
+    {
+        "value": 4,
+        "name": "Xylan"
+    },
+    {
+        "value": 3,
+        "name": "Cellobiose"
+    },
+    {
+        "value": 3,
+        "name": "Solid-state fermentation"
+    },
+    {
+        "value": 3,
+        "name": "Antioxidant"
+    },
+    {
+        "value": 3,
+        "name": "X-ray structure"
+    },
+    {
+        "value": 3,
+        "name": "Beta-glucosidase"
+    },
+    {
+        "value": 3,
+        "name": "Enzyme immobilization"
+    },
+    {
+        "value": 3,
+        "name": "Trichoderma reesei"
+    },
+    {
+        "value": 3,
+        "name": "Enzymatic saccharification"
+    },
+    {
+        "value": 3,
+        "name": "Immobilization"
+    },
+    {
+        "value": 3,
+        "name": "Cazy"
+    },
+    {
+        "value": 3,
+        "name": "Xyloglucan"
+    },
+    {
+        "value": 3,
+        "name": "Chitosan"
+    },
+    {
+        "value": 3,
+        "name": "Cellobiohydrolase"
+    },
+    {
+        "value": 3,
+        "name": "Beta-1"
+    },
+    {
+        "value": 3,
+        "name": "Biofuels"
+    },
+    {
+        "value": 3,
+        "name": "Plant biomass"
+    },
+    {
+        "value": 3,
+        "name": "Cellulose degradation"
+    },
+    {
+        "value": 3,
+        "name": "Kraft lignin"
+    },
+    {
+        "value": 3,
+        "name": "Polymerization"
+    },
+    {
+        "value": 2,
+        "name": "Saccharification"
+    },
+    {
+        "value": 2,
+        "name": "Xylooligosaccharides"
+    },
+    {
+        "value": 2,
+        "name": "Ethanol"
+    },
+    {
+        "value": 2,
+        "name": "Xylose"
+    },
+    {
+        "value": 2,
+        "name": "Functionalization"
+    },
+    {
+        "value": 2,
+        "name": "Hydrolysis"
+    },
+    {
+        "value": 2,
+        "name": "Pretreatment"
+    },
+    {
+        "value": 2,
+        "name": "Response surface methodology"
+    },
+    {
+        "value": 2,
+        "name": "Endoxylanase"
+    },
+    {
+        "value": 2,
+        "name": "Characterization"
+    },
+    {
+        "value": 2,
+        "name": "Gh74 family"
+    },
+    {
+        "value": 2,
+        "name": "Crispr/cas9 system"
+    },
+    {
+        "value": 2,
+        "name": "Starch"
+    },
+    {
+        "value": 2,
+        "name": "Rna-seq"
+    },
+    {
+        "value": 2,
+        "name": "Glucoamylase"
+    },
+    {
+        "value": 2,
+        "name": "Chitin"
+    },
+    {
+        "value": 2,
+        "name": "Malic acid"
+    },
+    {
+        "value": 2,
+        "name": "Enzymatic oxidation"
+    },
+    {
+        "value": 2,
+        "name": "Genome editing"
+    },
+    {
+        "value": 2,
+        "name": "Feruloyl esterase"
+    },
+    {
+        "value": 2,
+        "name": "Oxidation"
+    },
+    {
+        "value": 2,
+        "name": "Xylobiohydrolase"
+    },
+    {
+        "value": 2,
+        "name": "Bacterial cellulose"
+    },
+    {
+        "value": 2,
+        "name": "Gh30 xylanase"
+    },
+    {
+        "value": 2,
+        "name": "Crystal structure"
+    },
+    {
+        "value": 2,
+        "name": "Flavin adenine dinucleotide (fad)"
+    },
+    {
+        "value": 2,
+        "name": "Protein engineering"
+    },
+    {
+        "value": 2,
+        "name": "Transcription factor"
+    },
+    {
+        "value": 2,
+        "name": "Oxidase"
+    },
+    {
+        "value": 2,
+        "name": "Site-directed mutagenesis"
+    },
+    {
+        "value": 2,
+        "name": "Endoglucanase"
+    },
+    {
+        "value": 2,
+        "name": "Stability"
+    },
+    {
+        "value": 2,
+        "name": "Ionic liquid"
+    },
+    {
+        "value": 2,
+        "name": "Textile dyes"
+    },
+    {
+        "value": 2,
+        "name": "Cellulose hydrolysis"
+    },
+    {
+        "value": 2,
+        "name": "Biomass"
+    },
+    {
+        "value": 2,
+        "name": "Efficacy"
+    },
+    {
+        "value": 2,
+        "name": "Cellulose saccharification"
+    },
+    {
+        "value": 2,
+        "name": "Biocatalysis"
+    },
+    {
+        "value": 2,
+        "name": "Lignocellulolytic enzymes"
+    },
+    {
+        "value": 2,
+        "name": "Mode of action"
+    },
+    {
+        "value": 2,
+        "name": "Polyphenol oxidase"
+    },
+    {
+        "value": 2,
+        "name": "Tyrosinase"
+    },
+    {
+        "value": 2,
+        "name": "Enzymes"
+    },
+    {
+        "value": 2,
+        "name": "N-acetylglucosamine"
+    },
+    {
+        "value": 2,
+        "name": "Phenolics"
+    },
+    {
+        "value": 2,
+        "name": "Covalent immobilization"
+    },
+    {
+        "value": 2,
+        "name": "Thermophilic mould"
+    },
+    {
+        "value": 2,
+        "name": "Wood hydrophobization"
+    },
+    {
+        "value": 2,
+        "name": "Aspergillus niger"
+    },
+    {
+        "value": 2,
+        "name": "Glycoside hydrolase"
+    },
+    {
+        "value": 2,
+        "name": "Heterologous production"
+    },
+    {
+        "value": 2,
+        "name": "Synergy"
+    },
+    {
+        "value": 2,
+        "name": "Transcriptomic profiles"
+    },
+    {
+        "value": 2,
+        "name": "Protease"
+    },
+    {
+        "value": 2,
+        "name": "Molecular docking"
+    },
+    {
+        "value": 1,
+        "name": "Hbt"
+    },
+    {
+        "value": 1,
+        "name": "Hpi"
+    },
+    {
+        "value": 1,
+        "name": "Laccase-mediator systems"
+    },
+    {
+        "value": 1,
+        "name": "Tempo"
+    },
+    {
+        "value": 1,
+        "name": "Aryl-alcohol oxidase"
+    },
+    {
+        "value": 1,
+        "name": "Epinephrine"
+    },
+    {
+        "value": 1,
+        "name": "Oxidation product"
+    },
+    {
+        "value": 1,
+        "name": "Cloning"
+    },
+    {
+        "value": 1,
+        "name": "N-glycosylation"
+    },
+    {
+        "value": 1,
+        "name": "Direct electron transfer"
+    },
+    {
+        "value": 1,
+        "name": "Phenols"
+    },
+    {
+        "value": 1,
+        "name": "Ppo"
+    },
+    {
+        "value": 1,
+        "name": "Catechol oxidase"
+    },
+    {
+        "value": 1,
+        "name": "Aaox"
+    },
+    {
+        "value": 1,
+        "name": "Basidiomycota"
+    },
+    {
+        "value": 1,
+        "name": "Phenol grafting"
+    },
+    {
+        "value": 1,
+        "name": "Glucuronoxylan"
+    },
+    {
+        "value": 1,
+        "name": "Trametes versicolor"
+    },
+    {
+        "value": 1,
+        "name": "Ascomycota"
+    },
+    {
+        "value": 1,
+        "name": "Enzyme electrodes"
+    },
+    {
+        "value": 1,
+        "name": "Secondary effluent"
+    },
+    {
+        "value": 1,
+        "name": "Micropollutants"
+    },
+    {
+        "value": 1,
+        "name": "Gum arabic"
+    },
+    {
+        "value": 1,
+        "name": "Fumed silica nanoparticles"
+    },
+    {
+        "value": 1,
+        "name": "Multicopper oxidase"
+    },
+    {
+        "value": 1,
+        "name": "Fuel cells"
+    },
+    {
+        "value": 1,
+        "name": "Aa3"
+    },
+    {
+        "value": 1,
+        "name": "Scale-up"
+    },
+    {
+        "value": 1,
+        "name": "Oxygen reduction"
+    },
+    {
+        "value": 1,
+        "name": "Redox chemistry"
+    },
+    {
+        "value": 1,
+        "name": "Packing density"
+    },
+    {
+        "value": 1,
+        "name": "Ftacv"
+    },
+    {
+        "value": 1,
+        "name": "Agaricus bisporus"
+    },
+    {
+        "value": 1,
+        "name": "Fixed bioreactor"
+    },
+    {
+        "value": 1,
+        "name": "Glucose oxidation"
+    },
+    {
+        "value": 1,
+        "name": "Biomolecules"
+    },
+    {
+        "value": 1,
+        "name": "Electron paramagnetic resonance (epr)"
+    },
+    {
+        "value": 1,
+        "name": "Tm"
+    },
+    {
+        "value": 1,
+        "name": "Dsc"
+    },
+    {
+        "value": 1,
+        "name": "Differential scanning calorimetry"
+    },
+    {
+        "value": 1,
+        "name": "Gh53"
+    },
+    {
+        "value": 1,
+        "name": "Mtgal"
+    },
+    {
+        "value": 1,
+        "name": "4-galactanase from myceliophthora thermophila"
+    },
+    {
+        "value": 1,
+        "name": "Protein design"
+    },
+    {
+        "value": 1,
+        "name": "Melting temperature"
+    },
+    {
+        "value": 1,
+        "name": "Abts"
+    },
+    {
+        "value": 1,
+        "name": "Tsgal"
+    },
+    {
+        "value": 1,
+        "name": "Talaromyces stipitatus galactanase"
+    },
+    {
+        "value": 1,
+        "name": "Wt"
+    },
+    {
+        "value": 1,
+        "name": "Wild type"
+    },
+    {
+        "value": 1,
+        "name": "4-galactanase"
+    },
+    {
+        "value": 1,
+        "name": "Bioethanol"
+    },
+    {
+        "value": 1,
+        "name": "Computational prediction"
+    },
+    {
+        "value": 1,
+        "name": "Carbohydrate active enzyme database"
+    },
+    {
+        "value": 1,
+        "name": "4-galactanase from aspergillus aculeatus"
+    },
+    {
+        "value": 1,
+        "name": "Aagal"
+    },
+    {
+        "value": 1,
+        "name": "Azurine-crosslinked galactan"
+    },
+    {
+        "value": 1,
+        "name": "Azcl-galactan"
+    },
+    {
+        "value": 1,
+        "name": "Natural mediators"
+    },
+    {
+        "value": 1,
+        "name": "Melanin"
+    },
+    {
+        "value": 1,
+        "name": "Mediator"
+    },
+    {
+        "value": 1,
+        "name": "Guaiacol"
+    },
+    {
+        "value": 1,
+        "name": "Basi-laccase cclcc5"
+    },
+    {
+        "value": 1,
+        "name": "Asco-laccase mtl"
+    },
+    {
+        "value": 1,
+        "name": "Mdf"
+    },
+    {
+        "value": 1,
+        "name": "Ca-lignosulfonate"
+    },
+    {
+        "value": 1,
+        "name": "6-dimethoxyphenol"
+    },
+    {
+        "value": 1,
+        "name": "2"
+    },
+    {
+        "value": 1,
+        "name": "Bio-coloration"
+    },
+    {
+        "value": 1,
+        "name": "Cellulolytic cocktail improvement"
+    },
+    {
+        "value": 1,
+        "name": "Docking simulation"
+    },
+    {
+        "value": 1,
+        "name": "Lignin degrading enzymes"
+    },
+    {
+        "value": 1,
+        "name": "Rna polymerase"
+    },
+    {
+        "value": 1,
+        "name": "Hybrid"
+    },
+    {
+        "value": 1,
+        "name": "Decalin"
+    },
+    {
+        "value": 1,
+        "name": "Anticancer"
+    },
+    {
+        "value": 1,
+        "name": "Polyketide-amino acid"
+    },
+    {
+        "value": 1,
+        "name": "Bacillus subtilis subsp. subtilis jjbs250"
+    },
+    {
+        "value": 1,
+        "name": "Phenol biodegradation"
+    },
+    {
+        "value": 1,
+        "name": "Wound enzymes"
+    },
+    {
+        "value": 1,
+        "name": "Chitosan hydrogel"
+    },
+    {
+        "value": 1,
+        "name": "Anti-oxidant"
+    },
+    {
+        "value": 1,
+        "name": "Anti-inflammatory"
+    },
+    {
+        "value": 1,
+        "name": "X-ray crystallography"
+    },
+    {
+        "value": 1,
+        "name": "Protein evolution"
+    },
+    {
+        "value": 1,
+        "name": "Electron microscopy (em)"
+    },
+    {
+        "value": 1,
+        "name": "Rna-dependent rna polymerase"
+    },
+    {
+        "value": 1,
+        "name": "Rna interference (rnai)"
+    },
+    {
+        "value": 1,
+        "name": "Surface modifacation"
+    },
+    {
+        "value": 1,
+        "name": "Polyaniline"
+    },
+    {
+        "value": 1,
+        "name": "Conductive cotton"
+    },
+    {
+        "value": 1,
+        "name": "Coatings"
+    },
+    {
+        "value": 1,
+        "name": "1-hydroxybenzotriazol (hbt)"
+    },
+    {
+        "value": 1,
+        "name": "Pectin"
+    },
+    {
+        "value": 1,
+        "name": "Trimeric influenza hemagglutinin"
+    },
+    {
+        "value": 1,
+        "name": "Targeted influenza hemagglutinin"
+    },
+    {
+        "value": 1,
+        "name": "Recombinant protein expression"
+    },
+    {
+        "value": 1,
+        "name": "Influenza vaccine"
+    },
+    {
+        "value": 1,
+        "name": "Thermothelomyces heterothallica c1"
+    },
+    {
+        "value": 1,
+        "name": "Beta-xylosidase"
+    },
+    {
+        "value": 1,
+        "name": "Reducing agent"
+    },
+    {
+        "value": 1,
+        "name": "Improved production"
+    },
+    {
+        "value": 1,
+        "name": "Hydrolytic activity"
+    },
+    {
+        "value": 1,
+        "name": "Grafting"
+    },
+    {
+        "value": 1,
+        "name": "Nucleocytoplasmic transport"
+    },
+    {
+        "value": 1,
+        "name": "Immobead 150p"
+    },
+    {
+        "value": 1,
+        "name": "Pretreated corn cobs"
+    },
+    {
+        "value": 1,
+        "name": "Transporter"
+    },
+    {
+        "value": 1,
+        "name": "Molecular dynamics (md) simulation"
+    },
+    {
+        "value": 1,
+        "name": "Mitochondrial carrier family (mcf)"
+    },
+    {
+        "value": 1,
+        "name": "Cardiolipin (cl)"
+    },
+    {
+        "value": 1,
+        "name": "Adp/atp carrier (aac)"
+    },
+    {
+        "value": 1,
+        "name": "Real time assay"
+    },
+    {
+        "value": 1,
+        "name": "Phenoxy radicals in lignin"
+    },
+    {
+        "value": 1,
+        "name": "Laccase kinetics"
+    },
+    {
+        "value": 1,
+        "name": "Epr"
+    },
+    {
+        "value": 1,
+        "name": "Dose-response treatment"
+    },
+    {
+        "value": 1,
+        "name": "Thielavia terrestris"
+    },
+    {
+        "value": 1,
+        "name": "Oxygen consumption rate"
+    },
+    {
+        "value": 1,
+        "name": "Single and mixed fungal species cultivation"
+    },
+    {
+        "value": 1,
+        "name": "Sequential solid state and submerged cultivation"
+    },
+    {
+        "value": 1,
+        "name": "Different fungal species"
+    },
+    {
+        "value": 1,
+        "name": "Aspergillus terreus"
+    },
+    {
+        "value": 1,
+        "name": "Fusarium sp."
+    },
+    {
+        "value": 1,
+        "name": "Fungal laccase"
+    },
+    {
+        "value": 1,
+        "name": "Eucalypt"
+    },
+    {
+        "value": 1,
+        "name": "Central composite design"
+    },
+    {
+        "value": 1,
+        "name": "Bacterial laccase"
+    },
+    {
+        "value": 1,
+        "name": "Thielavia australiensis"
+    },
+    {
+        "value": 1,
+        "name": "H2o2"
+    },
+    {
+        "value": 1,
+        "name": "Enzyme assay"
+    },
+    {
+        "value": 1,
+        "name": "Corn stover"
+    },
+    {
+        "value": 1,
+        "name": "Fungal biotechnology"
+    },
+    {
+        "value": 1,
+        "name": "Enzyme hypersecretion"
+    },
+    {
+        "value": 1,
+        "name": "Neurospora crassa"
+    },
+    {
+        "value": 1,
+        "name": "F-box proteins"
+    },
+    {
+        "value": 1,
+        "name": "Cazyme gene regulation"
+    },
+    {
+        "value": 1,
+        "name": "Aspergillus fumigatus"
+    },
+    {
+        "value": 1,
+        "name": "Chaetosartorya cremea"
+    },
+    {
+        "value": 1,
+        "name": "Thermodynamics"
+    },
+    {
+        "value": 1,
+        "name": "Fed-batch fermentation"
+    },
+    {
+        "value": 1,
+        "name": "Safety"
+    },
+    {
+        "value": 1,
+        "name": "Poultry"
+    },
+    {
+        "value": 1,
+        "name": "4-beta-d-mannanase"
+    },
+    {
+        "value": 1,
+        "name": "Endo-1"
+    },
+    {
+        "value": 1,
+        "name": "Digestibility enhancers"
+    },
+    {
+        "value": 1,
+        "name": "Natupulse(r)"
+    },
+    {
+        "value": 1,
+        "name": "Bioprospecting"
+    },
+    {
+        "value": 1,
+        "name": "Tamarindus indica"
+    },
+    {
+        "value": 1,
+        "name": "Hymenaea courbaril"
+    },
+    {
+        "value": 1,
+        "name": "Kinetic analysis"
+    },
+    {
+        "value": 1,
+        "name": "Process optimization"
+    },
+    {
+        "value": 1,
+        "name": "Lignin-degrading enzymes"
+    },
+    {
+        "value": 1,
+        "name": "Heterologous protein expression"
+    },
+    {
+        "value": 1,
+        "name": "Fungal enzyme production"
+    },
+    {
+        "value": 1,
+        "name": "Kinetics"
+    },
+    {
+        "value": 1,
+        "name": "Malbranchea cinamomea"
+    },
+    {
+        "value": 1,
+        "name": "Biografting"
+    },
+    {
+        "value": 1,
+        "name": "Ethyl ferulate"
+    },
+    {
+        "value": 1,
+        "name": "Dye"
+    },
+    {
+        "value": 1,
+        "name": "Cytotoxicity"
+    },
+    {
+        "value": 1,
+        "name": "Gene expression"
+    },
+    {
+        "value": 1,
+        "name": "Expression optimization"
+    },
+    {
+        "value": 1,
+        "name": "Saccharomyces cerevisiae"
+    },
+    {
+        "value": 1,
+        "name": "Post-treatment modification/functionalization"
+    },
+    {
+        "value": 1,
+        "name": "Nanocellulose"
+    },
+    {
+        "value": 1,
+        "name": "Lpmo biocatalysis"
+    },
+    {
+        "value": 1,
+        "name": "Talaromyces leycettanus"
+    },
+    {
+        "value": 1,
+        "name": "Soy spent flake"
+    },
+    {
+        "value": 1,
+        "name": "Soy polysaccharides"
+    },
+    {
+        "value": 1,
+        "name": "Penicillium citrinum"
+    },
+    {
+        "value": 1,
+        "name": "Food protein"
+    },
+    {
+        "value": 1,
+        "name": "Antioxidant peptide"
+    },
+    {
+        "value": 1,
+        "name": "Amino acid composition"
+    },
+    {
+        "value": 1,
+        "name": "Solid media"
+    },
+    {
+        "value": 1,
+        "name": "Gene editing"
+    },
+    {
+        "value": 1,
+        "name": "Filamentous fungus"
+    },
+    {
+        "value": 1,
+        "name": "Depolymerisation"
+    },
+    {
+        "value": 1,
+        "name": "Macromolecular assemblages"
+    },
+    {
+        "value": 1,
+        "name": "S. cerevisiae"
+    },
+    {
+        "value": 1,
+        "name": "Selection-free gene targeting"
+    },
+    {
+        "value": 1,
+        "name": "Rnp"
+    },
+    {
+        "value": 1,
+        "name": "Multiplexing"
+    },
+    {
+        "value": 1,
+        "name": "Cpf1"
+    },
+    {
+        "value": 1,
+        "name": "Cell factory"
+    },
+    {
+        "value": 1,
+        "name": "Cas9"
+    },
+    {
+        "value": 1,
+        "name": "Cas12a"
+    },
+    {
+        "value": 1,
+        "name": "Crispr"
+    },
+    {
+        "value": 1,
+        "name": "Cazymes"
+    },
+    {
+        "value": 1,
+        "name": "Productivity"
+    },
+    {
+        "value": 1,
+        "name": "Microwaves"
+    },
+    {
+        "value": 1,
+        "name": "Myceliophtora sp"
+    },
+    {
+        "value": 1,
+        "name": "Pcbs"
+    },
+    {
+        "value": 1,
+        "name": "Mycoremediation"
+    },
+    {
+        "value": 1,
+        "name": "Bioaugmentation"
+    },
+    {
+        "value": 1,
+        "name": "Ascomycetous strains"
+    },
+    {
+        "value": 1,
+        "name": "Structural analysis"
+    },
+    {
+        "value": 1,
+        "name": "Reaction kinetics"
+    },
+    {
+        "value": 1,
+        "name": "Nad-dependent fdh"
+    },
+    {
+        "value": 1,
+        "name": "Metal ion effect"
+    },
+    {
+        "value": 1,
+        "name": "Renatured xanthan"
+    },
+    {
+        "value": 1,
+        "name": "Hpsec"
+    },
+    {
+        "value": 1,
+        "name": "Degree of substitution"
+    },
+    {
+        "value": 1,
+        "name": "Conformation"
+    },
+    {
+        "value": 1,
+        "name": "Circular dichroism"
+    },
+    {
+        "value": 1,
+        "name": "In vivo grna transcription"
+    },
+    {
+        "value": 1,
+        "name": "Cryopreservation"
+    },
+    {
+        "value": 1,
+        "name": "Freezing"
+    },
+    {
+        "value": 1,
+        "name": "Long-term preservation"
+    },
+    {
+        "value": 1,
+        "name": "Heat-tolerant fungi"
+    },
+    {
+        "value": 1,
+        "name": "Glycerol"
+    },
+    {
+        "value": 1,
+        "name": "Viscosity reduction"
+    },
+    {
+        "value": 1,
+        "name": "Marine fungi"
+    },
+    {
+        "value": 1,
+        "name": "Hygromycin b phosphotransferase gene hph"
+    },
+    {
+        "value": 1,
+        "name": "Glycoside hydrolases"
+    },
+    {
+        "value": 1,
+        "name": "Electroporation"
+    },
+    {
+        "value": 1,
+        "name": "Paenibacillus odorifer"
+    },
+    {
+        "value": 1,
+        "name": "Molecular dynamics"
+    },
+    {
+        "value": 1,
+        "name": "Gh74"
+    },
+    {
+        "value": 1,
+        "name": "Wood"
+    },
+    {
+        "value": 1,
+        "name": "Pilot scale"
+    },
+    {
+        "value": 1,
+        "name": "Medium-density fiberboards"
+    },
+    {
+        "value": 1,
+        "name": "Eucalyptus globulus"
+    },
+    {
+        "value": 1,
+        "name": "Oleuropein aglycones"
+    },
+    {
+        "value": 1,
+        "name": "Oleuropein"
+    },
+    {
+        "value": 1,
+        "name": "Hydroxytyrosol"
+    },
+    {
+        "value": 1,
+        "name": "Enzymatic tailoring"
+    },
+    {
+        "value": 1,
+        "name": "Elenolic acid"
+    },
+    {
+        "value": 1,
+        "name": "Myceliophthora thermophile laccase"
+    },
+    {
+        "value": 1,
+        "name": "Isocyanide"
+    },
+    {
+        "value": 1,
+        "name": "Epoxy-functionalized supports"
+    },
+    {
+        "value": 1,
+        "name": "Thermostable enzymes"
+    },
+    {
+        "value": 1,
+        "name": "Experimental design"
+    },
+    {
+        "value": 1,
+        "name": "Enzyme mixture"
+    },
+    {
+        "value": 1,
+        "name": "Sub-culturing"
+    },
+    {
+        "value": 1,
+        "name": "Preservation"
+    },
+    {
+        "value": 1,
+        "name": "Lyophilization"
+    },
+    {
+        "value": 1,
+        "name": "Low temperature"
+    },
+    {
+        "value": 1,
+        "name": "Insect"
+    },
+    {
+        "value": 1,
+        "name": "Aqueous systems"
+    },
+    {
+        "value": 1,
+        "name": "Antifungal activity"
+    },
+    {
+        "value": 1,
+        "name": "Fumaric acid"
+    },
+    {
+        "value": 1,
+        "name": "High-throughput screening"
+    },
+    {
+        "value": 1,
+        "name": "Directed evolution"
+    },
+    {
+        "value": 1,
+        "name": "Sugar uptake"
+    },
+    {
+        "value": 1,
+        "name": "Rnai"
+    },
+    {
+        "value": 1,
+        "name": "Beta-mannanase"
+    },
+    {
+        "value": 1,
+        "name": "Thermotolerant"
+    },
+    {
+        "value": 1,
+        "name": "Synergism"
+    },
+    {
+        "value": 1,
+        "name": "Platform"
+    },
+    {
+        "value": 1,
+        "name": "Myceliophthora thermophile"
+    },
+    {
+        "value": 1,
+        "name": "Mhglaa"
+    },
+    {
+        "value": 1,
+        "name": "Co-expression"
+    },
+    {
+        "value": 1,
+        "name": "2a peptide"
+    },
+    {
+        "value": 1,
+        "name": "Reductive tca"
+    },
+    {
+        "value": 1,
+        "name": "Amyr"
+    },
+    {
+        "value": 1,
+        "name": "Chitinase"
+    },
+    {
+        "value": 1,
+        "name": "Beta-n-acetylglucosaminidase"
+    },
+    {
+        "value": 1,
+        "name": "Enzyme"
+    },
+    {
+        "value": 1,
+        "name": "Purification"
+    },
+    {
+        "value": 1,
+        "name": "Production"
+    },
+    {
+        "value": 1,
+        "name": "Poultry feed"
+    },
+    {
+        "value": 1,
+        "name": "Nutrition"
+    },
+    {
+        "value": 1,
+        "name": "Industrially relevant fungi"
+    },
+    {
+        "value": 1,
+        "name": "Cel7a"
+    },
+    {
+        "value": 1,
+        "name": "Bicovalent"
+    },
+    {
+        "value": 1,
+        "name": "Pyrogallol"
+    },
+    {
+        "value": 1,
+        "name": "Gallic acid"
+    },
+    {
+        "value": 1,
+        "name": "Enzymatic oligomerization"
+    },
+    {
+        "value": 1,
+        "name": "Catechol"
+    },
+    {
+        "value": 1,
+        "name": "Library"
+    },
+    {
+        "value": 1,
+        "name": "Cre1"
+    },
+    {
+        "value": 1,
+        "name": "Rna interference"
+    },
+    {
+        "value": 1,
+        "name": "Crispr-cas12a"
+    },
+    {
+        "value": 1,
+        "name": "Amperometric response"
+    },
+    {
+        "value": 1,
+        "name": "Xylanases"
+    },
+    {
+        "value": 1,
+        "name": "Expression"
+    },
+    {
+        "value": 1,
+        "name": "Wastewater"
+    },
+    {
+        "value": 1,
+        "name": "Toxicity"
+    },
+    {
+        "value": 1,
+        "name": "Pbmcs"
+    },
+    {
+        "value": 1,
+        "name": "Laccases"
+    },
+    {
+        "value": 1,
+        "name": "Trehalase"
+    },
+    {
+        "value": 1,
+        "name": "Multi-copy"
+    },
+    {
+        "value": 1,
+        "name": "Ethanol fermentation"
+    },
+    {
+        "value": 1,
+        "name": "Glycoside hydrolase family 74"
+    },
+    {
+        "value": 1,
+        "name": "Mass spectrometry"
+    },
+    {
+        "value": 1,
+        "name": "Carbohydrate-active enzymes"
+    },
+    {
+        "value": 1,
+        "name": "Biomass degradation"
+    },
+    {
+        "value": 1,
+        "name": "Mass spectrometry (ms)"
+    },
+    {
+        "value": 1,
+        "name": "Escherichia coli"
+    },
+    {
+        "value": 1,
+        "name": "Enzyme stability"
+    },
+    {
+        "value": 1,
+        "name": "Enzyme activity"
+    },
+    {
+        "value": 1,
+        "name": "Co2-fixation"
+    },
+    {
+        "value": 1,
+        "name": "Cbb cycle"
+    },
+    {
+        "value": 1,
+        "name": "Spray dryer"
+    },
+    {
+        "value": 1,
+        "name": "Multivariate analysis"
+    },
+    {
+        "value": 1,
+        "name": "Collagenolytic protease"
+    },
+    {
+        "value": 1,
+        "name": "Box-behnken"
+    },
+    {
+        "value": 1,
+        "name": "Penicillium verruculosum"
+    },
+    {
+        "value": 1,
+        "name": "Modeling"
+    },
+    {
+        "value": 1,
+        "name": "Marker recycling"
+    },
+    {
+        "value": 1,
+        "name": "Chito-oligosaccharides"
+    },
+    {
+        "value": 1,
+        "name": "Oligosaccharide"
+    },
+    {
+        "value": 1,
+        "name": "Hydrogen peroxide"
+    },
+    {
+        "value": 1,
+        "name": "Alkalistable"
+    },
+    {
+        "value": 1,
+        "name": "Consolidated bioprocessing"
+    },
+    {
+        "value": 1,
+        "name": "C4-diacid"
+    },
+    {
+        "value": 1,
+        "name": "Biochemicals"
+    },
+    {
+        "value": 1,
+        "name": "Deep eutectic solvent"
+    },
+    {
+        "value": 1,
+        "name": "Crystallization"
+    },
+    {
+        "value": 1,
+        "name": "Secretome composition"
+    },
+    {
+        "value": 1,
+        "name": "Cellulose oxidation"
+    },
+    {
+        "value": 1,
+        "name": "Transcriptomics"
+    },
+    {
+        "value": 1,
+        "name": "Genome-scale metabolic model"
+    },
+    {
+        "value": 1,
+        "name": "Thermostable cellulose"
+    },
+    {
+        "value": 1,
+        "name": "Solvent tolerance"
+    },
+    {
+        "value": 1,
+        "name": "Recombinant cellobiohydrolase"
+    },
+    {
+        "value": 1,
+        "name": "Extremozyme"
+    },
+    {
+        "value": 1,
+        "name": "Xylanolytic regulator"
+    },
+    {
+        "value": 1,
+        "name": "Carbohydrate processing"
+    },
+    {
+        "value": 1,
+        "name": "Xylan degradation"
+    },
+    {
+        "value": 1,
+        "name": "Pentose catabolism"
+    },
+    {
+        "value": 1,
+        "name": "Reduction"
+    },
+    {
+        "value": 1,
+        "name": "Oxidative cleavage"
+    },
+    {
+        "value": 1,
+        "name": "Mass spectrometric fragmentation"
+    },
+    {
+        "value": 1,
+        "name": "Lpmos"
+    },
+    {
+        "value": 1,
+        "name": "Active site segment"
+    },
+    {
+        "value": 1,
+        "name": "Solid-state cultivation"
+    },
+    {
+        "value": 1,
+        "name": "Logistic model"
+    },
+    {
+        "value": 1,
+        "name": "Growth kinetics"
+    },
+    {
+        "value": 1,
+        "name": "Hydrolytic enzymes"
+    },
+    {
+        "value": 1,
+        "name": "Biotechnological applications"
+    },
+    {
+        "value": 1,
+        "name": "Sporotrichum thermophile"
+    },
+    {
+        "value": 1,
+        "name": "3d protein structure"
+    },
+    {
+        "value": 1,
+        "name": "Homology modelling"
+    },
+    {
+        "value": 1,
+        "name": "6-phosphofructo-2-kinase/fructose-2"
+    },
+    {
+        "value": 1,
+        "name": "6-biphosphatase"
+    },
+    {
+        "value": 1,
+        "name": "Carbohydrate"
+    },
+    {
+        "value": 1,
+        "name": "Green processing"
+    },
+    {
+        "value": 1,
+        "name": "Biocatalyzed polymerization"
+    },
+    {
+        "value": 1,
+        "name": "Weimberg pathway"
+    },
+    {
+        "value": 1,
+        "name": "D-xylose dehydrogenase"
+    },
+    {
+        "value": 1,
+        "name": "D-xylose"
+    },
+    {
+        "value": 1,
+        "name": "1.2.4-butanetriol"
+    },
+    {
+        "value": 1,
+        "name": "Rice straw"
+    },
+    {
+        "value": 1,
+        "name": "Thermostable"
+    },
+    {
+        "value": 1,
+        "name": "Glucose and ethanol tolerance"
+    },
+    {
+        "value": 1,
+        "name": "Precise engineering"
+    },
+    {
+        "value": 1,
+        "name": "Cytosine base editor"
+    },
+    {
+        "value": 1,
+        "name": "Base editing"
+    },
+    {
+        "value": 1,
+        "name": "Mtclr-2"
+    },
+    {
+        "value": 1,
+        "name": "Cellulase production"
+    },
+    {
+        "value": 1,
+        "name": "Mtcbh-1"
+    },
+    {
+        "value": 1,
+        "name": "Mttrc-1"
+    },
+    {
+        "value": 1,
+        "name": "Mthac-1"
+    },
+    {
+        "value": 1,
+        "name": "Er stress"
+    },
+    {
+        "value": 1,
+        "name": "Structure modelling"
+    },
+    {
+        "value": 1,
+        "name": "Principal component analysis (pca)"
+    },
+    {
+        "value": 1,
+        "name": "Md simulation"
+    },
+    {
+        "value": 1,
+        "name": "Galactose utilization"
+    },
+    {
+        "value": 1,
+        "name": "Galactose transport"
+    },
+    {
+        "value": 1,
+        "name": "Mtalp1"
+    },
+    {
+        "value": 1,
+        "name": "Metabolic regulation"
+    },
+    {
+        "value": 1,
+        "name": "Glycolysis"
+    },
+    {
+        "value": 1,
+        "name": "Cyclic voltammetry"
+    },
+    {
+        "value": 1,
+        "name": "Mtperii peroxidase"
+    },
+    {
+        "value": 1,
+        "name": "Antibacterial activity"
+    },
+    {
+        "value": 1,
+        "name": "Functional properties"
+    },
+    {
+        "value": 1,
+        "name": "Balb/c mice"
+    },
+    {
+        "value": 1,
+        "name": "Invasive pulmonary infection"
+    },
+    {
+        "value": 1,
+        "name": "Antifungal susceptibility testing"
+    },
+    {
+        "value": 1,
+        "name": "Acute lymphoblastic leukemia"
+    },
+    {
+        "value": 1,
+        "name": "Thermo-alkali-stable endoglucanase"
+    },
+    {
+        "value": 1,
+        "name": "Constitutive expression"
+    },
+    {
+        "value": 1,
+        "name": "Codon optimization"
+    },
+    {
+        "value": 1,
+        "name": "Plating-free"
+    },
+    {
+        "value": 1,
+        "name": "Flow cytometry"
+    },
+    {
+        "value": 1,
+        "name": "Morphine"
+    },
+    {
+        "value": 1,
+        "name": "Elimination"
+    },
+    {
+        "value": 1,
+        "name": "Glyco-phenol"
+    },
+    {
+        "value": 1,
+        "name": "Glucosamine"
+    },
+    {
+        "value": 1,
+        "name": "Protein rewiring;"
+    },
+    {
+        "value": 1,
+        "name": "Anti-proliferative"
+    },
+    {
+        "value": 1,
+        "name": "Myceliophthora;"
+    },
+    {
+        "value": 1,
+        "name": "Malate export"
+    },
+    {
+        "value": 1,
+        "name": "C4-dicarboxylic acid;"
+    },
+    {
+        "value": 1,
+        "name": "Modification"
+    },
+    {
+        "value": 1,
+        "name": "Lignosulfonate"
+    },
+    {
+        "value": 1,
+        "name": "Hydrophobicity"
+    },
+    {
+        "value": 1,
+        "name": "Fluorophenol"
+    },
+    {
+        "value": 1,
+        "name": "Coupling"
+    },
+    {
+        "value": 1,
+        "name": "Coating"
+    },
+    {
+        "value": 1,
+        "name": "Glucuronic acid recognition"
+    },
+    {
+        "value": 1,
+        "name": "Acidic xylooligosaccharides"
+    },
+    {
+        "value": 1,
+        "name": "Phenolic compound extraction"
+    },
+    {
+        "value": 1,
+        "name": "Bamboo tablets"
+    },
+    {
+        "value": 1,
+        "name": "C-tag"
+    },
+    {
+        "value": 1,
+        "name": "Cho-cell"
+    },
+    {
+        "value": 1,
+        "name": "Covid-19"
+    },
+    {
+        "value": 1,
+        "name": "Igg"
+    },
+    {
+        "value": 1,
+        "name": "Hermetia illucens"
+    },
+    {
+        "value": 1,
+        "name": "Zoonotic"
+    },
+    {
+        "value": 1,
+        "name": "Virus"
+    },
+    {
+        "value": 1,
+        "name": "Variants of concern"
+    },
+    {
+        "value": 1,
+        "name": "Vaccine"
+    },
+    {
+        "value": 1,
+        "name": "Toxicology"
+    },
+    {
+        "value": 1,
+        "name": "Recombinant protein subunit vaccine"
+    },
+    {
+        "value": 1,
+        "name": "Receptor binding domain"
+    },
+    {
+        "value": 1,
+        "name": "Pandemic"
+    },
+    {
+        "value": 1,
+        "name": "Neutralizing antibodies"
+    },
+    {
+        "value": 1,
+        "name": "Intranasal challenge"
+    },
+    {
+        "value": 1,
+        "name": "Insect cells"
+    },
+    {
+        "value": 1,
+        "name": "Glycosylation"
+    },
+    {
+        "value": 1,
+        "name": "Glycoprotein"
+    },
+    {
+        "value": 1,
+        "name": "Glycans"
+    },
+    {
+        "value": 1,
+        "name": "Dyadic"
+    },
+    {
+        "value": 1,
+        "name": "Biomanufacturing"
+    },
+    {
+        "value": 1,
+        "name": "Baculovirus"
+    },
+    {
+        "value": 1,
+        "name": "Antigen"
+    },
+    {
+        "value": 1,
+        "name": "Aluminum-based vaccine adjuvants"
+    },
+    {
+        "value": 1,
+        "name": "Alum"
+    },
+    {
+        "value": 1,
+        "name": "Adjuvant"
+    },
+    {
+        "value": 1,
+        "name": "Thermothelomyces heterothallica"
+    },
+    {
+        "value": 1,
+        "name": "Sars-cov-2"
+    },
+    {
+        "value": 1,
+        "name": "Rbd"
+    },
+    {
+        "value": 1,
+        "name": "K18-hace-2 mice"
+    },
+    {
+        "value": 1,
+        "name": "Igg1 and igg2b"
+    },
+    {
+        "value": 1,
+        "name": "Bamboo powder"
+    },
+    {
+        "value": 1,
+        "name": "Rmn"
+    },
+    {
+        "value": 1,
+        "name": "Fungal growth"
+    },
+    {
+        "value": 1,
+        "name": "Mtlat-1"
+    },
+    {
+        "value": 1,
+        "name": "Class ii peroxidase"
+    },
+    {
+        "value": 1,
+        "name": "Transesterification"
+    },
+    {
+        "value": 1,
+        "name": "Prenyl ferulate"
+    },
+    {
+        "value": 1,
+        "name": "Dpph"
+    },
+    {
+        "value": 1,
+        "name": "Dcfh-da"
+    },
+    {
+        "value": 1,
+        "name": "Agarose"
+    },
+    {
+        "value": 1,
+        "name": "1-ethyl-3-methylimidazolium ethylsulfate"
+    },
+    {
+        "value": 1,
+        "name": "Thermotolerant mutant"
+    },
+    {
+        "value": 1,
+        "name": "Antioxidase"
+    },
+    {
+        "value": 1,
+        "name": "Artp"
+    },
+    {
+        "value": 1,
+        "name": "Viscosity"
+    },
+    {
+        "value": 1,
+        "name": "Transceptor"
+    },
+    {
+        "value": 1,
+        "name": "Signal transduction"
+    },
+    {
+        "value": 1,
+        "name": "Mtara-1"
+    },
+    {
+        "value": 1,
+        "name": "Lc-ms"
+    },
+    {
+        "value": 1,
+        "name": "L-arabinose transport"
+    },
+    {
+        "value": 1,
+        "name": "Hemicellulase"
+    },
+    {
+        "value": 1,
+        "name": "Ozonolysis"
+    },
+    {
+        "value": 1,
+        "name": "Fungal enzymes"
+    },
+    {
+        "value": 1,
+        "name": "Xanthan conformation"
+    },
+    {
+        "value": 1,
+        "name": "Position of acetyl groups"
+    },
+    {
+        "value": 1,
+        "name": "Enzymatic deacetylation"
+    },
+    {
+        "value": 1,
+        "name": "Axe3"
+    },
+    {
+        "value": 1,
+        "name": "Glucan"
+    },
+    {
+        "value": 1,
+        "name": "Flavonoids"
+    },
+    {
+        "value": 1,
+        "name": "Electron donor"
+    },
+    {
+        "value": 1,
+        "name": "Laea"
+    },
+    {
+        "value": 1,
+        "name": "Gene regulation"
+    },
+    {
+        "value": 1,
+        "name": "Polycatechol"
+    },
+    {
+        "value": 1,
+        "name": "Butyl ferulate"
+    },
+    {
+        "value": 1,
+        "name": "Enzyme immobilisation"
+    },
+    {
+        "value": 1,
+        "name": "Esterification"
+    },
+    {
+        "value": 1,
+        "name": "Additives"
+    },
+    {
+        "value": 1,
+        "name": "Oxaloacetic acid"
+    },
+    {
+        "value": 1,
+        "name": "Malonic acid"
+    },
+    {
+        "value": 1,
+        "name": "A-keto decarboxylase"
+    },
+    {
+        "value": 1,
+        "name": "Polysaccharide monooxygenase"
+    },
+    {
+        "value": 1,
+        "name": "Polysaccharide"
+    },
+    {
+        "value": 1,
+        "name": "Oxygenase"
+    },
+    {
+        "value": 1,
+        "name": "Metalloprotein"
+    },
+    {
+        "value": 1,
+        "name": "Copper monooxygenase"
+    },
+    {
+        "value": 1,
+        "name": "Copper"
+    },
+    {
+        "value": 1,
+        "name": "Carbohydrate-binding protein"
+    },
+    {
+        "value": 1,
+        "name": "Auxiliary activity (aa) enzyme"
+    },
+    {
+        "value": 1,
+        "name": "Amylose"
+    },
+    {
+        "value": 1,
+        "name": "Ultrasound"
+    },
+    {
+        "value": 1,
+        "name": "Swelling"
+    },
+    {
+        "value": 1,
+        "name": "Peg-fitc"
+    },
+    {
+        "value": 1,
+        "name": "Polymerisation"
+    },
+    {
+        "value": 1,
+        "name": "Recombinant protein"
+    },
+    {
+        "value": 1,
+        "name": "Mycoprotein"
+    },
+    {
+        "value": 1,
+        "name": "Maize alpha-zein"
+    },
+    {
+        "value": 1,
+        "name": "Amaranth albumin a1"
+    },
+    {
+        "value": 1,
+        "name": "Systemic fungal infections"
+    },
+    {
+        "value": 1,
+        "name": "Superficial fungal infections"
+    },
+    {
+        "value": 1,
+        "name": "Prophylaxis"
+    },
+    {
+        "value": 1,
+        "name": "Itraconazole"
+    },
+    {
+        "value": 1,
+        "name": "Infant"
+    },
+    {
+        "value": 1,
+        "name": "Sba-15"
+    },
+    {
+        "value": 1,
+        "name": "Zootechnical additives"
+    }
+]

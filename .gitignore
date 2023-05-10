@@ -1,7 +1,3 @@
-search/gene_list_douhao.txt
-search/gene_list.json
-search/gene_list_huanhuang.txt
-search/pathway.json
 search/search_exp_by_json_file.ipynb
 search/search_exp_by_json_file.py
 search/search_exp_by_user_upload.ipynb
