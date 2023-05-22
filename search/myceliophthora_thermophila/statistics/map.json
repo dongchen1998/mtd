@@ -1,0 +1,26 @@
+{
+    "Canada": {
+        "Adrian Tsang": {
+            "Unit": "Centre for Structural and Functional Genomics, Biology, Concordia University,",
+            "Samples": "11"
+        }
+    },
+    "Germany": {
+        "Siebecker B": {
+            "Unit": "Technische Universität Berlin, Benedikt Siebecker",
+            "Samples": "49"
+        }
+    },
+    "China": {
+        "Chaoguang Tian": {
+            "Unit": "Tianjin institute of industrial biotechnology,Chinses Academy of Sciences",
+            "Samples": "93"
+        }
+    },
+    "Netherlands": {
+        "Ronald P de Vries": {
+            "Unit": "fungal physiology, Centre of fungal biodiversity",
+            "Samples": "20"
+        }
+    }
+}
