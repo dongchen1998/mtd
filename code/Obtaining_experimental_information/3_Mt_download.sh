@@ -2,10 +2,10 @@
 # 根据Mt的GSE号，批量下载GSE与相关GSM的实验信息原始数据
 # 一般下的并不全，但是绝大部分都能下载到
 
-Mt='/home/dongjc/mtd/Obtaining_experimental_information/Mt'
-Mt_file='/home/dongjc/mtd/Obtaining_experimental_information/Mt/File'
-Mt_GSE_soft='/home/dongjc/mtd/Obtaining_experimental_information/Mt/GSE_soft'
-Mt_GSM_soft='/home/dongjc/mtd/Obtaining_experimental_information/Mt/GSM_soft'
+Mt='/home/dongjc/mtd/code/Obtaining_experimental_information/Mt'
+Mt_file='/home/dongjc/mtd/code/Obtaining_experimental_information/Mt/File'
+Mt_GSE_soft='/home/dongjc/mtd/code/Obtaining_experimental_information/Mt/GSE_soft'
+Mt_GSM_soft='/home/dongjc/mtd/code/Obtaining_experimental_information/Mt/GSM_soft'
 
 mkdir $Mt
 mkdir $Mt_file
