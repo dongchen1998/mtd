@@ -1,0 +1,41 @@
+{
+    "Germany":{
+        "Authors":"da Luz JA,Hans E,Frank D,Zeng AP",
+        "Year":"2017",
+        "Unit":"Institute of Bioprocess- and Biosystems Engineering Hamburg University of Technology Hamburg Germany.",
+        "Country":"Germany",
+        "Titer":"该国家L-Lysine所有文献中的最高产量值",
+        "Yield":"",
+        "Rate":"",
+        "Papers":{ 
+            "10.1002/elsc.201600163":{
+                "Doi": "10.1002/elsc.201600163",
+                "Strain": "ATCC 13032",
+                "Omics": "",
+                "Model": "",
+                "Metabolic_Engineering_Strategy": "",
+                "Title": "Analysis of intracellular metabolites of Corynebacterium glutamicum at high cell density with automated sampling and filtration and assessment of engineered enzymes for effective l-lysine production.",
+                "Abstract": "Engineering of enzymes and pathways is generally required for the development of efficient strains for bioproduction processes. To this end, quantitative and reliable data of intracellular metabolites are highly desired, but often not available, especially for conditions more close to industrial applications, i.e. at high cell density and product concentration. Here, we investigated the intracellular metabolite profiles of an engineered l-lysine-producing Corynebacterium glutamicum strain and the corresponding wild-type strain to assess the impacts of deregulation of product inhibition of the key enzymes aspartate kinase and phosphoenolpyruvate carboxylase and to identify potentials for their further improvement. A bioreactor system with automated fast-sampling, filtration and on-filter quenching of the metabolism was used for a more reliable determination of intracellular metabolites in batch cultures with optical cell density (OD660) up to 40. The l-lysine-producing strain showed substantially different metabolite profiles in the amino acid metabolism, including increased intracellular pool sizes in the l-lysine-, l-homoserine- and l-threonine pathways and decreased intracellular pool sizes for all other determined amino acids. By comparing data of in vitro inhibition of the engineered enzymes and determined intracellular concentrations of the inhibitors it was found that the inferred in vivo activities of these enzymes are still significantly below their in vitro maximums. This work demonstrates the usefulness of metabolic analysis for assessing the impact of engineered enzymes and identifying targets for further strain development.",
+                "Authors": "da Luz JA,Hans E,Frank D,Zeng AP",
+                "Year": "2017 May",
+                "Keywords": "Corynebacterium glutamicum,Fast filtration,Intracellular metabolites,Lysine biosynthesis",
+                "Unit": "Institute of Bioprocess- and Biosystems Engineering Hamburg University of Technology Hamburg Germany.",
+                "Country": "Germany",
+                "Publisher": "Engineering in life sciences",
+                "Pmid": "32624795",
+                "Species": "Corynebacterium glutamicum",       
+                "Titer":"",
+                "Yield":"",
+                "Rate":"",
+                "Substrate":"Glucose",
+                "Product":"L-Lysine"
+            },
+            "doi-2":{
+
+            }
+        }
+    },
+    "China":{
+        
+    }
+}

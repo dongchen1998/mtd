@@ -1,0 +1,370 @@
+{
+    "gene_id": {
+        "gene_id": "MYCTH_2293963",
+        "21964414": {
+            "PMID": "21964414",
+            "Study Title": "Transcriptomic response to substrate and temperature in two thermophilic fungi, Myceliophthora thermophila and Thielavia terrestris, and a related mesophile, Chaetomium globosum",
+            "Species": "Myceliphothora thermophila",
+            "F01001001": {
+                "Sample Number": "F01001001",
+                "Condition": "ATCC 42464_Barley_34\u00b0",
+                "Sample Exp": "11.48"
+            },
+            "F01001002": {
+                "Sample Number": "F01001002",
+                "Condition": "ATCC 42464_Barley_45\u00b0",
+                "Sample Exp": "3.66"
+            },
+            "F01001003": {
+                "Sample Number": "F01001003",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "15.81"
+            },
+            "F01001004": {
+                "Sample Number": "F01001004",
+                "Condition": "ATCC 42464_Alfalfa_45\u00b0",
+                "Sample Exp": "13.14"
+            },
+            "F01001005": {
+                "Sample Number": "F01001005",
+                "Condition": "ATCC 42464_Barley_45\u00b0",
+                "Sample Exp": "7.54"
+            },
+            "F01001006": {
+                "Sample Number": "F01001006",
+                "Condition": "ATCC 42464_Glucose_34\u00b0",
+                "Sample Exp": "14.69"
+            },
+            "F01001007": {
+                "Sample Number": "F01001007",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "7.8"
+            }
+        },
+        "35257374": {
+            "PMID": "35257374",
+            "Study Title": "Reconstruction and analysis genome-scale metabolic model of thermophilic fungus Myceliophthora thermophila",
+            "Species": "Myceliphothora thermophila",
+            "F01003001": {
+                "Sample Number": "F01003001",
+                "Condition": "ATCC 42464_Glucose_35\u00b0",
+                "Sample Exp": "5.01"
+            },
+            "F01003002": {
+                "Sample Number": "F01003002",
+                "Condition": "ATCC 42464_Glucose_40\u00b0",
+                "Sample Exp": "3.46"
+            },
+            "F01003003": {
+                "Sample Number": "F01003003",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "6.33"
+            },
+            "F01003004": {
+                "Sample Number": "F01003004",
+                "Condition": "ATCC 42464_Glucose_50\u00b0",
+                "Sample Exp": "5.34"
+            }
+        },
+        "36165620": {
+            "PMID": "36165620",
+            "Study Title": "MtTRC-1, a Novel Transcription Factor, Regulates Cellulase Production via Directly Modulating the Genes Expression of the Mthac-1 and Mtcbh-1 in Myceliophthora Thermophila",
+            "Species": "Myceliphothora thermophila",
+            "F01004001": {
+                "Sample Number": "F01004001",
+                "Condition": "ATCC 42464_Glucose,Avicel_45\u00b0",
+                "Sample Exp": "5.31"
+            },
+            "F01004002": {
+                "Sample Number": "F01004002",
+                "Condition": "ATCC 42464_Glucose,Avicel_45\u00b0",
+                "Sample Exp": "8.27"
+            },
+            "F01004003": {
+                "Sample Number": "F01004003",
+                "Condition": "ATCC 42464_Glucose,Starch_45\u00b0",
+                "Sample Exp": "12.71"
+            },
+            "F01004004": {
+                "Sample Number": "F01004004",
+                "Condition": "wild type_Glucose,Avicel_45\u00b0",
+                "Sample Exp": "3.6"
+            },
+            "F01004005": {
+                "Sample Number": "F01004005",
+                "Condition": "wild type_Glucose,Avicel_45\u00b0",
+                "Sample Exp": "10.32"
+            },
+            "F01004006": {
+                "Sample Number": "F01004006",
+                "Condition": "wild type_Glucose,Starch_45\u00b0",
+                "Sample Exp": "9.66"
+            }
+        },
+        "36691040": {
+            "PMID": "36691040",
+            "Study Title": "Weimberg pathway an alternative for utilization of D-xylose for Myceliophthora thermophila",
+            "Species": "Myceliphothora thermophila",
+            "F01005001": {
+                "Sample Number": "F01005001",
+                "Condition": "JG207_Glucose_45\u00b0",
+                "Sample Exp": "21.28"
+            },
+            "F01005002": {
+                "Sample Number": "F01005002",
+                "Condition": "DF1102_Glucose_45\u00b0",
+                "Sample Exp": "33.36"
+            },
+            "F01005003": {
+                "Sample Number": "F01005003",
+                "Condition": "DF1406_Glucose_45\u00b0",
+                "Sample Exp": "22.48"
+            },
+            "F01005004": {
+                "Sample Number": "F01005004",
+                "Condition": "DF1501_Glucose_45\u00b0",
+                "Sample Exp": "31.26"
+            }
+        },
+        "36478865": {
+            "PMID": "36478865",
+            "Study Title": "Dissecting the functional roles of PFK-2/ FBPase-2 in filamentous fungus Myceliophthora thermophila",
+            "Species": "Myceliphothora thermophila",
+            "F01006001": {
+                "Sample Number": "F01006001",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "24.09"
+            },
+            "F01006002": {
+                "Sample Number": "F01006002",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "24.17"
+            },
+            "F01006003": {
+                "Sample Number": "F01006003",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "31.78"
+            },
+            "F01006004": {
+                "Sample Number": "F01006004",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "24.36"
+            },
+            "F01006005": {
+                "Sample Number": "F01006005",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "22.45"
+            },
+            "F01006006": {
+                "Sample Number": "F01006006",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "22.69"
+            },
+            "F01006007": {
+                "Sample Number": "F01006007",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "25.22"
+            },
+            "F01006008": {
+                "Sample Number": "F01006008",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "15.94"
+            },
+            "F01006009": {
+                "Sample Number": "F01006009",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "24.6"
+            }
+        },
+        "29843921": {
+            "PMID": "29843921",
+            "Study Title": "Transcriptional landscape of Myceliophthora thermophila responding to soluble starch and the role of regulator AmyR on polysaccharide degradation",
+            "Species": "Myceliphothora thermophila",
+            "F01007001": {
+                "Sample Number": "F01007001",
+                "Condition": "ATCC 42464_NoCarbon_45\u00b0",
+                "Sample Exp": "5.76"
+            },
+            "F01007002": {
+                "Sample Number": "F01007002",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "10.51"
+            },
+            "F01007003": {
+                "Sample Number": "F01007003",
+                "Condition": "ATCC 42464_Starch_45\u00b0",
+                "Sample Exp": "8.52"
+            }
+        },
+        "30474279": {
+            "PMID": "30474279",
+            "Study Title": "A novel conserved transcription factor CLR-4 regulates cellulase genes expression through controlling the intracellular cAMP level in ascomycete fungi",
+            "Species": "Myceliphothora thermophila",
+            "F01008001": {
+                "Sample Number": "F01008001",
+                "Condition": "ATCC 42464_Glucose,Avicel_45\u00b0",
+                "Sample Exp": "5.24"
+            },
+            "F01008002": {
+                "Sample Number": "F01008002",
+                "Condition": "ATCC 42464_Glucose,Avicel_45\u00b0",
+                "Sample Exp": "11.69"
+            }
+        },
+        "31078793": {
+            "PMID": "31078793",
+            "Study Title": "Engineering the Cellulolytic Fungus Myceliophthora thermophila into a Platform for Producing Commodity Chemicals Directly from Lignocellulose",
+            "Species": "Myceliphothora thermophila",
+            "F01009001": {
+                "Sample Number": "F01009001",
+                "Condition": "ATCC 42464_Avicel_45\u00b0",
+                "Sample Exp": "18.17"
+            },
+            "F01009002": {
+                "Sample Number": "F01009002",
+                "Condition": "JG141_Avicel_45\u00b0",
+                "Sample Exp": "19.04"
+            },
+            "F01009003": {
+                "Sample Number": "F01009003",
+                "Condition": "JG207_Avicel_45\u00b0",
+                "Sample Exp": "15.08"
+            },
+            "F01009004": {
+                "Sample Number": "F01009004",
+                "Condition": "JG207Ncclr2_Avicel_45\u00b0",
+                "Sample Exp": "18.9"
+            },
+            "F01009005": {
+                "Sample Number": "F01009005",
+                "Condition": "JG336_Avicel_45\u00b0",
+                "Sample Exp": "13.48"
+            },
+            "F01009006": {
+                "Sample Number": "F01009006",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "26.04"
+            },
+            "F01009007": {
+                "Sample Number": "F01009007",
+                "Condition": "JG207_Glucose_45\u00b0",
+                "Sample Exp": "22.58"
+            }
+        },
+        "24881579": {
+            "PMID": "24881579",
+            "Study Title": "Transcriptomic response to different biomass in Myceliophthora thermophila (Sporotrichum thermophile)",
+            "Species": "Myceliphothora thermophila",
+            "F01010001": {
+                "Sample Number": "F01010001",
+                "Condition": "ATCC 42464_Oat_45\u00b0",
+                "Sample Exp": "9.5"
+            },
+            "F01010002": {
+                "Sample Number": "F01010002",
+                "Condition": "ATCC 42464_Triticale_45\u00b0",
+                "Sample Exp": "3.63"
+            },
+            "F01010003": {
+                "Sample Number": "F01010003",
+                "Condition": "ATCC 42464_Canola_45\u00b0",
+                "Sample Exp": "10.89"
+            },
+            "F01010004": {
+                "Sample Number": "F01010004",
+                "Condition": "ATCC 42464_Flax_45\u00b0",
+                "Sample Exp": "9.52"
+            }
+        },
+        "31534479": {
+            "PMID": "31534479",
+            "Study Title": "Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism",
+            "Species": "Myceliphothora thermophila",
+            "F01011001": {
+                "Sample Number": "F01011001",
+                "Condition": "wild type_Glucose_37\u00b0",
+                "Sample Exp": "nan"
+            },
+            "F01011002": {
+                "Sample Number": "F01011002",
+                "Condition": "wild type_Xylose_37\u00b0",
+                "Sample Exp": "13.47"
+            },
+            "F01011003": {
+                "Sample Number": "F01011003",
+                "Condition": "wild type_Arabinose_37\u00b0",
+                "Sample Exp": "9.38"
+            },
+            "F01011004": {
+                "Sample Number": "F01011004",
+                "Condition": "wild type_Arabinoxylan_37\u00b0",
+                "Sample Exp": "7.66"
+            },
+            "F01011005": {
+                "Sample Number": "F01011005",
+                "Condition": "wild type_Arabinoxylan_37\u00b0",
+                "Sample Exp": "15.06"
+            },
+            "F01011006": {
+                "Sample Number": "F01011006",
+                "Condition": "Xyr1 mutant_Glucose_37\u00b0",
+                "Sample Exp": "14.94"
+            },
+            "F01011007": {
+                "Sample Number": "F01011007",
+                "Condition": "Xyr1 mutant_Xylose_37\u00b0",
+                "Sample Exp": "16.75"
+            },
+            "F01011008": {
+                "Sample Number": "F01011008",
+                "Condition": "Xyr1 mutant_Arabinose_37\u00b0",
+                "Sample Exp": "10.9"
+            },
+            "F01011009": {
+                "Sample Number": "F01011009",
+                "Condition": "Xyr1 mutant_Arabinoxylan_37\u00b0",
+                "Sample Exp": "22.88"
+            },
+            "F01011010": {
+                "Sample Number": "F01011010",
+                "Condition": "Xyr1 mutant_Arabinoxylan_37\u00b0",
+                "Sample Exp": "9.5"
+            }
+        },
+        "33995328": {
+            "PMID": "33995328",
+            "Study Title": "Transcriptional profiling of Myceliophthora thermophila on galactose and metabolic engineering for improved galactose utilization",
+            "Species": "Myceliphothora thermophila",
+            "F01012001": {
+                "Sample Number": "F01012001",
+                "Condition": "ATCC 42464_NoCarbon_45\u00b0",
+                "Sample Exp": "8.82"
+            },
+            "F01012002": {
+                "Sample Number": "F01012002",
+                "Condition": "ATCC 42464_Glucose_45\u00b0",
+                "Sample Exp": "12.14"
+            },
+            "F01012003": {
+                "Sample Number": "F01012003",
+                "Condition": "ATCC 42464_Gal_45\u00b0",
+                "Sample Exp": "10.63"
+            },
+            "F01012004": {
+                "Sample Number": "F01012004",
+                "Condition": "ATCC 42464_Gal_45\u00b0",
+                "Sample Exp": "15.85"
+            },
+            "F01012005": {
+                "Sample Number": "F01012005",
+                "Condition": "ATCC 42464_Gal_45\u00b0",
+                "Sample Exp": "9.68"
+            },
+            "F01012006": {
+                "Sample Number": "F01012006",
+                "Condition": "ATCC 42464_Gal_45\u00b0",
+                "Sample Exp": "43.84"
+            }
+        }
+    }
+}
