@@ -1,3 +1,6 @@
-# mtd
+## mtd
 - Myceliophthora thermophila database
-- Script and Sample Files
+- Script
+- Sample Files
+
+
