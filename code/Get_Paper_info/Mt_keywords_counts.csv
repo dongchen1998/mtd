@@ -1,510 +1,186 @@
 keywords,counts
-Myceliophthora thermophila,48
-Laccase,22
-Cellulase,9
-Pichia pastoris,7
-Lytic polysaccharide monooxygenase,7
+Myceliophthora thermophila,49
+Laccase,23
+Cellulase,10
+Filamentous fungi,8
+Pichia pastoris,8
+Lytic polysaccharide monooxygenase,8
+Thermophilic fungi,7
+Thermostability,7
 Metabolic engineering,7
-Filamentous fungi,7
-Thermophilic fungi,6
-Thermostability,6
+Sugarcane bagasse,5
 Myceliophthora,5
-Cellulose,5
+Xylanase,5
 Cellulases,5
+Cellulose,5
+Lpmo,5
 Lignocellulose,5
-Thermothelomyces thermophila,4
-Processivity,4
-Lignin,4
-Crispr-cas9,4
 Decolorization,4
-Myceliophthora thermophila c1,4
-Crispr/cas9,4
 Thermothelomyces thermophilus,4
-Lignocellulosic biomass,4
+Beta-glucosidase,4
+Xylan,4
+Processivity,4
+Myceliophthora thermophila c1,4
+Solid-state fermentation,4
+Lignin,4
+Biorefinery,4
+Xyloglucanase,4
+Crispr/cas9,4
+Crispr-cas9,4
 Enzymatic hydrolysis,4
 Ferulic acid,4
-Xyloglucanase,4
-Sugarcane bagasse,4
-Xylanase,4
-Biorefinery,4
-Lpmo,4
-Xylan,4
-Cellobiose,3
-Solid-state fermentation,3
-Antioxidant,3
+Thermothelomyces thermophila,4
+Lignocellulosic biomass,4
 X-ray structure,3
-Beta-glucosidase,3
 Enzyme immobilization,3
-Trichoderma reesei,3
-Enzymatic saccharification,3
-Immobilization,3
+Cellobiose,3
+Beta-1,3
+Cellobiohydrolase,3
+Enzymes,3
 Cazy,3
 Xyloglucan,3
-Chitosan,3
-Cellobiohydrolase,3
-Beta-1,3
-Biofuels,3
-Plant biomass,3
-Cellulose degradation,3
+Trichoderma reesei,3
 Kraft lignin,3
+Cellulose degradation,3
+Plant biomass,3
+Biofuels,3
+Chitosan,3
+Saccharification,3
+Enzymatic saccharification,3
+Immobilization,3
 Polymerization,3
-Saccharification,2
+Antioxidant,3
 Xylooligosaccharides,2
-Ethanol,2
+Flavin adenine dinucleotide (fad),2
+Chitin,2
+Crystal structure,2
+Covalent immobilization,2
+Protein engineering,2
+Wood hydrophobization,2
+Oxidase,2
+Xylobiohydrolase,2
 Xylose,2
+Rna-seq,2
+Starch,2
 Functionalization,2
-Hydrolysis,2
+Ethanol,2
+Characterization,2
+Gh30 xylanase,2
+Phenolics,2
+Ionic liquid,2
+Bacterial cellulose,2
 Pretreatment,2
 Response surface methodology,2
+Endoglucanase,2
+Polyphenol oxidase,2
+Tyrosinase,2
+Biocatalysis,2
+Textile dyes,2
+Heterologous production,2
 Endoxylanase,2
-Characterization,2
 Gh74 family,2
-Crispr/cas9 system,2
-Starch,2
-Rna-seq,2
-Glucoamylase,2
-Chitin,2
+Site-directed mutagenesis,2
+Mode of action,2
 Malic acid,2
-Enzymatic oxidation,2
+Hydrolysis,2
+Glucoamylase,2
 Genome editing,2
 Feruloyl esterase,2
 Oxidation,2
-Xylobiohydrolase,2
-Bacterial cellulose,2
-Gh30 xylanase,2
-Crystal structure,2
-Flavin adenine dinucleotide (fad),2
-Protein engineering,2
-Transcription factor,2
-Oxidase,2
-Site-directed mutagenesis,2
-Endoglucanase,2
 Stability,2
-Ionic liquid,2
-Textile dyes,2
-Cellulose hydrolysis,2
-Biomass,2
-Efficacy,2
-Cellulose saccharification,2
-Biocatalysis,2
-Lignocellulolytic enzymes,2
-Mode of action,2
-Polyphenol oxidase,2
-Tyrosinase,2
-Enzymes,2
-N-acetylglucosamine,2
-Phenolics,2
-Covalent immobilization,2
-Thermophilic mould,2
-Wood hydrophobization,2
 Aspergillus niger,2
-Glycoside hydrolase,2
-Heterologous production,2
+Enzymatic oxidation,2
+Efficacy,2
 Synergy,2
-Transcriptomic profiles,2
+Thermophilic mould,2
+N-acetylglucosamine,2
+Lignocellulolytic enzymes,2
 Protease,2
+Cellulose saccharification,2
+Biomass,2
+Transcriptomic profiles,2
+Transcription factor,2
+Crispr/cas9 system,2
 Molecular docking,2
-Hbt,1
-Hpi,1
-Laccase-mediator systems,1
-Tempo,1
-Aryl-alcohol oxidase,1
-Epinephrine,1
-Oxidation product,1
-Cloning,1
-N-glycosylation,1
-Direct electron transfer,1
-Phenols,1
-Ppo,1
-Catechol oxidase,1
-Aaox,1
-Basidiomycota,1
-Phenol grafting,1
-Glucuronoxylan,1
-Trametes versicolor,1
-Ascomycota,1
-Enzyme electrodes,1
-Secondary effluent,1
-Micropollutants,1
-Gum arabic,1
-Fumed silica nanoparticles,1
-Multicopper oxidase,1
-Fuel cells,1
-Aa3,1
-Scale-up,1
-Oxygen reduction,1
-Redox chemistry,1
-Packing density,1
-Ftacv,1
-Agaricus bisporus,1
-Fixed bioreactor,1
-Glucose oxidation,1
-Biomolecules,1
-Electron paramagnetic resonance (epr),1
-Tm,1
-Dsc,1
-Differential scanning calorimetry,1
-Gh53,1
-Mtgal,1
-4-galactanase from myceliophthora thermophila,1
-Protein design,1
+Cellulose hydrolysis,2
+Glycoside hydrolase,2
+Dose-response treatment,1
 Melting temperature,1
+Laccase-mediator systems,1
+Hpi,1
+1-hydroxybenzotriazol (hbt),1
+Hbt,1
+Coatings,1
+Electron paramagnetic resonance (epr),1
 Abts,1
-Tsgal,1
-Talaromyces stipitatus galactanase,1
-Wt,1
-Wild type,1
 4-galactanase,1
-Bioethanol,1
+Wild type,1
+Wt,1
+Talaromyces stipitatus galactanase,1
+Tsgal,1
+Tm,1
+Azcl-galactan,1
+Protein design,1
+4-galactanase from myceliophthora thermophila,1
+Mtgal,1
+Gh53,1
+Differential scanning calorimetry,1
+Conductive cotton,1
+Dsc,1
+Polyaniline,1
 Computational prediction,1
 Carbohydrate active enzyme database,1
 4-galactanase from aspergillus aculeatus,1
+Hymenaea courbaril,1
 Aagal,1
-Azurine-crosslinked galactan,1
-Azcl-galactan,1
-Natural mediators,1
-Melanin,1
-Mediator,1
-Guaiacol,1
-Basi-laccase cclcc5,1
-Asco-laccase mtl,1
-Mdf,1
-Ca-lignosulfonate,1
-6-dimethoxyphenol,1
-2,1
-Bio-coloration,1
-Cellulolytic cocktail improvement,1
-Docking simulation,1
-Lignin degrading enzymes,1
-Rna polymerase,1
-Hybrid,1
-Decalin,1
-Anticancer,1
-Polyketide-amino acid,1
-Bacillus subtilis subsp. subtilis jjbs250,1
+Tempo,1
+Trametes versicolor,1
 Phenol biodegradation,1
+Fixed bioreactor,1
+Fuel cells,1
+Heterologous protein expression,1
+Enzyme electrodes,1
+Aryl-alcohol oxidase,1
+Lignin-degrading enzymes,1
+Aaox,1
+Aa3,1
+Process optimization,1
+Biografting,1
+Phenols,1
+Ppo,1
+Catechol oxidase,1
+Basidiomycota,1
+Ascomycota,1
+Agaricus bisporus,1
+Phenol grafting,1
+Oxidation product,1
+Different fungal species,1
+Gum arabic,1
+Kinetics,1
+Cytotoxicity,1
+Dye,1
+Pretreated corn cobs,1
+Ethyl ferulate,1
+Bacillus subtilis subsp. subtilis jjbs250,1
+Scale-up,1
+Packing density,1
+Azurine-crosslinked galactan,1
+Beta-xylosidase,1
+Oxygen reduction,1
+Electron microscopy (em),1
+Rna-dependent rna polymerase,1
+Rna polymerase,1
+Rna interference (rnai),1
 Wound enzymes,1
 Chitosan hydrogel,1
 Anti-oxidant,1
-Anti-inflammatory,1
-X-ray crystallography,1
-Protein evolution,1
-Electron microscopy (em),1
-Rna-dependent rna polymerase,1
-Rna interference (rnai),1
-Surface modifacation,1
-Polyaniline,1
-Conductive cotton,1
-Coatings,1
-1-hydroxybenzotriazol (hbt),1
-Pectin,1
-Trimeric influenza hemagglutinin,1
-Targeted influenza hemagglutinin,1
-Recombinant protein expression,1
-Influenza vaccine,1
-Thermothelomyces heterothallica c1,1
-Beta-xylosidase,1
-Reducing agent,1
-Improved production,1
-Hydrolytic activity,1
-Grafting,1
-Nucleocytoplasmic transport,1
-Immobead 150p,1
-Pretreated corn cobs,1
-Transporter,1
-Molecular dynamics (md) simulation,1
-Mitochondrial carrier family (mcf),1
-Cardiolipin (cl),1
-Adp/atp carrier (aac),1
-Real time assay,1
-Phenoxy radicals in lignin,1
-Laccase kinetics,1
-Epr,1
-Dose-response treatment,1
-Thielavia terrestris,1
-Oxygen consumption rate,1
-Single and mixed fungal species cultivation,1
-Sequential solid state and submerged cultivation,1
-Different fungal species,1
-Aspergillus terreus,1
-Fusarium sp.,1
-Fungal laccase,1
-Eucalypt,1
-Central composite design,1
-Bacterial laccase,1
-Thielavia australiensis,1
-H2o2,1
-Enzyme assay,1
-Corn stover,1
-Fungal biotechnology,1
-Enzyme hypersecretion,1
-Neurospora crassa,1
-F-box proteins,1
-Cazyme gene regulation,1
-Aspergillus fumigatus,1
-Chaetosartorya cremea,1
-Thermodynamics,1
-Fed-batch fermentation,1
 Safety,1
-Poultry,1
-4-beta-d-mannanase,1
-Endo-1,1
-Digestibility enhancers,1
-Natupulse(r),1
-Bioprospecting,1
-Tamarindus indica,1
-Hymenaea courbaril,1
-Kinetic analysis,1
-Process optimization,1
-Lignin-degrading enzymes,1
-Heterologous protein expression,1
-Fungal enzyme production,1
-Kinetics,1
-Malbranchea cinamomea,1
-Biografting,1
-Ethyl ferulate,1
-Dye,1
-Cytotoxicity,1
-Gene expression,1
-Expression optimization,1
-Saccharomyces cerevisiae,1
-Post-treatment modification/functionalization,1
-Nanocellulose,1
-Lpmo biocatalysis,1
-Talaromyces leycettanus,1
-Soy spent flake,1
-Soy polysaccharides,1
-Penicillium citrinum,1
-Food protein,1
-Antioxidant peptide,1
-Amino acid composition,1
-Solid media,1
-Gene editing,1
-Filamentous fungus,1
-Depolymerisation,1
-Macromolecular assemblages,1
-S. cerevisiae,1
-Selection-free gene targeting,1
-Rnp,1
-Multiplexing,1
-Cpf1,1
-Cell factory,1
-Cas9,1
-Cas12a,1
-Crispr,1
-Cazymes,1
-Productivity,1
-Microwaves,1
-Myceliophtora sp,1
-Pcbs,1
-Mycoremediation,1
-Bioaugmentation,1
-Ascomycetous strains,1
-Structural analysis,1
-Reaction kinetics,1
-Nad-dependent fdh,1
-Metal ion effect,1
-Renatured xanthan,1
-Hpsec,1
-Degree of substitution,1
-Conformation,1
-Circular dichroism,1
-In vivo grna transcription,1
-Cryopreservation,1
-Freezing,1
-Long-term preservation,1
-Heat-tolerant fungi,1
-Glycerol,1
-Viscosity reduction,1
-Marine fungi,1
-Hygromycin b phosphotransferase gene hph,1
-Glycoside hydrolases,1
-Electroporation,1
-Paenibacillus odorifer,1
-Molecular dynamics,1
-Gh74,1
-Wood,1
-Pilot scale,1
-Medium-density fiberboards,1
-Eucalyptus globulus,1
-Oleuropein aglycones,1
-Oleuropein,1
-Hydroxytyrosol,1
-Enzymatic tailoring,1
-Elenolic acid,1
-Myceliophthora thermophile laccase,1
-Isocyanide,1
-Epoxy-functionalized supports,1
-Thermostable enzymes,1
-Experimental design,1
-Enzyme mixture,1
-Sub-culturing,1
-Preservation,1
-Lyophilization,1
-Low temperature,1
-Insect,1
-Aqueous systems,1
-Antifungal activity,1
-Fumaric acid,1
-High-throughput screening,1
-Directed evolution,1
-Sugar uptake,1
-Rnai,1
-Beta-mannanase,1
-Thermotolerant,1
-Synergism,1
-Platform,1
-Myceliophthora thermophile,1
-Mhglaa,1
-Co-expression,1
-2a peptide,1
-Reductive tca,1
-Amyr,1
-Chitinase,1
-Beta-n-acetylglucosaminidase,1
-Enzyme,1
-Purification,1
-Production,1
-Poultry feed,1
-Nutrition,1
-Industrially relevant fungi,1
-Cel7a,1
-Bicovalent,1
-Pyrogallol,1
-Gallic acid,1
-Enzymatic oligomerization,1
-Catechol,1
-Library,1
-Cre1,1
-Rna interference,1
-Crispr-cas12a,1
-Amperometric response,1
-Xylanases,1
-Expression,1
-Wastewater,1
-Toxicity,1
-Pbmcs,1
-Laccases,1
-Trehalase,1
-Multi-copy,1
-Ethanol fermentation,1
-Glycoside hydrolase family 74,1
-Mass spectrometry,1
-Carbohydrate-active enzymes,1
-Biomass degradation,1
-Mass spectrometry (ms),1
-Escherichia coli,1
-Enzyme stability,1
-Enzyme activity,1
-Co2-fixation,1
-Cbb cycle,1
-Spray dryer,1
-Multivariate analysis,1
-Collagenolytic protease,1
-Box-behnken,1
-Penicillium verruculosum,1
-Modeling,1
-Marker recycling,1
-Chito-oligosaccharides,1
-Oligosaccharide,1
-Hydrogen peroxide,1
-Alkalistable,1
-Consolidated bioprocessing,1
-C4-diacid,1
-Biochemicals,1
-Deep eutectic solvent,1
-Crystallization,1
-Secretome composition,1
-Cellulose oxidation,1
-Transcriptomics,1
-Genome-scale metabolic model,1
-Thermostable cellulose,1
-Solvent tolerance,1
-Recombinant cellobiohydrolase,1
-Extremozyme,1
-Xylanolytic regulator,1
-Carbohydrate processing,1
-Xylan degradation,1
-Pentose catabolism,1
-Reduction,1
-Oxidative cleavage,1
-Mass spectrometric fragmentation,1
-Lpmos,1
-Active site segment,1
-Solid-state cultivation,1
-Logistic model,1
-Growth kinetics,1
-Hydrolytic enzymes,1
-Biotechnological applications,1
-Sporotrichum thermophile,1
-3d protein structure,1
-Homology modelling,1
-6-phosphofructo-2-kinase/fructose-2,1
-6-biphosphatase,1
-Carbohydrate,1
-Green processing,1
-Biocatalyzed polymerization,1
-Weimberg pathway,1
-D-xylose dehydrogenase,1
-D-xylose,1
-1.2.4-butanetriol,1
-Rice straw,1
-Thermostable,1
-Glucose and ethanol tolerance,1
-Precise engineering,1
-Cytosine base editor,1
-Base editing,1
-Mtclr-2,1
-Cellulase production,1
-Mtcbh-1,1
-Mttrc-1,1
-Mthac-1,1
-Er stress,1
-Structure modelling,1
-Principal component analysis (pca),1
-Md simulation,1
-Galactose utilization,1
-Galactose transport,1
-Mtalp1,1
-Metabolic regulation,1
-Glycolysis,1
-Cyclic voltammetry,1
-Mtperii peroxidase,1
-Antibacterial activity,1
-Functional properties,1
-Balb/c mice,1
-Invasive pulmonary infection,1
-Antifungal susceptibility testing,1
-Acute lymphoblastic leukemia,1
-Thermo-alkali-stable endoglucanase,1
-Constitutive expression,1
-Codon optimization,1
-Plating-free,1
-Flow cytometry,1
-Morphine,1
-Elimination,1
-Glyco-phenol,1
-Glucosamine,1
-Protein rewiring;,1
-Anti-proliferative,1
-Myceliophthora;,1
-Malate export,1
-C4-dicarboxylic acid;,1
-Modification,1
-Lignosulfonate,1
-Hydrophobicity,1
-Fluorophenol,1
-Coupling,1
-Coating,1
-Glucuronic acid recognition,1
-Acidic xylooligosaccharides,1
-Phenolic compound extraction,1
-Bamboo tablets,1
-C-tag,1
-Cho-cell,1
-Covid-19,1
-Igg,1
-Hermetia illucens,1
+Anti-inflammatory,1
+Bacterial laccase,1
+Thermodynamics,1
+Immobead 150p,1
+Grafting,1
+Zootechnical additives,1
 Zoonotic,1
 Virus,1
 Variants of concern,1
@@ -519,9 +195,327 @@ Insect cells,1
 Glycosylation,1
 Glycoprotein,1
 Glycans,1
+Poultry,1
+Protein evolution,1
+Tamarindus indica,1
+X-ray crystallography,1
+Surface modifacation,1
+Lignin degrading enzymes,1
+Docking simulation,1
+Hybrid,1
+Decalin,1
+Anticancer,1
+Polyketide-amino acid,1
+Mediator,1
+Bioprospecting,1
+Guaiacol,1
+Basi-laccase cclcc5,1
+Asco-laccase mtl,1
+Natupulse(r),1
+Mdf,1
+Sequential solid state and submerged cultivation,1
+Ca-lignosulfonate,1
+Digestibility enhancers,1
+Endo-1,1
+4-beta-d-mannanase,1
+6-dimethoxyphenol,1
+Insect,1
+Depolymerisation,1
+Antifungal activity,1
+Antibacterial activity,1
+Hermetia illucens,1
+Pectin,1
+Single and mixed fungal species cultivation,1
+Glucose oxidation,1
+Redox chemistry,1
+Epr,1
+Sub-culturing,1
+Molecular dynamics (md) simulation,1
+Transporter,1
+Eucalypt,1
+Preservation,1
+Lyophilization,1
+Low temperature,1
+Long-term preservation,1
+Freezing,1
+Cryopreservation,1
+Solid media,1
+Productivity,1
+Myceliophtora sp,1
+Pcbs,1
+Cazyme gene regulation,1
+F-box proteins,1
+Mycoremediation,1
+Bioaugmentation,1
+Ascomycetous strains,1
+Wood,1
+Pilot scale,1
+Medium-density fiberboards,1
+Eucalyptus globulus,1
+Paenibacillus odorifer,1
+Molecular dynamics,1
+Gh74,1
+Neurospora crassa,1
+Oleuropein aglycones,1
+Mitochondrial carrier family (mcf),1
+Glycerol,1
+Hydroxytyrosol,1
+Cardiolipin (cl),1
+Laccase kinetics,1
+Phenoxy radicals in lignin,1
+H2o2,1
+Enzyme assay,1
+Real time assay,1
+Fungal laccase,1
+Aspergillus fumigatus,1
+Aspergillus terreus,1
+Corn stover,1
+Chaetosartorya cremea,1
+Thielavia australiensis,1
+Thielavia terrestris,1
+Malbranchea cinamomea,1
+Penicillium citrinum,1
+Oxygen consumption rate,1
+Thermostable enzymes,1
+Soy polysaccharides,1
+Experimental design,1
+Soy spent flake,1
+Enzyme mixture,1
+Nucleocytoplasmic transport,1
+Macromolecular assemblages,1
+S. cerevisiae,1
+Talaromyces leycettanus,1
+Adp/atp carrier (aac),1
+Microwaves,1
+Heat-tolerant fungi,1
+Oleuropein,1
+Enzyme hypersecretion,1
+Direct electron transfer,1
+Metal ion effect,1
+Hygromycin b phosphotransferase gene hph,1
+Glycoside hydrolases,1
+Electroporation,1
+Secondary effluent,1
+Kinetic analysis,1
+Micropollutants,1
+Fumed silica nanoparticles,1
+Trimeric influenza hemagglutinin,1
+Fed-batch fermentation,1
+Targeted influenza hemagglutinin,1
+Recombinant protein expression,1
+Influenza vaccine,1
+Thermothelomyces heterothallica c1,1
+Selection-free gene targeting,1
+Rnp,1
+Multiplexing,1
+Cpf1,1
+Cell factory,1
+Fungal enzyme production,1
+Cas9,1
+Cas12a,1
+Central composite design,1
+Crispr,1
+Multicopper oxidase,1
+Ftacv,1
+Fusarium sp.,1
+Epinephrine,1
+Marine fungi,1
+Nad-dependent fdh,1
+Enzymatic tailoring,1
+Post-treatment modification/functionalization,1
+Elenolic acid,1
+Renatured xanthan,1
+Hpsec,1
+Degree of substitution,1
+Fungal biotechnology,1
+Saccharomyces cerevisiae,1
 Dyadic,1
+Circular dichroism,1
+Expression optimization,1
+Viscosity reduction,1
+Food protein,1
+Antioxidant peptide,1
+Amino acid composition,1
+Myceliophthora thermophile laccase,1
+Isocyanide,1
+Epoxy-functionalized supports,1
+Gene expression,1
+In vivo grna transcription,1
+Gene editing,1
+Lpmo biocatalysis,1
+Filamentous fungus,1
+Cazymes,1
+Nanocellulose,1
+N-glycosylation,1
+Cloning,1
+Structural analysis,1
+Reaction kinetics,1
+Conformation,1
+Biomolecules,1
 Biomanufacturing,1
+Carbohydrate processing,1
+Biomass degradation,1
+Beta-mannanase,1
+Thermotolerant,1
+Synergism,1
+Trehalase,1
+Multi-copy,1
+Ethanol fermentation,1
+Platform,1
+Myceliophthora thermophile,1
+Mhglaa,1
+Co-expression,1
+2a peptide,1
+Industrially relevant fungi,1
+Cel7a,1
+Rnai,1
+Beta-n-acetylglucosaminidase,1
+Chito-oligosaccharides,1
+Chitinase,1
+Pyrogallol,1
+Gallic acid,1
+Enzymatic oligomerization,1
+Catechol,1
+Green processing,1
+Biocatalyzed polymerization,1
+Enzyme,1
+Sugar uptake,1
+Bicovalent,1
+Rice straw,1
+Amyr,1
+Carbohydrate-active enzymes,1
+Mass spectrometry,1
+Fungal growth,1
+Mesoporous silicates,1
+Glucan,1
+Flavonoids,1
+Electron donor,1
+Rna interference,1
+Cre1,1
+Co2-fixation,1
+Cbb cycle,1
+Glycoside hydrolase family 74,1
+Xanthan conformation,1
+Position of acetyl groups,1
+Enzymatic deacetylation,1
+Axe3,1
+Stabilisation,1
+Immobilisation,1
+Gene regulation,1
+Chemical modification,1
+Penicillium verruculosum,1
+Modeling,1
+Molecular mechanism,1
+Enzyme engineering,1
+Disulfide bond,1
+Biomass conversion,1
+Marker recycling,1
+Crispr-cas12a,1
+Library,1
+High-throughput screening,1
+Directed evolution,1
+Laea,1
+Oligosaccharide,1
+Carbohydrate,1
+Collagenolytic protease,1
+Reductive tca,1
+Galactose utilization,1
+Galactose transport,1
+Consolidated bioprocessing,1
+C4-diacid,1
+Biochemicals,1
+Secretome composition,1
+Cellulose oxidation,1
+Thermostable cellulose,1
+Solvent tolerance,1
+Recombinant cellobiohydrolase,1
+Extremozyme,1
+Alkalistable,1
+Transcriptomics,1
+Genome-scale metabolic model,1
+Mtalp1,1
+Xylanolytic regulator,1
+Xylan degradation,1
+Pentose catabolism,1
+Reduction,1
+Oxidative cleavage,1
+Mass spectrometric fragmentation,1
+Lpmos,1
+Active site segment,1
+Solid-state cultivation,1
+Logistic model,1
+Growth kinetics,1
+Hydrolytic enzymes,1
+Biotechnological applications,1
+Sporotrichum thermophile,1
+Crystallization,1
+Deep eutectic solvent,1
+Er stress,1
+Thermostable,1
+Fumaric acid,1
+Purification,1
+Production,1
+Poultry feed,1
+Nutrition,1
+Structure modelling,1
+Principal component analysis (pca),1
+Md simulation,1
+Weimberg pathway,1
+D-xylose dehydrogenase,1
+D-xylose,1
+4-butanetriol,1
+Glucose and ethanol tolerance,1
+Mthac-1,1
+Homology modelling,1
+3d protein structure,1
+Metabolic regulation,1
+Glycolysis,1
+6-biphosphatase,1
+6-phosphofructo-2-kinase/fructose-2,1
+Precise engineering,1
+Cytosine base editor,1
+Base editing,1
+Mtclr-2,1
+Cellulase production,1
+Mtcbh-1,1
+Mttrc-1,1
+Box-behnken,1
+Multivariate analysis,1
 Baculovirus,1
+Polysaccharide monooxygenase,1
+Bio-coloration,1
+Morphine,1
+Elimination,1
+Aqueous systems,1
+Glucuronic acid recognition,1
+Acidic xylooligosaccharides,1
+Anti-proliferative,1
+Rmn,1
+Lc-ms,1
+Protein rewiring;,1
+Myceliophthora;,1
+Malate export,1
+C4-dicarboxylic acid;,1
+Oxaloacetic acid,1
+Malonic acid,1
+A-keto decarboxylase,1
+Polymerisation,1
+Phenolic compound extraction,1
+Bamboo tablets,1
+Bamboo powder,1
+Modification,1
+Lignosulfonate,1
+Hydrophobicity,1
+Fluorophenol,1
+Coupling,1
+Coating,1
+Additives,1
+Invasive pulmonary infection,1
+Antifungal susceptibility testing,1
+Codon optimization,1
+Constitutive expression,1
+Thermo-alkali-stable endoglucanase,1
+Balb/c mice,1
 Antigen,1
 Aluminum-based vaccine adjuvants,1
 Alum,1
@@ -531,49 +525,62 @@ Sars-cov-2,1
 Rbd,1
 K18-hace-2 mice,1
 Igg1 and igg2b,1
-Bamboo powder,1
-Rmn,1
-Fungal growth,1
-Mtlat-1,1
-Class ii peroxidase,1
+Igg,1
+Covid-19,1
+Cho-cell,1
+C-tag,1
+Natural mediators,1
+Flow cytometry,1
+Melanin,1
+Reducing agent,1
+Improved production,1
+Hydrolytic activity,1
+Cellulolytic cocktail improvement,1
+Bioethanol,1
+Glucuronoxylan,1
+Glyco-phenol,1
+Glucosamine,1
+Functional properties,1
+Oxidoreductases * electron transfer,1
+Polyphenol oxidase * monophenol * lytic polysaccharide monooxygenase *,1
+Plating-free,1
+Acute lymphoblastic leukemia,1
+Polysaccharide,1
+Spray dryer,1
+Oxygenase,1
+Butyl ferulate,1
+Ozonolysis,1
+Fungal enzymes,1
+Thermotolerant mutant,1
+Antioxidase,1
+Artp,1
+Mtperii peroxidase,1
+Hydrogen peroxide,1
+Cyclic voltammetry,1
+Amperometric response,1
+Wastewater,1
+Toxicity,1
+Pbmcs,1
+Laccases,1
+Transglycosylation,1
+Thermophilic,1
+Overexpression,1
+Glycoside hydrolase family 3,1
+Ethanol tolerance,1
 Transesterification,1
 Prenyl ferulate,1
 Dpph,1
 Dcfh-da,1
-Agarose,1
-1-ethyl-3-methylimidazolium ethylsulfate,1
-Thermotolerant mutant,1
-Antioxidase,1
-Artp,1
-Viscosity,1
-Transceptor,1
-Signal transduction,1
-Mtara-1,1
-Lc-ms,1
-L-arabinose transport,1
-Hemicellulase,1
-Ozonolysis,1
-Fungal enzymes,1
-Xanthan conformation,1
-Position of acetyl groups,1
-Enzymatic deacetylation,1
-Axe3,1
-Glucan,1
-Flavonoids,1
-Electron donor,1
-Laea,1
-Gene regulation,1
-Polycatechol,1
-Butyl ferulate,1
+Xylanases,1
+Expression,1
+Mass spectrometry (ms),1
+Escherichia coli,1
+Enzyme stability,1
+Enzyme activity,1
 Enzyme immobilisation,1
 Esterification,1
-Additives,1
-Oxaloacetic acid,1
-Malonic acid,1
-A-keto decarboxylase,1
-Polysaccharide monooxygenase,1
-Polysaccharide,1
-Oxygenase,1
+Sba-15,1
+Infant,1
 Metalloprotein,1
 Copper monooxygenase,1
 Copper,1
@@ -583,15 +590,23 @@ Amylose,1
 Ultrasound,1
 Swelling,1
 Peg-fitc,1
-Polymerisation,1
-Recombinant protein,1
-Mycoprotein,1
-Maize alpha-zein,1
-Amaranth albumin a1,1
 Systemic fungal infections,1
 Superficial fungal infections,1
 Prophylaxis,1
 Itraconazole,1
-Infant,1
-Sba-15,1
-Zootechnical additives,1
+Recombinant protein,1
+Class ii peroxidase,1
+Mycoprotein,1
+Maize alpha-zein,1
+Amaranth albumin a1,1
+Agarose,1
+1-ethyl-3-methylimidazolium ethylsulfate,1
+Viscosity,1
+Transceptor,1
+Signal transduction,1
+Mtlat-1,1
+Mtara-1,1
+L-arabinose transport,1
+Hemicellulase,1
+Polycatechol,1
+Secretome,1
