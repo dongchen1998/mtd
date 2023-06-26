@@ -1,0 +1,85 @@
+Sample ID	Series Accession	Title	Condition	PMID
+mt001001	GSE27323	Comparative genomic analysis of the thermophilic biomass-degrading fungi Myceliophthora thermophila and Thielavia terrestris.	wt Barley 34° 	21964414
+mt001002	GSE27323	Comparative genomic analysis of the thermophilic biomass-degrading fungi Myceliophthora thermophila and Thielavia terrestris.	wt Barley 45° 	21964414
+mt001003	GSE27323	Comparative genomic analysis of the thermophilic biomass-degrading fungi Myceliophthora thermophila and Thielavia terrestris.	wt Glucose 34° 	21964414
+mt001004	GSE27323	Comparative genomic analysis of the thermophilic biomass-degrading fungi Myceliophthora thermophila and Thielavia terrestris.	wt Glucose 45° 	21964414
+mt001005	GSE27323	Comparative genomic analysis of the thermophilic biomass-degrading fungi Myceliophthora thermophila and Thielavia terrestris.	wt Alfalfa 45° 	21964414
+mt002001	GSE57235	Transcriptome and exoproteome analysis of utilization of plant-derived biomass by Myceliophthora thermophila.	wt Oat 45° early growth stage	24881579
+mt002002	GSE57235	Transcriptome and exoproteome analysis of utilization of plant-derived biomass by Myceliophthora thermophila.	wt Triticale 45° early growth stage	24881579
+mt002003	GSE57235	Transcriptome and exoproteome analysis of utilization of plant-derived biomass by Myceliophthora thermophila.	wt Canola 45° early growth stage	24881579
+mt002004	GSE57235	Transcriptome and exoproteome analysis of utilization of plant-derived biomass by Myceliophthora thermophila.	wt Flax 45° early growth stage	24881579
+mt003001	GSE110062	Transcriptional analysis of Myceliophthora thermophila on soluble starch and role of regulator AmyR on polysaccharide degradation.	wt NoCarbon 45° 4h	29843921
+mt003002	GSE110062	Transcriptional analysis of Myceliophthora thermophila on soluble starch and role of regulator AmyR on polysaccharide degradation.	wt Glucose 45° 4h	29843921
+mt003003	GSE110062	Transcriptional analysis of Myceliophthora thermophila on soluble starch and role of regulator AmyR on polysaccharide degradation.	wt Starch 45° 4h	29843921
+mt004001	GSE137286	Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism.	wt Glucose 37° 2h	31534479
+mt004002	GSE137286	Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism.	wt Xylose 37° 2h	31534479
+mt004003	GSE137286	Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism.	wt Arabinose 37° 2h	31534479
+mt004004	GSE137286	Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism.	wt Arabinoxylan 37° 2h	31534479
+mt004005	GSE137286	Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism.	wt Arabinoxylan 37° 8h	31534479
+mt004006	GSE137286	Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism.	Xyr1 mutant Glucose 37° 2h	31534479
+mt004007	GSE137286	Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism.	Xyr1 mutant Xylose 37° 2h	31534479
+mt004008	GSE137286	Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism.	Xyr1 mutant Arabinose 37° 2h	31534479
+mt004009	GSE137286	Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism.	Xyr1 mutant Arabinoxylan 37° 2h	31534479
+mt004010	GSE137286	Myceliophthora thermophila Xyr1 is predominantly involved in xylan degradation and xylose catabolism.	Xyr1 mutant Arabinoxylan 37° 8h	31534479
+mt005001	GSE111986	CLR-4, a novel conserved transcription factor for cellulase gene expression in ascomycete fungi.	Mtclr NoCarbon 45° 4h	30474279
+mt005002	GSE111986	CLR-4, a novel conserved transcription factor for cellulase gene expression in ascomycete fungi.	wt NoCarbon 45° 4h	30474279
+mt006001	GSE114057	Direct production of commodity chemicals from lignocellulose using Myceliophthora thermophila.	wt Avicel 45° 2 or 4d	31078793
+mt006002	GSE114057	Direct production of commodity chemicals from lignocellulose using Myceliophthora thermophila.	JG141 Avicel 45° 2 or 4d	31078793
+mt006003	GSE114057	Direct production of commodity chemicals from lignocellulose using Myceliophthora thermophila.	JG207 Avicel 45° 2 or 4d	31078793
+mt006004	GSE114057	Direct production of commodity chemicals from lignocellulose using Myceliophthora thermophila.	JG207Ncclr2 Avicel 45° 2 or 4d	31078793
+mt006005	GSE114057	Direct production of commodity chemicals from lignocellulose using Myceliophthora thermophila.	JG336 Avicel 45° 2 or 4d	31078793
+mt006006	GSE114057	Direct production of commodity chemicals from lignocellulose using Myceliophthora thermophila.	wt Glucose 45° 2 or 4d	31078793
+mt006007	GSE114057	Direct production of commodity chemicals from lignocellulose using Myceliophthora thermophila.	JG207 Glucose 45° 2 or 4d	31078793
+mt007001	GSE165516	Transcriptional Profiling of Myceliophthora thermophila on Galactose and Metabolic Engineering for Improved Galactose Utilization.	wt NoCarbon 45° 4h	33995328
+mt007002	GSE165516	Transcriptional Profiling of Myceliophthora thermophila on Galactose and Metabolic Engineering for Improved Galactose Utilization.	wt Glucose 45° 4h	33995328
+mt007003	GSE165516	Transcriptional Profiling of Myceliophthora thermophila on Galactose and Metabolic Engineering for Improved Galactose Utilization.	wt Galatose 45° 4h	33995328
+mt007004	GSE165516	Transcriptional Profiling of Myceliophthora thermophila on Galactose and Metabolic Engineering for Improved Galactose Utilization.	wt Galatose 45° 4h	33995328
+mt007005	GSE165516	Transcriptional Profiling of Myceliophthora thermophila on Galactose and Metabolic Engineering for Improved Galactose Utilization.	OEgal2 Galatose 45° 4h	33995328
+mt007006	GSE165516	Transcriptional Profiling of Myceliophthora thermophila on Galactose and Metabolic Engineering for Improved Galactose Utilization.	OEgal2 Galatose 45° 4h	33995328
+mt009001	GSE214142	PFK2/FBPase-2 is a potential target for metabolic engineering in the filamentous fungus Myceliophthora thermophila.	wt Glucose 45° 2d	36478865
+mt009002	GSE214142	PFK2/FBPase-2 is a potential target for metabolic engineering in the filamentous fungus Myceliophthora thermophila.	wt Glucose 45° 4d	36478865
+mt009003	GSE214142	PFK2/FBPase-2 is a potential target for metabolic engineering in the filamentous fungus Myceliophthora thermophila.	Δpfk2 Glucose 45° 2d	36478865
+mt009004	GSE214142	PFK2/FBPase-2 is a potential target for metabolic engineering in the filamentous fungus Myceliophthora thermophila.	Δpfk2 Glucose 45° 4d	36478865
+mt009005	GSE214142	PFK2/FBPase-2 is a potential target for metabolic engineering in the filamentous fungus Myceliophthora thermophila.	Δpfk2 Glucose 45° 2d	36478865
+mt009006	GSE214142	PFK2/FBPase-2 is a potential target for metabolic engineering in the filamentous fungus Myceliophthora thermophila.	Δpfk2 Glucose 45° 2d	36478865
+mt009007	GSE214142	PFK2/FBPase-2 is a potential target for metabolic engineering in the filamentous fungus Myceliophthora thermophila.	Δpfk2 Glucose 45° 4d	36478865
+mt009008	GSE214142	PFK2/FBPase-2 is a potential target for metabolic engineering in the filamentous fungus Myceliophthora thermophila.	Δpfk2 Glucose 45° 2d	36478865
+mt009009	GSE214142	PFK2/FBPase-2 is a potential target for metabolic engineering in the filamentous fungus Myceliophthora thermophila.	Δpfk2 Glucose 45° 4d	36478865
+mt010001	GSE184074	Reconstruction and analysis of genome-scale metabolic model for thermophilic fungus Myceliophthora thermophila.	wt Glucose 35° 66h	35257374
+mt010002	GSE184074	Reconstruction and analysis of genome-scale metabolic model for thermophilic fungus Myceliophthora thermophila.	wt Glucose 40° 40h	35257374
+mt010003	GSE184074	Reconstruction and analysis of genome-scale metabolic model for thermophilic fungus Myceliophthora thermophila.	wt Glucose 45° 40h	35257374
+mt010004	GSE184074	Reconstruction and analysis of genome-scale metabolic model for thermophilic fungus Myceliophthora thermophila.	wt Glucose 50° 40h	35257374
+mt011001	GSE205182	MtTRC-1, a Novel Transcription Factor, Regulates Cellulase Production via Directly Modulating the Genes Expression of the Mthac-1 and Mtcbh-1 in Myceliophthora thermophila.	ΔMycth_90344 Avicel 45° 4h	36165620
+mt011002	GSE205182	MtTRC-1, a Novel Transcription Factor, Regulates Cellulase Production via Directly Modulating the Genes Expression of the Mthac-1 and Mtcbh-1 in Myceliophthora thermophila.	ΔMycth_90344 Avicel 45° 6h	36165620
+mt011003	GSE205182	MtTRC-1, a Novel Transcription Factor, Regulates Cellulase Production via Directly Modulating the Genes Expression of the Mthac-1 and Mtcbh-1 in Myceliophthora thermophila.	ΔMycth_90344 Starch 45° 4h	36165620
+mt011004	GSE205182	MtTRC-1, a Novel Transcription Factor, Regulates Cellulase Production via Directly Modulating the Genes Expression of the Mthac-1 and Mtcbh-1 in Myceliophthora thermophila.	wt Avicel 45° 4h	36165620
+mt011005	GSE205182	MtTRC-1, a Novel Transcription Factor, Regulates Cellulase Production via Directly Modulating the Genes Expression of the Mthac-1 and Mtcbh-1 in Myceliophthora thermophila.	wt Avicel 45° 6h	36165620
+mt011006	GSE205182	MtTRC-1, a Novel Transcription Factor, Regulates Cellulase Production via Directly Modulating the Genes Expression of the Mthac-1 and Mtcbh-1 in Myceliophthora thermophila.	wt Starch 45° 4h	36165620
+mt012001	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	wt Glucose 45° 24h	37013645
+mt012002	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	ΔlaeA Glucose 45° 24h	37013645
+mt012003	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	Δgrf Glucose 45° 24h	37013645
+mt012004	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	Δgrf Glucose 45° 24h	37013645
+mt012005	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	Δgrf Glucose 45° 24h	37013645
+mt012006	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	Δcre Glucose 45° 24h	37013645
+mt012007	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	wt Avicel 45° 2d	37013645
+mt012008	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	ΔlaeA Avicel 45° 2d	37013645
+mt012009	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	wt Avicel 45° 4d	37013645
+mt012010	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	ΔlaeA Avicel 45° 4d	37013645
+mt012011	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	wt Avicel 45° 6d	37013645
+mt012012	GSE213570	The putative methyltransferase LaeA regulates mycelium growth and cellulase production in Myceliophthora thermophila.	ΔlaeA Avicel 45° 6d	37013645
+mt013001	GSE214002	The Weimberg pathway: an alternative for Myceliophthora thermophila to utilize D-xylose.	JG207 Xylose 45° 4h	36691040
+mt013002	GSE214002	The Weimberg pathway: an alternative for Myceliophthora thermophila to utilize D-xylose.	DF1102 Xylose 45° 4h	36691040
+mt013003	GSE214002	The Weimberg pathway: an alternative for Myceliophthora thermophila to utilize D-xylose.	DF1406 Xylose 45° 4h	36691040
+mt013004	GSE214002	The Weimberg pathway: an alternative for Myceliophthora thermophila to utilize D-xylose.	DF1501 Xylose 45° 4h	36691040
+mt014001	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	wt NoCarbon 45° 4h	36966330
+mt014002	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	wt Glucose 45° 4h	36966330
+mt014003	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	wt Xylose 45° 4h	36966330
+mt014004	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	wt Aarabinose 45° 4h	36966330
+mt014005	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	wt Arabinan 45° 2d	36966330
+mt014006	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	wt Arabinan 45° 4d	36966330
+mt014007	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	MtLat-1 Arabinan 45° 2d	36966330
+mt014008	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	MtLat-1 Arabinan 45° 4d	36966330
+mt014009	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	MtAra Aarabinose 45° 4h	36966330
+mt014010	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	MtAra Xylose 45° 4h	36966330
+mt014011	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	MtAra Arabinan 45° 4h	36966330
+mt014012	GSE221464	The arabinose transporter MtLat-1 is involved in hemicellulase repression as a pentose transceptor in Myceliophthora thermophila.	wt Arabinan 45° 4h	36966330
